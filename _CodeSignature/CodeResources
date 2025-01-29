@@ -4,217 +4,389 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>FBDialog.bundle/images/close.png</key>
-		<data>
-		lPlIbbW7NpLV1mLzR5iSJbYh4Do=
-		</data>
-		<key>FBDialog.bundle/images/close@2x.png</key>
-		<data>
-		i9lYZZOBgyVfCZZ5Vlclzb5W9II=
-		</data>
-		<key>FBDialog.bundle/images/fbicon.png</key>
-		<data>
-		O10PJ3vPkAdypNUGk3PgmTOlWLg=
-		</data>
 		<key>FeedbackResources.bundle/FeedbackResources</key>
 		<data>
-		0iU/DA7gj/J99qOlFomyUlaOMdE=
+		+40M22zpgHe9g0r1km6MFgjIIh0=
 		</data>
 		<key>FeedbackResources.bundle/GIPFeedbackLogViewer.nib</key>
 		<data>
-		hbbgohqY3jR2Ww8po8c3YowG8No=
+		1lBtGWg9RZi0Ol2MEqH/wPCRigc=
 		</data>
 		<key>FeedbackResources.bundle/GIPFeedbackMainCells.nib</key>
 		<data>
-		xy2lpb7UqZMqDci5JoeI6ajdSl8=
+		laj1WviWL5kruEtGc0Ds3MWCgpQ=
 		</data>
 		<key>FeedbackResources.bundle/GIPFeedbackMainController.nib</key>
 		<data>
-		jdIe08b7hQB9OYwbJ7ldvLHEVIc=
+		Xv25FjtkeMgOGmFlf3VFBHh9Rl0=
 		</data>
 		<key>FeedbackResources.bundle/GIPFeedbackPreviewViewController.nib</key>
 		<data>
-		tZ9AUjt1+1xweXMQ9Y3ow/Oduic=
+		kKYfJn6XwsLxyDcYhYenoPkB0Z8=
 		</data>
 		<key>FeedbackResources.bundle/GIPFeedbackSampleViewController.nib</key>
 		<data>
-		0VWQoyCIJyPLR29CaatEzrxTx5Y=
+		z1/IVaeYCDGUfhtK3jsH2LAkDEo=
 		</data>
 		<key>FeedbackResources.bundle/GIPFeedbackScreenshotCell.nib</key>
 		<data>
-		EE/fIEEleZ9XnJ5vu9k09aY7WBk=
+		w3NhuyPos1HS0vUIkqyY7hfjmfo=
 		</data>
 		<key>FeedbackResources.bundle/ar.lproj/GIPFeedback.strings</key>
 		<data>
-		LtJ2zjdYuxsV+6vViJHW/SbyRbg=
+		coZ6TdG5Rfy8rHGfp/toX6eL1UY=
 		</data>
 		<key>FeedbackResources.bundle/bg.lproj/GIPFeedback.strings</key>
 		<data>
-		RMhNDbxa7FBnqlb5mMANfkYvATU=
+		P/MJ72mpRPjjazTUuL0Tw/Rms0U=
 		</data>
 		<key>FeedbackResources.bundle/ca.lproj/GIPFeedback.strings</key>
 		<data>
-		Ggpx0/XxMYoQkxx80hmuSGBDP5M=
+		z8KA+4BPWGrNer2GblcEGtBm/fg=
 		</data>
 		<key>FeedbackResources.bundle/cs.lproj/GIPFeedback.strings</key>
 		<data>
-		BvmitJmBlxDChwaCjuYDOVX5LmE=
+		1sSWnY8jjc/qv38fvRollIm37jg=
 		</data>
 		<key>FeedbackResources.bundle/da.lproj/GIPFeedback.strings</key>
 		<data>
-		AcKbJ2ZnAAHJ3PVp29ABXU2iXWY=
+		j+bvAtYmpHUNAMTZdHDnKmZFwJs=
 		</data>
 		<key>FeedbackResources.bundle/de.lproj/GIPFeedback.strings</key>
 		<data>
-		AWQ7BRiooTrxA6ltzIZvRxghXwk=
+		oTX4Sjo3QGx7eULQzHb03CoO7nM=
 		</data>
 		<key>FeedbackResources.bundle/el.lproj/GIPFeedback.strings</key>
 		<data>
-		97BYSVtJvlp/x2YUuiAp49djTmQ=
+		Uy6iLEcI/KvdlZojUTTyWnjpwEg=
 		</data>
 		<key>FeedbackResources.bundle/en.lproj/GIPFeedback.strings</key>
 		<data>
-		wRWQWHnrtHwES6M1EGFzugNMGDg=
+		3zob/yMp6N8jY94ZneICbKr+3aE=
 		</data>
 		<key>FeedbackResources.bundle/en_GB.lproj/GIPFeedback.strings</key>
 		<data>
-		SQqxvkYLcNsIt9dXKt/zxXWXmcI=
+		ybgVklbDo8EPVEm2sCM3FP+BepM=
 		</data>
 		<key>FeedbackResources.bundle/es.lproj/GIPFeedback.strings</key>
 		<data>
-		In5/nmla6h7RfFCZM7P6PaBJu7Q=
+		DfEknyCpCZLJANdDuC+lUp5mhnA=
 		</data>
 		<key>FeedbackResources.bundle/feedback-text-field-bg.png</key>
 		<data>
-		dfUTSidObGF+R1f2Ot3wT4DTtsE=
+		7xAKHR9nvnL7xg3zkVl1CvhaK8A=
 		</data>
 		<key>FeedbackResources.bundle/fi.lproj/GIPFeedback.strings</key>
 		<data>
-		chRzuD9cPNA4aWfHb86KACn2F7s=
+		NfI+amE8cFrsBs0u96GSJvNKn/g=
 		</data>
 		<key>FeedbackResources.bundle/fr.lproj/GIPFeedback.strings</key>
 		<data>
-		mnGAHQMZEcsNvBTcfpJgHeyXozQ=
+		fDrnwXyhvFsXDFN1yH1v4tDGnD0=
+		</data>
+		<key>FeedbackResources.bundle/he.lproj/GIPFeedback.strings</key>
+		<data>
+		rY1EdtWr8p/z67YQjESZexcptb8=
 		</data>
 		<key>FeedbackResources.bundle/hr.lproj/GIPFeedback.strings</key>
 		<data>
-		pMVVpSlFd3eCk+6J3NP8sxLABAU=
+		b6hS2m6OPf4BKm5H10STsWZ9dis=
 		</data>
 		<key>FeedbackResources.bundle/hu.lproj/GIPFeedback.strings</key>
 		<data>
-		iuYVtoOr5XmGBwbkYtgC6VdIrm4=
+		NrhLXMzE/51f5L2Dpjbzy+u6pVc=
 		</data>
 		<key>FeedbackResources.bundle/id.lproj/GIPFeedback.strings</key>
 		<data>
-		9xF7woxWOIsJstaZbtnProtsopg=
+		UpIqD/ADyeo/DhQsFYC8oQfxsZA=
 		</data>
 		<key>FeedbackResources.bundle/it.lproj/GIPFeedback.strings</key>
 		<data>
-		tcpU0BUhGAqQPlkAKps5iYZBGFk=
+		UvDhXrDzHR7ubBqwAOLvGFO5C5Y=
 		</data>
 		<key>FeedbackResources.bundle/iw.lproj/GIPFeedback.strings</key>
 		<data>
-		+6AKP7KlSBp9Yj8xNYXAtK2TTd4=
+		rY1EdtWr8p/z67YQjESZexcptb8=
 		</data>
 		<key>FeedbackResources.bundle/ja.lproj/GIPFeedback.strings</key>
 		<data>
-		XO+zr/RMxsCyGLi3FfoAocEGCFQ=
+		VU1xnhAmjBiDGKxUdCVQ2rJYfw4=
 		</data>
 		<key>FeedbackResources.bundle/ko.lproj/GIPFeedback.strings</key>
 		<data>
-		G+Q3bh1Pa+0jnrQMxm3CgmWfLmo=
+		2cjBX/Y5PRUIltJdw1z2yGbrilI=
 		</data>
 		<key>FeedbackResources.bundle/lt.lproj/GIPFeedback.strings</key>
 		<data>
-		9FEgR+erDf4NjysSgfHE3AB1Fig=
+		tNgb52ZQ/f6S30Z872kXgAMuhZw=
 		</data>
 		<key>FeedbackResources.bundle/lv.lproj/GIPFeedback.strings</key>
 		<data>
-		GCuP1Kg22XpSXFdOK/nss+57ym0=
+		Yrp5TkBKS1HWqDSW8tIBijiF1VE=
+		</data>
+		<key>FeedbackResources.bundle/ms.lproj/GIPFeedback.strings</key>
+		<data>
+		0ukWwYnj32tBGdpXf8s43cqfjl8=
 		</data>
 		<key>FeedbackResources.bundle/nl.lproj/GIPFeedback.strings</key>
 		<data>
-		yEWTGtbi73RXC1J500bLWPwrDIs=
+		mlgG1PkjXvsRKSzj9rcVMPOqZ04=
 		</data>
 		<key>FeedbackResources.bundle/no.lproj/GIPFeedback.strings</key>
 		<data>
-		ELw8h1CZ0RP5aQnPpFDmrOvJxAc=
+		zNST2tYZPZxe66WGsA8H1t0Py4U=
 		</data>
 		<key>FeedbackResources.bundle/pl.lproj/GIPFeedback.strings</key>
 		<data>
-		6xPPXQx+ggZeyTIfHd4bBdUiqe4=
+		6XinsVUbWXPe9Syt0ywurtyatl8=
 		</data>
 		<key>FeedbackResources.bundle/pt.lproj/GIPFeedback.strings</key>
 		<data>
-		HEmJ6kxU9AihfhmycsgjIq6M0Kw=
+		Zxibq1fVdn2dn9PjthneJ4GlR9g=
 		</data>
 		<key>FeedbackResources.bundle/pt_BR.lproj/GIPFeedback.strings</key>
 		<data>
-		HEmJ6kxU9AihfhmycsgjIq6M0Kw=
+		Zxibq1fVdn2dn9PjthneJ4GlR9g=
 		</data>
 		<key>FeedbackResources.bundle/pt_PT.lproj/GIPFeedback.strings</key>
 		<data>
-		jHsnzp4GSaUEPi6QmjqgMzhWW98=
+		E0SUa0M3LTtRc476CKlRER38O7Q=
 		</data>
 		<key>FeedbackResources.bundle/ro.lproj/GIPFeedback.strings</key>
 		<data>
-		kMxQACuTi86jSwTpC8ny2K706yw=
+		3HOjI7LCopIkPXrlzgz56L5hjuk=
 		</data>
 		<key>FeedbackResources.bundle/ru.lproj/GIPFeedback.strings</key>
 		<data>
-		Fw1mhcYc25tsvFmEPbtJwpFeHH4=
+		9Vq7EhZ4usAyU6sDzMTrhTQzbL8=
 		</data>
 		<key>FeedbackResources.bundle/sk.lproj/GIPFeedback.strings</key>
 		<data>
-		J7um4/O6QKZZ+Gzz/RqkyzBml8U=
+		KJWMTIKyxeaDrnXlBYKJSVf28VI=
 		</data>
 		<key>FeedbackResources.bundle/sl.lproj/GIPFeedback.strings</key>
 		<data>
-		WvP6CRg2Skbe/N58KpMf5U8n9/A=
+		6xrGahaXFNhhexx76H+a6HcbAvQ=
 		</data>
 		<key>FeedbackResources.bundle/sr.lproj/GIPFeedback.strings</key>
 		<data>
-		vMg8DGuXIxotEpYQ43M+2iCaGnc=
+		0y2ZlvzLHrYs6vnAmBiBtpdDw7A=
 		</data>
 		<key>FeedbackResources.bundle/sv.lproj/GIPFeedback.strings</key>
 		<data>
-		E62MVlNnpcdCeZw3agqjW7nvUkY=
+		AA/+54HUqSp+jsXEsR4H7TlW7ag=
 		</data>
 		<key>FeedbackResources.bundle/th.lproj/GIPFeedback.strings</key>
 		<data>
-		R+r/9yPa7ohnyQCSzjCOjjkUHeM=
+		67d1HiSUU3FDelmUCBNPsDXeVe8=
 		</data>
 		<key>FeedbackResources.bundle/tr.lproj/GIPFeedback.strings</key>
 		<data>
-		rEjWCcAru+/erPU5fuwJ2m+0Cac=
+		R1zc78sC9MdVC4QX0t0OVsWbQOo=
 		</data>
 		<key>FeedbackResources.bundle/uk.lproj/GIPFeedback.strings</key>
 		<data>
-		3gVkvVlG222DujN5RK/cN79cy6g=
+		YCUEvMzEKPM9885Ie6uXGNlwjRI=
 		</data>
 		<key>FeedbackResources.bundle/vi.lproj/GIPFeedback.strings</key>
 		<data>
-		1ZpeYNSXVKijNZbObkidG2o+OXE=
+		Ba1uPlUZMciZDLl0v5vlHbvi9iM=
 		</data>
 		<key>FeedbackResources.bundle/zh_CN.lproj/GIPFeedback.strings</key>
 		<data>
-		PKT5q6tU1mw1kSa0B1uN5eTtLUY=
+		JNnGNZL+cK/bWEcy0nyflcNAkGE=
 		</data>
 		<key>FeedbackResources.bundle/zh_TW.lproj/GIPFeedback.strings</key>
 		<data>
-		HNXX8oP05QVc4Hnxa1y8fyXZFvA=
+		xBzbL/vIzzSEKrPZqpTpNdrvoSY=
+		</data>
+		<key>GIPKeyboardTogglerResources.bundle/GIPKeyboardTogglerResources</key>
+		<data>
+		pnQqdUh2GQb2FG2w5wvFLpzoWY0=
+		</data>
+		<key>GIPKeyboardTogglerResources.bundle/keyboard.png</key>
+		<data>
+		699O/dZ2TyF5hJSvFfPtwdM03C0=
+		</data>
+		<key>GIPKeyboardTogglerResources.bundle/keyboard@2x.png</key>
+		<data>
+		IyzaDJuJ+5YY4EybpFQoUMzmFs8=
+		</data>
+		<key>GIPKeyboardTogglerResources.bundle/keyboard_arrow_updown.png</key>
+		<data>
+		N+vjs6ydriYqWNArh9CTFscAfpk=
+		</data>
+		<key>GIPKeyboardTogglerResources.bundle/keyboard_arrow_updown@2x.png</key>
+		<data>
+		VZHHOvx0QMQpLft+WPC4B4Ep++A=
+		</data>
+		<key>GIPKeyboardTogglerResources.bundle/keyboard_btn.png</key>
+		<data>
+		YywLhs10PC54uRedWxEd1jng+MI=
+		</data>
+		<key>GIPKeyboardTogglerResources.bundle/keyboard_btn@2x.png</key>
+		<data>
+		5DUqWL6s31Muhhc/p3j3gflwXSY=
+		</data>
+		<key>GIPKeyboardTogglerResources.bundle/keyboard_highlight_btn.png</key>
+		<data>
+		7PV+CilhG0E8pNBzMa/XmGbI5yk=
+		</data>
+		<key>GIPKeyboardTogglerResources.bundle/keyboard_highlight_btn@2x.png</key>
+		<data>
+		1IUWAjngH4esJzH2GBmBIBdkUe4=
+		</data>
+		<key>GIPSearchBarResources.bundle/GIPSearchBarResources</key>
+		<data>
+		fzqFaDnHR0Rne/ZXy3wxSPt4XDs=
+		</data>
+		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-clear-text-field-pressed.png</key>
+		<data>
+		tkSlVlvozLdoaSjdkQ9SpWQbSL0=
+		</data>
+		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-clear-text-field-pressed@2x.png</key>
+		<data>
+		xmuq/XYkaZkUEVfpA/Mrk7GBCY8=
+		</data>
+		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-clear-text-field.png</key>
+		<data>
+		3d4RSGndzVL8ZR0pod7E3QX7RSM=
+		</data>
+		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-clear-text-field@2x.png</key>
+		<data>
+		Hh8tWHIqZZXHWJTZ7UznY9/DQ+8=
+		</data>
+		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-icon-goggles.png</key>
+		<data>
+		mKkjAmoucWOqhjyMkh/Twd0CR6g=
+		</data>
+		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-icon-goggles@2x.png</key>
+		<data>
+		lOBa7bDBCCznc49FwUktOyScmxM=
+		</data>
+		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-icon-voice.png</key>
+		<data>
+		5VtfsJG9UUpefnqfE8ufzure8uE=
+		</data>
+		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-icon-voice@2x.png</key>
+		<data>
+		6wfNTvR04yLXWHSrif2cNdpAc2A=
+		</data>
+		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-searchbox.png</key>
+		<data>
+		/K5Csw1zg7+K9UAjlx/u8CLm958=
+		</data>
+		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-searchbox@2x.png</key>
+		<data>
+		12O0xJViJRK3UL+Cm7RnHMqz+Ss=
+		</data>
+		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-searchtop-separator.png</key>
+		<data>
+		TDPFXLSoGyh/ArbWpLmnK1tSDFA=
+		</data>
+		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-searchtop-separator@2x.png</key>
+		<data>
+		5N4sucMqf1Z3jxxTrJ2TxViq6Bk=
+		</data>
+		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-searchtop-tools-pressed.png</key>
+		<data>
+		5/r7rYeHPI8aMOx9dnKc7Kfgugs=
+		</data>
+		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-searchtop-tools-pressed@2x.png</key>
+		<data>
+		JwVzlL+c97Hq0AQxiFnaMVmlWlU=
+		</data>
+		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-toolbar-background.png</key>
+		<data>
+		aXa01e4YU7Gp3Gr5jwJbmQpnAyA=
+		</data>
+		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-toolbar-background@2x.png</key>
+		<data>
+		LGaCQ3wIYXuBwfFLDXp7hKo6ZNw=
+		</data>
+		<key>GIPSearchBarResources.bundle/goggles-text-token-pressed.png</key>
+		<data>
+		omJQ3FelgQaMHrtuPr05H7soQPE=
+		</data>
+		<key>GIPSearchBarResources.bundle/goggles-text-token-pressed@2x.png</key>
+		<data>
+		BqwvGnTrZAnT1dBn7QkKpQBLSI0=
+		</data>
+		<key>GIPSearchBarResources.bundle/goggles-text-token.png</key>
+		<data>
+		EcDD5y/yqxuFIvsdQSucBa1YItM=
+		</data>
+		<key>GIPSearchBarResources.bundle/goggles-text-token@2x.png</key>
+		<data>
+		BZccx7sOJNYLOc41tVnb5Thai+g=
+		</data>
+		<key>GIPSearchBarResources.bundle/vs-text-token-pressed.png</key>
+		<data>
+		+StlTh0UPS0Lnmv/QJ0KrLrbEx8=
+		</data>
+		<key>GIPSearchBarResources.bundle/vs-text-token-pressed@2x.png</key>
+		<data>
+		ekWIAy3I78H/zckshO29Q6m//Xg=
+		</data>
+		<key>GIPSearchBarResources.bundle/vs-text-token.png</key>
+		<data>
+		GeMPOK1Yy0acEK8Cp0nVtu5mtMU=
+		</data>
+		<key>GIPSearchBarResources.bundle/vs-text-token@2x.png</key>
+		<data>
+		jn3WgSxaU3++shXId+6IzobfjyU=
 		</data>
 		<key>GIPSuperWebViewInit.js</key>
 		<data>
 		mK8x0d4+IPfb74u7e6+w9HRFQik=
 		</data>
+		<key>GIPSuperWebViewResources.bundle/GIPSuperWebViewActionMenu.js</key>
+		<data>
+		vZak2KeQmPCHdj5upQl3kXbCJLc=
+		</data>
+		<key>GIPSuperWebViewResources.bundle/GIPSuperWebViewGps.js</key>
+		<data>
+		XbGhLDM82P7TTmHcENfcvp6ibe8=
+		</data>
+		<key>GIPSuperWebViewResources.bundle/GIPSuperWebViewInit.js</key>
+		<data>
+		mK8x0d4+IPfb74u7e6+w9HRFQik=
+		</data>
+		<key>GIPSuperWebViewResources.bundle/GIPSuperWebViewKeyboard.js</key>
+		<data>
+		BFOF54qTzmzAcwkRFwH/zebW9O8=
+		</data>
+		<key>GIPSuperWebViewResources.bundle/GIPSuperWebViewMediaPicker.js</key>
+		<data>
+		kxJxOu2yuLuJEl4ax2YGIqMVMSg=
+		</data>
+		<key>GIPSuperWebViewResources.bundle/GIPSuperWebViewMessenger.js</key>
+		<data>
+		1etvVlXke72+CwM4noJI22qbCVA=
+		</data>
+		<key>GIPSuperWebViewResources.bundle/GIPSuperWebViewNetworkActivity.js</key>
+		<data>
+		qR8NezRgXd0SzfyFjd6I9XibvTw=
+		</data>
+		<key>GIPSuperWebViewResources.bundle/GIPSuperWebViewResources</key>
+		<data>
+		7S0MGcQ97uVzdDmBC8PZ+FnBtUE=
+		</data>
+		<key>GIPSuperWebViewResources.bundle/GIPSuperWebViewRpc.js</key>
+		<data>
+		nORNT05E85MJFK9U38l/sDnUdEg=
+		</data>
+		<key>GIPSuperWebViewResources.bundle/GIPSuperWebViewSpeech.js</key>
+		<data>
+		oU6W2NN6LS2syZIJfgS9Qw0PmGQ=
+		</data>
 		<key>GIPWebViewResources.bundle/CautionDark.png</key>
 		<data>
-		fHcrzOVbZiPUT4ZXTcgEWnymaYI=
+		CcZT34MuwvZDgqDMORTN7LyDOaU=
 		</data>
 		<key>GIPWebViewResources.bundle/GIPWebViewResources</key>
 		<data>
-		L0EoPkxpKai9ISl3yud5HY024vc=
+		Equ6hi19Flf1KGXPlpUh8bx72rM=
 		</data>
 		<key>GIPWebViewResources.bundle/ar.lproj/GIPWebView.strings</key>
 		<data>
@@ -262,59 +434,59 @@
 		</data>
 		<key>GIPWebViewResources.bundle/gma-icon-back-pressed.png</key>
 		<data>
-		FJYEBlJS1vf1zH/82mG6SLVN4aE=
+		lQNJZ4xKrkP/43DlWiji/vmOW/g=
 		</data>
 		<key>GIPWebViewResources.bundle/gma-icon-back-pressed@2x.png</key>
 		<data>
-		U3LmoK4dal5GBZEr+0lBCjVJ5HM=
+		2kZlOCKLqX/eyLFeCpZsly5AlWY=
 		</data>
 		<key>GIPWebViewResources.bundle/gma-icon-forward-pressed.png</key>
 		<data>
-		y9cOP7+UZyd0Bc8UrGEODy6AdTk=
+		nH2GcAQY58mgcKo4cyEMk+0qQjM=
 		</data>
 		<key>GIPWebViewResources.bundle/gma-icon-forward-pressed@2x.png</key>
 		<data>
-		z5+K1hMd4farFxAXyqfr3QJfWMI=
+		uC4eNv2ICFE02q+OHUBM+jZ5QQs=
 		</data>
 		<key>GIPWebViewResources.bundle/gma-icon-help-toolbar.png</key>
 		<data>
-		/+tcvHMVDaLHcbbhj+XVNCBLY+E=
+		DVq+fgu+W4ie6ZBTjn/Oq/6bbrM=
 		</data>
 		<key>GIPWebViewResources.bundle/gma-icon-help-toolbar@2x.png</key>
 		<data>
-		ehyIATpjr3BWlKT08th0i1RBR88=
+		+uMEmXyHqa9Oxt3F9zig92Htg3Y=
 		</data>
 		<key>GIPWebViewResources.bundle/gma-icon-reload-pressed.png</key>
 		<data>
-		qogjL1SOy6Bxvi8CCkJA14SnS4c=
+		rik87H8QcU/k3wBb7y+RwvVaNJQ=
 		</data>
 		<key>GIPWebViewResources.bundle/gma-icon-reload-pressed@2x.png</key>
 		<data>
-		4uOOeiCdFkxsNYDgcHKxHCaV/hc=
+		Be5TWyC+heggSqCGoCS+YPgQJyY=
 		</data>
 		<key>GIPWebViewResources.bundle/gma-icon-safari-pressed.png</key>
 		<data>
-		WKQmtOhKAG64u5AFNtykWnaMqAM=
+		m3i8rrQN8nxUDXt0O5DJLPS3RKU=
 		</data>
 		<key>GIPWebViewResources.bundle/gma-icon-safari-pressed@2x.png</key>
 		<data>
-		npvMvZiWCvJsCv0hrWdIIALrJ+8=
+		YQk+mmEY+2THFcMF9gTQkt20TAo=
 		</data>
 		<key>GIPWebViewResources.bundle/gma-icon-sendto-pressed.png</key>
 		<data>
-		FrxGMKbEjkEeft1VqK+c9a5kNms=
+		r7sK5kGUmTutWXZgk+Fcc7qv9SQ=
 		</data>
 		<key>GIPWebViewResources.bundle/gma-icon-sendto-pressed@2x.png</key>
 		<data>
-		oorBmxaNLsk6kVa+HhA7+e4ao+Q=
+		wP6F4xZ4D2qVtIkbLdr9fmXmWWo=
 		</data>
 		<key>GIPWebViewResources.bundle/gma-icon-stop-pressed.png</key>
 		<data>
-		Zh7vzIhr32497LW5nOzWeAfQ1kQ=
+		f/VWVv8u4+xX58xPVeksxqZuLYo=
 		</data>
 		<key>GIPWebViewResources.bundle/gma-icon-stop-pressed@2x.png</key>
 		<data>
-		vR7/U7HoLQlirw9OzMpeLsxMfFY=
+		u0vrU3aSCnU+lNdHtLtj2wHSEqI=
 		</data>
 		<key>GIPWebViewResources.bundle/he.lproj/GIPWebView.strings</key>
 		<data>
@@ -402,11 +574,11 @@
 		</data>
 		<key>GIPWebViewResources.bundle/webview-warning.png</key>
 		<data>
-		sHvsvyPBbCK4C8CwtpZ1VeThVHo=
+		uIXOLl9qj70Nz0PTb7AWHcaM8Wo=
 		</data>
 		<key>GIPWebViewResources.bundle/webview-warning@2x.png</key>
 		<data>
-		pdPbpeamyMxbArgB1McswX1jZXc=
+		rIVzveDVoRZqjCHhawRuwVcY7FY=
 		</data>
 		<key>GIPWebViewResources.bundle/zh_CN.lproj/GIPWebView.strings</key>
 		<data>
@@ -418,287 +590,839 @@
 		</data>
 		<key>GTMOAuth2ViewTouch.nib</key>
 		<data>
-		AHhAuYKNH5SsfaggAWxEHAps4JA=
+		un4/dMcJERnMYoolyen9n+5+TIk=
 		</data>
 		<key>GooglePlusResources.bundle/btn_acl_blue,20,21,.png</key>
 		<data>
-		rTUOnGkUM21D/ZQnJfx4Om7ig8s=
+		pbZM2bHQVCclh4jS8bUtUxQFmZA=
 		</data>
 		<key>GooglePlusResources.bundle/btn_acl_blue,20,21,@2x.png</key>
 		<data>
-		bi6gUdKO0Wfi+Cg3nezwu7c5qNc=
+		HRV3xliP81Bnw8/Hvm67QxdZKZ0=
+		</data>
+		<key>GooglePlusResources.bundle/btn_acl_blue,20,21,_2x.png</key>
+		<data>
+		w3HqbC2dJfPF40YmoAkDQbGinTY=
 		</data>
 		<key>GooglePlusResources.bundle/btn_acl_gray,20,21,.png</key>
 		<data>
-		4Yir8McnuYbPvLaG8ROOREsDE0w=
+		iBFGddnzh1TZi2pT77iw/CQgGFM=
 		</data>
 		<key>GooglePlusResources.bundle/btn_acl_gray,20,21,@2x.png</key>
 		<data>
-		g/+ACW1j4TOHbTmmmW1UZIJqIgE=
+		eDY0OQo8KBwrUUEwYDe3oiE2Cyo=
+		</data>
+		<key>GooglePlusResources.bundle/btn_acl_gray,20,21,_2x.png</key>
+		<data>
+		amOYhc5MAAsdTu0pBpLgBYlxFlM=
 		</data>
 		<key>GooglePlusResources.bundle/btn_acl_green,20,21,.png</key>
 		<data>
-		az8v+Of8M/6VqOM4jHAybV4ZIvU=
+		gsp7OayiopeRSFAXNaWCQUMEpxI=
 		</data>
 		<key>GooglePlusResources.bundle/btn_acl_green,20,21,@2x.png</key>
 		<data>
-		EQsK2I16jhOqe91rnC8jBq+92rI=
+		M4zwnWWAoQybs7ACEte1pTE4vb8=
+		</data>
+		<key>GooglePlusResources.bundle/btn_acl_green,20,21,_2x.png</key>
+		<data>
+		8g6zVJOZuuA3EX03ihzT8499CCA=
 		</data>
 		<key>GooglePlusResources.bundle/btn_default_gray,10,10,.png</key>
 		<data>
-		1ZCNCd4nHxmdNL9ZElQ5wgC5Usc=
+		F2giCDv53dLxmxXtvYLkROc0PUA=
 		</data>
 		<key>GooglePlusResources.bundle/btn_default_gray,10,10,@2x.png</key>
 		<data>
-		9qRbVPPNQIriBcN/oC2MWJqHUk8=
+		iUq6cbRxWE5UZbLQDAa41iy9Nzs=
+		</data>
+		<key>GooglePlusResources.bundle/btn_default_gray,10,10,_2x.png</key>
+		<data>
+		qffkIqpdFMvELZrbpJ36VkGPOgE=
 		</data>
 		<key>GooglePlusResources.bundle/btn_default_gray_pressed,10,10,.png</key>
 		<data>
-		irSy4VjZ1adaBVqj6R7/kajkHwQ=
+		Uf794wSQ8jua71hqArLDy9dUZEM=
 		</data>
 		<key>GooglePlusResources.bundle/btn_default_gray_pressed,10,10,@2x.png</key>
 		<data>
-		zwGR1ScsDge/lkTgKcZQmQQ0KJY=
+		I52wnRhSVrCv15SYVvrky/eyqb8=
+		</data>
+		<key>GooglePlusResources.bundle/btn_default_gray_pressed,10,10,_2x.png</key>
+		<data>
+		afgABQGy7OyM92P97yFt7qHgS2U=
 		</data>
 		<key>GooglePlusResources.bundle/btn_navbar_blue,12,14,.png</key>
 		<data>
-		utM8nroFxb+7Kt/vuSY5KVOvMjY=
+		Hz7Jpkyoh4pq/kU+SN//y6Eyafc=
 		</data>
 		<key>GooglePlusResources.bundle/btn_navbar_blue,12,14,@2x.png</key>
 		<data>
-		HmThijXpKY0Dx2B5y9ZjhEnIUys=
+		2X1s5UH2nA0aFLmjadcoZXUPbdY=
+		</data>
+		<key>GooglePlusResources.bundle/btn_navbar_blue,12,14,_2x.png</key>
+		<data>
+		bui9aQzJFEnIXd1yuvmO3RggugM=
 		</data>
 		<key>GooglePlusResources.bundle/btn_navbar_blue_pressed,12,14,.png</key>
 		<data>
-		jUlv9KJhfUhba9kSwuH9BfyG02s=
+		BzS+9chSGaxs3TDvRxJH4TyF3QE=
 		</data>
 		<key>GooglePlusResources.bundle/btn_navbar_blue_pressed,12,14,@2x.png</key>
 		<data>
-		zaPZO4UFw95AzHJWAY/nR0zT0/Y=
+		cTGqzrUt27PEf8PDyTcEMlKC7gQ=
+		</data>
+		<key>GooglePlusResources.bundle/btn_navbar_blue_pressed,12,14,_2x.png</key>
+		<data>
+		NZDamheiUgZcc6CHf/WVH+RwasQ=
 		</data>
 		<key>GooglePlusResources.bundle/btn_navbar_gray,12,14,.png</key>
 		<data>
-		RlM3iExUJbuYq8mwW5OUazYPAWo=
+		B8C9F9W26nISkj8xd3hoJLv1N0c=
 		</data>
 		<key>GooglePlusResources.bundle/btn_navbar_gray,12,14,@2x.png</key>
 		<data>
-		yT0mieY4sZ/fhyECqUNqcWeTFcQ=
+		s4l/JlN8bzsyQKedvWKGuIGl7kc=
+		</data>
+		<key>GooglePlusResources.bundle/btn_navbar_gray,12,14,_2x.png</key>
+		<data>
+		BxQCGIa/ZMQ3RdijlrWaUggfsmk=
 		</data>
 		<key>GooglePlusResources.bundle/btn_navbar_gray_pressed,12,14,.png</key>
 		<data>
-		hNHT2JNEf4TMHanif8WuzM5FkM4=
+		9t2pYT+AS663xwgiUuZ/7fbwG+s=
 		</data>
 		<key>GooglePlusResources.bundle/btn_navbar_gray_pressed,12,14,@2x.png</key>
 		<data>
-		2nv3jxfmvtK9En/U3ui8a7rnMto=
+		aWExh3GV2wSzr2L4tKPPzESjhlQ=
+		</data>
+		<key>GooglePlusResources.bundle/btn_navbar_gray_pressed,12,14,_2x.png</key>
+		<data>
+		/7I+1CBCr51Qb4DLnYO6N9VtAsw=
 		</data>
 		<key>GooglePlusResources.bundle/ic_add_circle.png</key>
 		<data>
-		l7W6dpyUIb4DcKLGhZN9rNcIPzc=
+		sMcKTX7QlP1PqVWE0McMuGMkHSU=
 		</data>
 		<key>GooglePlusResources.bundle/ic_add_circle@2x.png</key>
 		<data>
-		LqikLRFnl7Y/f6xJRmpi7qHuPn0=
+		BoJN0n/PlKxHgxM+eG1/oNNw6VA=
+		</data>
+		<key>GooglePlusResources.bundle/ic_add_circle_2x.png</key>
+		<data>
+		OS7VpA80gST/rMw3Yb6oa1P8Ztk=
 		</data>
 		<key>GooglePlusResources.bundle/ic_add_location.png</key>
 		<data>
-		e3qkwJC7PPN0J+6RshYfTY5+U8M=
+		fhQaiamRVCHMdv+5jYlbnLSEP+U=
 		</data>
 		<key>GooglePlusResources.bundle/ic_add_location@2x.png</key>
 		<data>
-		xN3xp6M7POI+q288kyVQE2+izfM=
+		aRnmMZPcb+gB2WPcB+sCeApj9nY=
+		</data>
+		<key>GooglePlusResources.bundle/ic_add_location_2x.png</key>
+		<data>
+		X4cPZrfsyzV4J3RXGTIrFX6OQGc=
 		</data>
 		<key>GooglePlusResources.bundle/ic_add_photo.png</key>
 		<data>
-		IQ6R5WwqC7XLEg7vCkIeycBMYRg=
+		clhUbuH3y/i9fn1ymKXMh+AM8/4=
 		</data>
 		<key>GooglePlusResources.bundle/ic_add_photo@2x.png</key>
 		<data>
-		Vfs6GTqAufo4+YJFqQ4ReBbmTZ0=
+		HlDa2heI6DUsznv1nXOBUAWkbaI=
+		</data>
+		<key>GooglePlusResources.bundle/ic_add_photo_2x.png</key>
+		<data>
+		jO3SIqGh/xYHZk/xLsk4QVZqPJo=
 		</data>
 		<key>GooglePlusResources.bundle/ic_check_grey.png</key>
 		<data>
-		5ZYLA5sdd+/KiNTPRilEEl7C6B0=
+		YNChATlG3qBHzWLxdEbo3JxinIE=
 		</data>
 		<key>GooglePlusResources.bundle/ic_check_grey@2x.png</key>
 		<data>
-		WzyeSVa7arxbR2pf6D1NrvmOiW0=
+		ZH3OHIZVv4G8AQ+wwJSmEtGRhwE=
+		</data>
+		<key>GooglePlusResources.bundle/ic_check_grey_2x.png</key>
+		<data>
+		Sfgb+zMGjw846M+VDtgWoq4uyIo=
 		</data>
 		<key>GooglePlusResources.bundle/ic_circles.png</key>
 		<data>
-		x9ksYmrDg/kHDhhLp7uK/7z2T3U=
+		OlCQ0/6p0bOL2gYxXawqabVrX3w=
 		</data>
 		<key>GooglePlusResources.bundle/ic_circles@2x.png</key>
 		<data>
-		3SCdEedBtNZyZrjrE9n6Cf+1Ntk=
+		5xmV/igjS9cI0ve/m340al7Z8/0=
+		</data>
+		<key>GooglePlusResources.bundle/ic_circles_2x.png</key>
+		<data>
+		B/cG8nglIjehWGXCLuQXVpaioWk=
 		</data>
 		<key>GooglePlusResources.bundle/ic_circles_grey.png</key>
 		<data>
-		p3Hr1cg2vcr/1l8UX4S2B+W0MZc=
+		xj/4YbTvYCRNt02HgdblaqSa0Rw=
 		</data>
 		<key>GooglePlusResources.bundle/ic_circles_grey@2x.png</key>
 		<data>
-		wGQ0WkZMkAe87YNNk+Hb73ZFVHM=
+		ePEDhPJl1FR7WAu6ylh+p6DKiIA=
+		</data>
+		<key>GooglePlusResources.bundle/ic_circles_grey_2x.png</key>
+		<data>
+		F3XyVf1JEFz7Bj6VvGxiaMtagNw=
 		</data>
 		<key>GooglePlusResources.bundle/ic_extended.png</key>
 		<data>
-		mKWzdxnnP2gwfMWcx8LhmTi4mcY=
+		HO0HNhALe9gbOtc6tLcl/e6DBYc=
 		</data>
 		<key>GooglePlusResources.bundle/ic_extended@2x.png</key>
 		<data>
-		mzLMV6pbURqHR5KAU3/dVKZyGT0=
+		z8NK7oGe3M/giFLlJ/rKqjV6Mmo=
+		</data>
+		<key>GooglePlusResources.bundle/ic_extended_2x.png</key>
+		<data>
+		CWhKKujWGVU45gIywYmmEuBwerE=
 		</data>
 		<key>GooglePlusResources.bundle/ic_extended_grey.png</key>
 		<data>
-		zhKZGRgl8Iu76h4xh5ha3FqAjx0=
+		vXreNCp7Nxj6q5/ej7U02TWAMMs=
 		</data>
 		<key>GooglePlusResources.bundle/ic_extended_grey@2x.png</key>
 		<data>
-		fnstohbc8gl54GTeFru+8sUPCaY=
+		0AmiDAb99Np989F4AfMMF0xwXi8=
+		</data>
+		<key>GooglePlusResources.bundle/ic_extended_grey_2x.png</key>
+		<data>
+		3Rw5uYz9AgLkXzup+2nQU3vO1J8=
 		</data>
 		<key>GooglePlusResources.bundle/ic_public.png</key>
 		<data>
-		ML6egBhBSTyX99/opT9FVuOTRGU=
+		sQ4DpYz17wGM0plNR9uTJrhmupY=
 		</data>
 		<key>GooglePlusResources.bundle/ic_public@2x.png</key>
 		<data>
-		w0rPJac+tregJMpru0/qMiVn5Io=
+		lAY1WT7QS0RqTOrfku2Yr/QJHtw=
+		</data>
+		<key>GooglePlusResources.bundle/ic_public_2x.png</key>
+		<data>
+		txwj0F+l0o/xwfJXbhT7b+wOimM=
 		</data>
 		<key>GooglePlusResources.bundle/ic_public_grey.png</key>
 		<data>
-		hrNAEL2kTm//O+7cKarxR5L5j0U=
+		yPe8l8q1D//lsMnw7dOCYdDjsvE=
 		</data>
 		<key>GooglePlusResources.bundle/ic_public_grey@2x.png</key>
 		<data>
-		hnXYtQ184FAdp/EydwuB7uYKajQ=
+		yggANNHSRgAJH4GIgSnaNGnH4FQ=
+		</data>
+		<key>GooglePlusResources.bundle/ic_public_grey_2x.png</key>
+		<data>
+		vAh5zv4HfO30QKJwdpReFfBtVrY=
 		</data>
 		<key>GooglePlusResources.bundle/ic_remove_photo.png</key>
 		<data>
-		u9i2nTd0FTNMyBu8+mhU5K9EQi4=
+		12CSQyvFblVEMX1x+4BOosDi5LQ=
 		</data>
 		<key>GooglePlusResources.bundle/ic_remove_photo@2x.png</key>
 		<data>
-		DdC5H5CI14EYBRdpS6rZJL/xdR8=
+		q5k7GTN6mMCsNJKWRNpj4CUtGIY=
+		</data>
+		<key>GooglePlusResources.bundle/ic_remove_photo_2x.png</key>
+		<data>
+		jDSc+gPiJPupbzfiw1x5TRcTFAI=
 		</data>
 		<key>Icon-Small-50.png</key>
 		<data>
-		F9YFUpF9PqMF8xrNlqhf1w/Oygs=
+		PjZetDkRyEJmGBvt2d95cuKoyE4=
 		</data>
 		<key>Icon-Small-50@2x.png</key>
 		<data>
-		uoZIXcPdgKzD6z5M3+sbNpGh0eE=
+		6eAYdvn+MVhGuSIxJK4PADU/uSU=
 		</data>
 		<key>Icon-Small.png</key>
 		<data>
-		9GFO25HUGUFnyyATnF1SvzoqbcY=
+		WM2FmoeSDf2IcIJ65WkluRIb17E=
 		</data>
 		<key>Icon-Small@2x.png</key>
 		<data>
-		JcstfwtO0jIo9AK3B5hz682r5Nk=
+		ICjftHmNhFSeQa9j5X3UD+6fj5Q=
 		</data>
 		<key>Icon-iPad.png</key>
 		<data>
-		S+56eQyab43jylEICGGHCFbdlIQ=
+		AkBD7YaaCzHkxy8Je8BMWQiqWvc=
 		</data>
 		<key>Icon-iPad@2x.png</key>
 		<data>
-		w295E+L0K233ZU3p7vGIr6CPAnU=
+		5u+ynJGM7TcIBCEyzE6VzBOOMuQ=
 		</data>
 		<key>Icon.png</key>
 		<data>
-		1z9xetAFEsILhJ5w+jwtODrUOR0=
+		qF+xgR4ocfN3hqEqqpqnJY9ZTrs=
 		</data>
 		<key>Icon@2x.png</key>
 		<data>
-		Yl5ebhiqDBNSDez33fc8VpWosGE=
+		EAZds2KGKSTyP3UGffLD+cAL19c=
+		</data>
+		<key>IntentsKitResources.bundle/GIPAppsList.plist</key>
+		<data>
+		tgtG+guecz20xliJVpCUv1k40Mw=
+		</data>
+		<key>IntentsKitResources.bundle/GIPTLDsList.plist</key>
+		<data>
+		VkZZ+V0CfMLGMkboAoZFcns+pM8=
+		</data>
+		<key>IntentsKitResources.bundle/IntentsKitResources</key>
+		<data>
+		KHmsaf/OZs0g1eDs5PqdRno/3a8=
+		</data>
+		<key>IntentsKitResources.bundle/ar.lproj/IntentsKit.strings</key>
+		<data>
+		x4cH8jb6Ti9orIX6lr8c9xl/mLI=
+		</data>
+		<key>IntentsKitResources.bundle/ca.lproj/IntentsKit.strings</key>
+		<data>
+		dkTKoKMUJ7U4gDwdBXIl8HItv5Q=
+		</data>
+		<key>IntentsKitResources.bundle/cs.lproj/IntentsKit.strings</key>
+		<data>
+		k9BoLHsUkK8RHeT3ZdYGhpi9oWU=
+		</data>
+		<key>IntentsKitResources.bundle/da.lproj/IntentsKit.strings</key>
+		<data>
+		hJlJIPz2QtToa23rxkwGjIpSeho=
+		</data>
+		<key>IntentsKitResources.bundle/de.lproj/IntentsKit.strings</key>
+		<data>
+		INWGHzkflBvxqrlwTkKTJPBvdHs=
+		</data>
+		<key>IntentsKitResources.bundle/el.lproj/IntentsKit.strings</key>
+		<data>
+		V09L2PogOTDnz5TfuMx2ObbRtDU=
+		</data>
+		<key>IntentsKitResources.bundle/en.lproj/IntentsKit.strings</key>
+		<data>
+		wFxqZe8uUMgoumqT4sv4w3oDOAg=
+		</data>
+		<key>IntentsKitResources.bundle/en_GB.lproj/IntentsKit.strings</key>
+		<data>
+		wFxqZe8uUMgoumqT4sv4w3oDOAg=
+		</data>
+		<key>IntentsKitResources.bundle/es.lproj/IntentsKit.strings</key>
+		<data>
+		OmqU0zV0MLN+tM8lC1Llr1UkLR0=
+		</data>
+		<key>IntentsKitResources.bundle/fi.lproj/IntentsKit.strings</key>
+		<data>
+		Ldyow6ewkrJo+QKdGVBFBym83S4=
+		</data>
+		<key>IntentsKitResources.bundle/fr.lproj/IntentsKit.strings</key>
+		<data>
+		XBUirO4Ix1plRthr+yEdHgJatqc=
+		</data>
+		<key>IntentsKitResources.bundle/he.lproj/IntentsKit.strings</key>
+		<data>
+		DKni3eMUvJ1HkfJ3pjjLWmc0Tto=
+		</data>
+		<key>IntentsKitResources.bundle/hr.lproj/IntentsKit.strings</key>
+		<data>
+		wxlJpNuZiRThuaf6UfpCflHIEfU=
+		</data>
+		<key>IntentsKitResources.bundle/hu.lproj/IntentsKit.strings</key>
+		<data>
+		rRR9yBm0TlXCaR9zzHl4jTCfJ4o=
+		</data>
+		<key>IntentsKitResources.bundle/id.lproj/IntentsKit.strings</key>
+		<data>
+		bbq+H0pLdWG/Tse6mpCU+0UPb1A=
+		</data>
+		<key>IntentsKitResources.bundle/it.lproj/IntentsKit.strings</key>
+		<data>
+		J2HOmVo+HuiJ+SyzloybkQWxTkI=
+		</data>
+		<key>IntentsKitResources.bundle/iw.lproj/IntentsKit.strings</key>
+		<data>
+		DKni3eMUvJ1HkfJ3pjjLWmc0Tto=
+		</data>
+		<key>IntentsKitResources.bundle/ja.lproj/IntentsKit.strings</key>
+		<data>
+		KYb7/8k4jLVY2J249u48qkLrlvc=
+		</data>
+		<key>IntentsKitResources.bundle/ko.lproj/IntentsKit.strings</key>
+		<data>
+		V1JR0qG4fy2MHB2ABRv7/dU4+rA=
+		</data>
+		<key>IntentsKitResources.bundle/lt.lproj/IntentsKit.strings</key>
+		<data>
+		9PEUnCIOJFS4lFFMXhNLDedwa14=
+		</data>
+		<key>IntentsKitResources.bundle/lv.lproj/IntentsKit.strings</key>
+		<data>
+		jnpUUU4sbZCc6XlWYzjwuWghkoI=
+		</data>
+		<key>IntentsKitResources.bundle/ms.lproj/IntentsKit.strings</key>
+		<data>
+		LJh5QKw/5XV0xjbH9F6O+kGC5Fg=
+		</data>
+		<key>IntentsKitResources.bundle/nl.lproj/IntentsKit.strings</key>
+		<data>
+		hgdVevRPvs8lYE8HXU0V5sD/sVM=
+		</data>
+		<key>IntentsKitResources.bundle/no.lproj/IntentsKit.strings</key>
+		<data>
+		RPZKYpvGm6W9HhfqO8mlsMbn/OM=
+		</data>
+		<key>IntentsKitResources.bundle/pl.lproj/IntentsKit.strings</key>
+		<data>
+		EulkzMWhazjf0wsSNCLFN2ocbZc=
+		</data>
+		<key>IntentsKitResources.bundle/pt.lproj/IntentsKit.strings</key>
+		<data>
+		LFRdJ7DbOUtpCJPsFPcEtEcac1E=
+		</data>
+		<key>IntentsKitResources.bundle/pt_BR.lproj/IntentsKit.strings</key>
+		<data>
+		LFRdJ7DbOUtpCJPsFPcEtEcac1E=
+		</data>
+		<key>IntentsKitResources.bundle/pt_PT.lproj/IntentsKit.strings</key>
+		<data>
+		/UbvEZb5x1+UQ6s97fuGa7EzgOQ=
+		</data>
+		<key>IntentsKitResources.bundle/ro.lproj/IntentsKit.strings</key>
+		<data>
+		lWB15LNEDQP472o3Yj4xEfn8cdI=
+		</data>
+		<key>IntentsKitResources.bundle/ru.lproj/IntentsKit.strings</key>
+		<data>
+		KubWOPAvptdyTleze31HY93F1iE=
+		</data>
+		<key>IntentsKitResources.bundle/sk.lproj/IntentsKit.strings</key>
+		<data>
+		59uBG/HcUlGeCVRQb5Y6MqaveOU=
+		</data>
+		<key>IntentsKitResources.bundle/sv.lproj/IntentsKit.strings</key>
+		<data>
+		96rwVzAQFJgyAGaMjntzRw9RgeU=
+		</data>
+		<key>IntentsKitResources.bundle/th.lproj/IntentsKit.strings</key>
+		<data>
+		geBMosszeCK/1Ymz11Poge/Q9EM=
+		</data>
+		<key>IntentsKitResources.bundle/tr.lproj/IntentsKit.strings</key>
+		<data>
+		yNomF1R9VmiHVeDOboIxaDUH5iU=
+		</data>
+		<key>IntentsKitResources.bundle/uk.lproj/IntentsKit.strings</key>
+		<data>
+		FWFcf4HZbym1R1v7aNDRrsRGsm4=
+		</data>
+		<key>IntentsKitResources.bundle/vi.lproj/IntentsKit.strings</key>
+		<data>
+		HRejT0ivULX8EclDMyThC5r4DgE=
+		</data>
+		<key>IntentsKitResources.bundle/zh_CN.lproj/IntentsKit.strings</key>
+		<data>
+		wUv8P/1FKh8Ni6vq0hDGv9tQRKo=
+		</data>
+		<key>IntentsKitResources.bundle/zh_TW.lproj/IntentsKit.strings</key>
+		<data>
+		1H88PcEKPLgIlJmqCiXPoyYzf4I=
+		</data>
+		<key>LaunchImage-568h@2x.png</key>
+		<data>
+		PHOQG+L5MYI/GyY1/eSa4ypJNeo=
 		</data>
 		<key>LaunchImage-Landscape.png</key>
 		<data>
-		Mza03p0zjWOoeQZrBRMbGLoEPzA=
+		pTdtjgqf76/uNTGOizUO9zSA9/c=
+		</data>
+		<key>LaunchImage-Landscape@2x.png</key>
+		<data>
+		mVgPauRN5etM/EeysbIBsKBmCeY=
 		</data>
 		<key>LaunchImage-Portrait.png</key>
 		<data>
-		8/LEZGOlP2d9ZXLV+9RlTJv0JmA=
+		vnnYDXPVI4zbNVknfvrC2Ge9wJw=
+		</data>
+		<key>LaunchImage-Portrait@2x.png</key>
+		<data>
+		MJ4LUSKQi53otzifPP4EqQCGp7g=
 		</data>
 		<key>LaunchImage.png</key>
 		<data>
-		9ks+Fw8sgftD4mReALDYzqQlw/s=
+		D3mVqgRo7fchGh4bc/beDi2qFEQ=
 		</data>
 		<key>LaunchImage@2x.png</key>
 		<data>
-		8umgxXqOSU0gpzEjoxNCwvZJtdg=
+		iqYxlo1OBtUVkkFBUPlZtA3T4eY=
 		</data>
 		<key>OpenSourceLicenses.html</key>
 		<data>
-		WIZ2phBgYBA3DS3gkF/pzZ39gi4=
+		1TCn25mhwb+8ZTBwoQK7PoJqDhA=
 		</data>
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
 		</data>
-		<key>SHKSharers.plist</key>
+		<key>PlayerLibResources.bundle/PlayerLibResources</key>
 		<data>
-		AFfdM6uPbHQwdCkhcT7dRTpYq7I=
+		6IkoAt1QoYvv9PB90nHheFJS+qk=
+		</data>
+		<key>PlayerLibResources.bundle/ad_bar_background.png</key>
+		<data>
+		6u2wwRnjjWW9tGGkeCO4hKo5xh0=
+		</data>
+		<key>PlayerLibResources.bundle/ad_bar_background@2x.png</key>
+		<data>
+		Gw8G9d5fpkev/TuXdStQ8yIq+7o=
+		</data>
+		<key>PlayerLibResources.bundle/buffered.png</key>
+		<data>
+		EutYJt2I4TqKxGXe2z54JMX1BwU=
+		</data>
+		<key>PlayerLibResources.bundle/buffered@2x.png</key>
+		<data>
+		mJ9J0rN627bCEQc+oYtppihOLzI=
+		</data>
+		<key>PlayerLibResources.bundle/buffered_ad_minimized.png</key>
+		<data>
+		RzEvAPA0Px9tWaXpQ3d77t/a2SM=
+		</data>
+		<key>PlayerLibResources.bundle/buffered_ad_minimized@2x.png</key>
+		<data>
+		JDX6/PqB0qgYhG7NjlxZSegFvso=
+		</data>
+		<key>PlayerLibResources.bundle/cc.png</key>
+		<data>
+		ZYcSnvjE9YtLt6XLRKkbFfI6hDE=
+		</data>
+		<key>PlayerLibResources.bundle/cc@2x.png</key>
+		<data>
+		KVilg8z+SWv3T9MDlFrcSDw9oPI=
+		</data>
+		<key>PlayerLibResources.bundle/cc_on.png</key>
+		<data>
+		4BKIkrrCOHVn8ULhJbj5sqSOy8I=
+		</data>
+		<key>PlayerLibResources.bundle/cc_on@2x.png</key>
+		<data>
+		pVfew4EItM3m9XBSMsR/a9ClGPA=
+		</data>
+		<key>PlayerLibResources.bundle/fullscreen_portrait.png</key>
+		<data>
+		OEDlYlzHY04c1pNbWD/izSWp840=
+		</data>
+		<key>PlayerLibResources.bundle/fullscreen_portrait@2x.png</key>
+		<data>
+		0leUnDll85tKS2A9GkJ2PSb2GdA=
+		</data>
+		<key>PlayerLibResources.bundle/ipad_ad_bar_background.png</key>
+		<data>
+		h+g7b1pb+f6jsJkgBT5qbSqwxwI=
+		</data>
+		<key>PlayerLibResources.bundle/ipad_ad_bar_background@2x.png</key>
+		<data>
+		7eN+WdaDETuoOBZoQynNk5DJryM=
+		</data>
+		<key>PlayerLibResources.bundle/ipad_buffered_ad_minimized.png</key>
+		<data>
+		JDX6/PqB0qgYhG7NjlxZSegFvso=
+		</data>
+		<key>PlayerLibResources.bundle/ipad_buffered_ad_minimized@2x.png</key>
+		<data>
+		QJb5CEi9sxWVqBnNZwAkyS81XCk=
+		</data>
+		<key>PlayerLibResources.bundle/ipad_played_ad_minimized.png</key>
+		<data>
+		WIz9maxJhb8jaf/i4YM1Kx/Ab6w=
+		</data>
+		<key>PlayerLibResources.bundle/ipad_played_ad_minimized@2x.png</key>
+		<data>
+		MnD7GFexz3KgMSGrGMUWg+Cg6to=
+		</data>
+		<key>PlayerLibResources.bundle/ipad_player_controls_collapsed_shadow.png</key>
+		<data>
+		HXk2izKQN3loPVGpRwB8OC1EINU=
+		</data>
+		<key>PlayerLibResources.bundle/ipad_player_controls_collapsed_shadow@2x.png</key>
+		<data>
+		AlhL77+y//MX6pVTNtW/rQfQ/iE=
+		</data>
+		<key>PlayerLibResources.bundle/ipad_track_ad_minimized.png</key>
+		<data>
+		QXmMP0jnJgf9BSDXK/Vr07+NRp4=
+		</data>
+		<key>PlayerLibResources.bundle/ipad_track_ad_minimized@2x.png</key>
+		<data>
+		YHRjXm7E6om5zmnYGEaJKk6zuDU=
+		</data>
+		<key>PlayerLibResources.bundle/ipad_transparent_slider_track_ad_minimized.png</key>
+		<data>
+		CbNTE6orpZyn3sjn4gSn5VaFV/Y=
+		</data>
+		<key>PlayerLibResources.bundle/ipad_transparent_slider_track_ad_minimized@2x.png</key>
+		<data>
+		Uub2ROvVO/pPzmF3m5KRq8B24vs=
+		</data>
+		<key>PlayerLibResources.bundle/ivp_featured_video_close.png</key>
+		<data>
+		gRHIUDNsviJDuvLx7Idn+qtMrws=
+		</data>
+		<key>PlayerLibResources.bundle/ivp_featured_video_close@2x.png</key>
+		<data>
+		JE0NjvQNMw7bII8EumOlfXqcrpw=
+		</data>
+		<key>PlayerLibResources.bundle/live.png</key>
+		<data>
+		yHD4P9riEK7mlTus1uLNDIKzVI8=
+		</data>
+		<key>PlayerLibResources.bundle/live@2x.png</key>
+		<data>
+		Kqkg6mVfnh/xmc0arHNh3UM2/B4=
+		</data>
+		<key>PlayerLibResources.bundle/live_outofsync.png</key>
+		<data>
+		uSLmR6VtV36dGvpDEEMpld5dFoo=
+		</data>
+		<key>PlayerLibResources.bundle/live_outofsync@2x.png</key>
+		<data>
+		foG9YQx4LdoVfL3OfORcM+7hcEc=
+		</data>
+		<key>PlayerLibResources.bundle/more_dots.png</key>
+		<data>
+		4XBwMNCsU5EC/A5ZFzcDpfcddFo=
+		</data>
+		<key>PlayerLibResources.bundle/more_dots@2x.png</key>
+		<data>
+		tFS6FXupjUMEDf3kwGyZuplABwk=
+		</data>
+		<key>PlayerLibResources.bundle/not_available_airplay.png</key>
+		<data>
+		edarSN7va0K5/RchxOV71Zdd2QE=
+		</data>
+		<key>PlayerLibResources.bundle/not_available_airplay@2x.png</key>
+		<data>
+		pGBGCO7vY5rhhZkcZo9zXPwkTsY=
+		</data>
+		<key>PlayerLibResources.bundle/pause.png</key>
+		<data>
+		8+tDBr0RTU5ZrHn/Nkys2HT1wgY=
+		</data>
+		<key>PlayerLibResources.bundle/pause@2x.png</key>
+		<data>
+		86O9NOUxz9l7eldqgnJLEBtj4Iw=
+		</data>
+		<key>PlayerLibResources.bundle/pause_portrait.png</key>
+		<data>
+		UlYK4+8mlkIbCjoIqBmSx93aQms=
+		</data>
+		<key>PlayerLibResources.bundle/pause_portrait@2x.png</key>
+		<data>
+		YiMBP/vHJBVmpaAMRahrKjFVs04=
+		</data>
+		<key>PlayerLibResources.bundle/play.png</key>
+		<data>
+		e/tsS1sR+lHQW21ojyH0Nx0wHR4=
+		</data>
+		<key>PlayerLibResources.bundle/play@2x.png</key>
+		<data>
+		3RW/dcSc467/k2FXM32nN882HB8=
+		</data>
+		<key>PlayerLibResources.bundle/play_portrait.png</key>
+		<data>
+		+v1CUltmSX4OTR59By4QKcV3+kw=
+		</data>
+		<key>PlayerLibResources.bundle/play_portrait@2x.png</key>
+		<data>
+		AjQANWPiIS1IgmRH6VIYA6IqDuw=
+		</data>
+		<key>PlayerLibResources.bundle/played.png</key>
+		<data>
+		dyafOQ9CCPs4QOnP8uTXnmai1kk=
+		</data>
+		<key>PlayerLibResources.bundle/played@2x.png</key>
+		<data>
+		uE6TIFCwQ4Ii4QUFmpvwu+j9icE=
+		</data>
+		<key>PlayerLibResources.bundle/played_ad.png</key>
+		<data>
+		uWUWMc3q7EHVimGY5XeYZDeVGBY=
+		</data>
+		<key>PlayerLibResources.bundle/played_ad@2x.png</key>
+		<data>
+		5Z+fCyFB03o/hQ2VBFVxt0mW5+Y=
+		</data>
+		<key>PlayerLibResources.bundle/played_ad_minimized.png</key>
+		<data>
+		4a1xjWVwoTMfTGI7jgi8hh7wC4Y=
+		</data>
+		<key>PlayerLibResources.bundle/played_ad_minimized@2x.png</key>
+		<data>
+		WIz9maxJhb8jaf/i4YM1Kx/Ab6w=
+		</data>
+		<key>PlayerLibResources.bundle/player_bar_background.png</key>
+		<data>
+		AD3B6rYE+MmSVscI7gy5anvUx2Q=
+		</data>
+		<key>PlayerLibResources.bundle/player_bar_background@2x.png</key>
+		<data>
+		+5Sw+gisHYmmv9y/qYkHcW6VpWA=
+		</data>
+		<key>PlayerLibResources.bundle/player_controls_collapsed_shadow.png</key>
+		<data>
+		DpDF/oLCcRwrdszKye3WWgRrmZM=
+		</data>
+		<key>PlayerLibResources.bundle/player_controls_collapsed_shadow@2x.png</key>
+		<data>
+		Ts7kP6vG9fVJqWgcqENfLSQr+0w=
+		</data>
+		<key>PlayerLibResources.bundle/playing_on.png</key>
+		<data>
+		b++adFhoTb+VCs3/ntWyOUJJM5Q=
+		</data>
+		<key>PlayerLibResources.bundle/playing_on@2x.png</key>
+		<data>
+		0N2iYVSCTDXBmvUYeS4zojKh/VA=
+		</data>
+		<key>PlayerLibResources.bundle/replay.png</key>
+		<data>
+		ybRRSIX0dy+SVfX9+Kq9lLigwZw=
+		</data>
+		<key>PlayerLibResources.bundle/replay@2x.png</key>
+		<data>
+		5wuctxta0TrihuiH9pb5sucVqm4=
+		</data>
+		<key>PlayerLibResources.bundle/scrubber.png</key>
+		<data>
+		kYJPwbdqRDhze3yyr9ZpebXvmnU=
+		</data>
+		<key>PlayerLibResources.bundle/scrubber@2x.png</key>
+		<data>
+		oqQayiBNyoj281fsJh1LHmYfLZM=
+		</data>
+		<key>PlayerLibResources.bundle/skip_ad_button_background.png</key>
+		<data>
+		4aAin5Z2LUhX2M+R5DK5swVGMV8=
+		</data>
+		<key>PlayerLibResources.bundle/skip_ad_button_background@2x.png</key>
+		<data>
+		h4W8J247/6aTgaYFrh3UVPJWg7E=
+		</data>
+		<key>PlayerLibResources.bundle/skip_ad_button_icon.png</key>
+		<data>
+		2d71ExyFp/0yISuLSMGntn2Riuo=
+		</data>
+		<key>PlayerLibResources.bundle/skip_ad_button_icon@2x.png</key>
+		<data>
+		jBKrRCqokWxQ053+lh4QwBW3C/E=
+		</data>
+		<key>PlayerLibResources.bundle/smallscreen.png</key>
+		<data>
+		8rqK53EOcWhXDUHpMZDUbF2rjSc=
+		</data>
+		<key>PlayerLibResources.bundle/smallscreen@2x.png</key>
+		<data>
+		hwyd5jnNl59jyKdla6e1nu6jEts=
+		</data>
+		<key>PlayerLibResources.bundle/track.png</key>
+		<data>
+		axZupI/PNTZbjc0znQiUxVcIcnA=
+		</data>
+		<key>PlayerLibResources.bundle/track@2x.png</key>
+		<data>
+		ZVSAv7WK7Gjewqb+btrJu+NVTwc=
+		</data>
+		<key>PlayerLibResources.bundle/track_ad_minimized.png</key>
+		<data>
+		xRwkSBU2yXU12klbTDbmuWzwlUw=
+		</data>
+		<key>PlayerLibResources.bundle/track_ad_minimized@2x.png</key>
+		<data>
+		QXmMP0jnJgf9BSDXK/Vr07+NRp4=
+		</data>
+		<key>PlayerLibResources.bundle/transparent.png</key>
+		<data>
+		18Fkq4yG5S383/g6EhRg2aha+OY=
+		</data>
+		<key>PlayerLibResources.bundle/transparent_slider_track.png</key>
+		<data>
+		UP/Fp0fi4G1qZePMwAKTijqiats=
+		</data>
+		<key>PlayerLibResources.bundle/transparent_slider_track@2x.png</key>
+		<data>
+		m/R8zvcYwE9929UIdLtqL3IZSWM=
+		</data>
+		<key>PlayerLibResources.bundle/transparent_slider_track_ad_minimized.png</key>
+		<data>
+		buMIQDoT63U9j9kFI3Y5zkE29vA=
+		</data>
+		<key>PlayerLibResources.bundle/transparent_slider_track_ad_minimized@2x.png</key>
+		<data>
+		CbNTE6orpZyn3sjn4gSn5VaFV/Y=
+		</data>
+		<key>ShareKit.bundle/ShareKit</key>
+		<data>
+		qdIqcnMbPgvG03Ad6utoXdRgbic=
 		</data>
 		<key>ShareKit.bundle/cs.lproj/Localizable.strings</key>
 		<data>
-		XnjkLQtVLW97sJ01tt+jIQYRqMU=
+		CcbCOqMUuQ/zM/NyLh0cZvtq6aM=
 		</data>
 		<key>ShareKit.bundle/de.lproj/Localizable.strings</key>
 		<data>
-		WH5lpsIOcH4XjWFeRE1JKFJNI6A=
+		x8mZjPEEKEYRPYVhqDO9QU/S3Ww=
 		</data>
 		<key>ShareKit.bundle/en.lproj/Localizable.strings</key>
 		<data>
-		rkTGB6QoxRWl8TYDY5CuUGx00Eo=
+		fOEpypRpEzM2iHlzNVifo9ERCQk=
 		</data>
 		<key>ShareKit.bundle/eu.lproj/Localizable.strings</key>
 		<data>
-		cBrhdsMMtr7y1o6aUeMEGW44KKA=
+		VcaMpp3dFZFJFUhGhNc5tf3G0Vk=
 		</data>
 		<key>ShareKit.bundle/fr.lproj/Localizable.strings</key>
 		<data>
-		p4dYG7FP2YLCTW56yJ4K9SF9a/A=
+		78DPGP0IO95T8DrX3kzTphWtU8M=
 		</data>
 		<key>ShareKit.bundle/it.lproj/Localizable.strings</key>
 		<data>
-		zi8tpFHnM9aWeAIO+UzEatDNBFo=
+		DJle6Z3WCaLGPGEzWSpSIb4sLv4=
 		</data>
 		<key>ShareKit.bundle/ja.lproj/Localizable.strings</key>
 		<data>
-		bcxEz0iA8jWiNFgjKnQde1ElkhY=
+		qdHuZVkaA892ATif8WXYryN1gvY=
 		</data>
 		<key>ShareKit.bundle/ko.lproj/Localizable.strings</key>
 		<data>
-		6VkxKlZ948hS3l+RwCIXh4gif6s=
+		vMGovxdWVfwy6OXsQ5yEb4nvdoY=
 		</data>
 		<key>ShareKit.bundle/nl.lproj/Localizable.strings</key>
 		<data>
-		dcg4nbK2PqB4SqLyodX5KG9vvLQ=
+		NbNDt+z9Q/js6iMZm5j4IjQgyX0=
 		</data>
 		<key>ShareKit.bundle/no.lproj/Localizable.strings</key>
 		<data>
-		Wq0+XGiAX01OqIc2vEjzQZYBjiY=
+		Ba0TMko0+lml2WOjI0b/CYZ/tfA=
 		</data>
 		<key>ShareKit.bundle/ru.lproj/Localizable.strings</key>
 		<data>
-		ZOgyMADTzBc9sIiCdo09rW9qkOM=
+		Ln3KAA/ZjdV+P0Vub8l/JUdY4ek=
 		</data>
 		<key>ShareKit.bundle/sk.lproj/Localizable.strings</key>
 		<data>
-		DMDJMjlSS0xWmZrwLIwx8wp0K/w=
+		XN4wQr0TzRpTahNr4c5ANBmwfg0=
 		</data>
 		<key>ShareKit.bundle/sv.lproj/Localizable.strings</key>
 		<data>
-		EgMFFlSueaTyY7fi+kltOR9XbCU=
+		DdJUj5F8BgativZHSUEXaRd9laE=
 		</data>
 		<key>ShareKit.bundle/vi.lproj/Localizable.strings</key>
 		<data>
-		8wj+GY/hTFRQt/73doAlEWD4Ub4=
+		AfZNX8A64PTWaA6cPdwWnjouVcs=
 		</data>
 		<key>ShareKit.bundle/zh_CN.lproj/Localizable.strings</key>
 		<data>
-		ZZ3r0de5Cg6oy0Fjm4kGAdLeM80=
+		yz2yN1PngGLkkB5IQDrRskrK6LQ=
 		</data>
 		<key>Speech.bundle/cancel.wav</key>
 		<data>
@@ -726,107 +1450,107 @@
 		</data>
 		<key>Speech.bundle/google_dialog_bg_blue.png</key>
 		<data>
-		k3TakoIQZ7yhc1DfHVcvoUgJZkU=
+		Prkq5W63SE4YCOvf51CucZiGxkQ=
 		</data>
 		<key>Speech.bundle/google_dialog_bg_blue@2x.png</key>
 		<data>
-		AMgHI0E/wY4KRM0TenenVFktyRc=
+		qkkCHeUA9fY8GIiCcPpQHGq3kAY=
 		</data>
 		<key>Speech.bundle/google_dialog_bg_green.png</key>
 		<data>
-		Nxl2H8NEMxNGrcvHxWDdpl2Xuew=
+		7GnQyynvt3TwaOayKnW0yavplQI=
 		</data>
 		<key>Speech.bundle/google_dialog_bg_green@2x.png</key>
 		<data>
-		yjGDNqTLJwmowSm2KsEwbzczR7k=
+		ARBpmhXqdRyxi5nkZaplkoauV3k=
 		</data>
 		<key>Speech.bundle/google_dialog_bg_red.png</key>
 		<data>
-		dQoab8gb+q4oVatSbrsplkTLlEw=
+		xfwPBqf1rHobgMC4ssI0UU/lU0Y=
 		</data>
 		<key>Speech.bundle/google_dialog_bg_red@2x.png</key>
 		<data>
-		ctVxvfydh8oqeIENuOtVL2qD0fc=
+		ey7upTkdvpwB9JRq4UwIJ10IS04=
 		</data>
 		<key>Speech.bundle/google_dialog_bg_red_glow.png</key>
 		<data>
-		5rHXCh/DlRo/DtMm7JxA73WRyCQ=
+		hrz5ZCyej4ma3WwohNtlAjZK0GE=
 		</data>
 		<key>Speech.bundle/google_dialog_bg_red_glow@2x.png</key>
 		<data>
-		KCMf9b8GgIdVpIuINzfiZOj1aP4=
+		azKE0EfXHH2gSufzNo9zPuRcP0g=
 		</data>
 		<key>Speech.bundle/google_dialog_bg_white.png</key>
 		<data>
-		+3gIhG0SkUo5ZD2V6g3ghYpB278=
+		gNiSE7In3/KuXOFXp69XV5TH9tw=
 		</data>
 		<key>Speech.bundle/google_dialog_bg_white@2x.png</key>
 		<data>
-		TQR9wHrsDYp56Nn7xVelbUQy+nw=
+		BOQki1FJty342rY67AjaiDsX7FE=
 		</data>
 		<key>Speech.bundle/google_dialog_bg_yellow.png</key>
 		<data>
-		Jjb3kFYpbY8tMASPU76VIO3e0Eg=
+		3ECBd9WghYkmWLPo/Up89KwPQw0=
 		</data>
 		<key>Speech.bundle/google_dialog_bg_yellow@2x.png</key>
 		<data>
-		mKrdGMyJWOkqNuxaOJFR/V+hu+w=
+		9estJO7fLCyAtmThEMjvAXRN+TY=
 		</data>
 		<key>Speech.bundle/google_dialog_button_full.png</key>
 		<data>
-		jJlZ8F0786gDiOiaI8zN3UxuDik=
+		9f5vko+V2X/5Le8ETRCaLddXFTc=
 		</data>
 		<key>Speech.bundle/google_dialog_button_full@2x.png</key>
 		<data>
-		Cm2SJVCQeH0TDXYRWZ5Y+0jed8c=
+		+JbSfvxRSfSiycXp/s/KotMTo5Y=
 		</data>
 		<key>Speech.bundle/google_dialog_button_full_red_down.png</key>
 		<data>
-		9Pd3MjdMM30BsWzSSTR9Rf5ZlbQ=
+		DHVsph50Ji5fLpKW+LVCL8Vtkd4=
 		</data>
 		<key>Speech.bundle/google_dialog_button_full_red_down@2x.png</key>
 		<data>
-		yrXHD6TtpW8cyLoQLAP/gpdkv+o=
+		iOT5M9m+OFNlKDOID6CCnu2mCdE=
 		</data>
 		<key>Speech.bundle/google_dialog_button_left.png</key>
 		<data>
-		g8f4DNtC6widLSuZa34ObHfmMbU=
+		2NnNiF6yaOtqESxI7C8rTxa0Unc=
 		</data>
 		<key>Speech.bundle/google_dialog_button_left@2x.png</key>
 		<data>
-		WI7ufV2X+gFa9dqorgrx9HB9YuM=
+		cnpf/bDNGxe343hauPYzPvlb5d4=
 		</data>
 		<key>Speech.bundle/google_dialog_button_left_red_down.png</key>
 		<data>
-		Yi3my6fvLnOSK2R1GLrdn7d/0T4=
+		HxNVf2yc8nfbSjw5iQH8U30OQCo=
 		</data>
 		<key>Speech.bundle/google_dialog_button_left_red_down@2x.png</key>
 		<data>
-		8tRzhgtsdOxJqmUPzbZ2WDdqkKs=
+		7OnzTpymkkKPqVmu23s9xVFM15A=
 		</data>
 		<key>Speech.bundle/google_dialog_button_right_blue_down.png</key>
 		<data>
-		N12hcqHUaphrPkN3mRDuHR9C1U8=
+		xWya4yhprBfcWYM6t94K9Ko2l4g=
 		</data>
 		<key>Speech.bundle/google_dialog_button_right_blue_down@2x.png</key>
 		<data>
-		ekZovf0SjKi9nPIYH/oNEQZyIXE=
+		TV+/zXMX1ISZPazqGJtmO2YGkrY=
 		</data>
 		<key>Speech.bundle/google_dialog_button_right_yellow.png</key>
 		<data>
-		UMcoM67+aXtlxue4hF9CKfn92Co=
+		ziFmn5j/g6lAdWDvpmCdg6mmKtg=
 		</data>
 		<key>Speech.bundle/google_dialog_button_right_yellow@2x.png</key>
 		<data>
-		c6Wc4D6YF8nSmIELLHfF8cXASlE=
+		fzZtgeBluzdILd3lyW5l7AKweqM=
 		</data>
 		<key>Speech.bundle/google_dialog_button_right_yellow_down.png</key>
 		<data>
-		eeOu+ragq13d0CazSafh4yIez7c=
+		5tEaYs/6ANhlKaOuSrFAb+rGBcQ=
 		</data>
 		<key>Speech.bundle/google_dialog_button_right_yellow_down@2x.png</key>
 		<data>
-		fJUYMPmjDKIeyxOwp761SmtiBGg=
+		F145u27c1S3wGmkQiJpjVsEt0LM=
 		</data>
 		<key>Speech.bundle/got_it.wav</key>
 		<data>
@@ -838,27 +1562,27 @@
 		</data>
 		<key>Speech.bundle/vs-statusicon-mic-overlay.png</key>
 		<data>
-		OxJ3mUfT6/2UHxKaoiXjvCGkQJM=
+		FMa1UxXl5CedKCZJnWYtctSc8oo=
 		</data>
 		<key>Speech.bundle/vs-statusicon-mic-overlay@2x.png</key>
 		<data>
-		XSYsAS/24+qhZb9Lp3xNvl/J2mY=
+		WLR+ko76AnY/HsoB905rgV5Hxl4=
 		</data>
 		<key>Speech.bundle/vs-statusicon-mic.png</key>
 		<data>
-		9+DgRcH3tbwjj/wvBedlA0gUoqU=
+		i8hIhRZv6vqMxpoqIKHOnLjak+Q=
 		</data>
 		<key>Speech.bundle/vs-statusicon-mic@2x.png</key>
 		<data>
-		pUwWzIex0kSwrCliucg/Yn0MvlA=
+		DQNxeWS6mU4WyaSV17y7zElEkbg=
 		</data>
 		<key>Speech.bundle/vs-statusicon-warning.png</key>
 		<data>
-		ICobN93uSP8yGF5k+FszXrc25vI=
+		5DmNOa70M4IiLdlyVQ6qzhzr5yA=
 		</data>
 		<key>Speech.bundle/vs-statusicon-warning@2x.png</key>
 		<data>
-		C2kl5KhiEIbH1nyEGFAmniHWrVI=
+		/QQDYUyI7X1tf++4LjXOjpkXjbA=
 		</data>
 		<key>Speech.bundle/working.wav</key>
 		<data>
@@ -868,1993 +1592,2513 @@
 		<data>
 		Z9eDdIE7bSWOqsJfQMLL21KWCvQ=
 		</data>
+		<key>UILibResources.bundle/UILibResources</key>
+		<data>
+		WrEh6Me00eEjCy35+72qL/tQnqw=
+		</data>
+		<key>UILibResources.bundle/background_cell_selected.png</key>
+		<data>
+		urKuvBd4YH/UhtmTzEB+MCdwDTI=
+		</data>
+		<key>UILibResources.bundle/background_cell_selected@2x.png</key>
+		<data>
+		h0DTKeBFr9kZc5QkhIwD17RqVlQ=
+		</data>
+		<key>UILibResources.bundle/background_grid_cell_selected.png</key>
+		<data>
+		H4iSsQRKUElkxD/aL9Mb+TcCJDc=
+		</data>
+		<key>UILibResources.bundle/background_grid_cell_selected@2x.png</key>
+		<data>
+		ImanTZCrkUWptg+VKH+BJIaMIqM=
+		</data>
+		<key>UILibResources.bundle/badge_background.png</key>
+		<data>
+		4uboWrFdDe3Tkmm/dM3jpWS7TO8=
+		</data>
+		<key>UILibResources.bundle/badge_background@2x.png</key>
+		<data>
+		BkpuGUB1gk4SF+XIhQcamW1BoKA=
+		</data>
+		<key>UILibResources.bundle/bar_shadow.png</key>
+		<data>
+		1RWDtNkCu7gcB+lvPYyPTsfN28Q=
+		</data>
+		<key>UILibResources.bundle/bar_shadow@2x.png</key>
+		<data>
+		v+fCKdbW+ylKVWb6NSZchuXXF3U=
+		</data>
+		<key>UILibResources.bundle/button_blue.png</key>
+		<data>
+		9ByOlq6n3vCUCjCR2hdEX215hXs=
+		</data>
+		<key>UILibResources.bundle/button_blue@2x.png</key>
+		<data>
+		3wMGVSN5kg/cdJnnNDK94IW8Y6U=
+		</data>
+		<key>UILibResources.bundle/button_dark.png</key>
+		<data>
+		el9wtZxzPpRMgR/Ctq7ej4ap024=
+		</data>
+		<key>UILibResources.bundle/button_dark@2x.png</key>
+		<data>
+		hvieuhFE2USgXsvoktpDMkOk8aU=
+		</data>
+		<key>UILibResources.bundle/button_light.png</key>
+		<data>
+		xzutj3/ZX+dROzAGBVpA7HOW3X4=
+		</data>
+		<key>UILibResources.bundle/button_light@2x.png</key>
+		<data>
+		sRvjYab9cB4KoHUz+MxHIRPILUY=
+		</data>
+		<key>UILibResources.bundle/button_light_borderless.png</key>
+		<data>
+		fKbOS8PNA+t7pnbmzOgvzzkvu74=
+		</data>
+		<key>UILibResources.bundle/button_light_borderless@2x.png</key>
+		<data>
+		xc2cEMno9Us2gLmrt6tRa9+v4Bw=
+		</data>
+		<key>UILibResources.bundle/cell_background_browse.png</key>
+		<data>
+		RfRI6b3F4sMHKl+QBva1fj8LoXQ=
+		</data>
+		<key>UILibResources.bundle/cell_background_browse@2x.png</key>
+		<data>
+		bPV8Cqsq76U9U8bFWOvk3+H6JaA=
+		</data>
+		<key>UILibResources.bundle/cell_background_browse_selected.png</key>
+		<data>
+		jDPQlqCykLCHZ9fwzu96onQmpQg=
+		</data>
+		<key>UILibResources.bundle/cell_background_browse_selected@2x.png</key>
+		<data>
+		PFOxTO5q45qASasL5a8qN1wYdd0=
+		</data>
+		<key>UILibResources.bundle/cell_background_suggested.png</key>
+		<data>
+		tC3aRg7X+CCST13cdAqCYjtXStY=
+		</data>
+		<key>UILibResources.bundle/cell_background_suggested@2x.png</key>
+		<data>
+		ndVJaN9Uh2lcchNVK8A1dC0akEg=
+		</data>
+		<key>UILibResources.bundle/channel_default_background.png</key>
+		<data>
+		H/Miq6yHXoyPb7AyDJ4phD9+avM=
+		</data>
+		<key>UILibResources.bundle/channel_default_background@2x.png</key>
+		<data>
+		oVG/V3LM66qPjNpRw7IgktQbrCs=
+		</data>
+		<key>UILibResources.bundle/channelbar.png</key>
+		<data>
+		MbFvqp2LVrC2KasBA0t9lkFqh5I=
+		</data>
+		<key>UILibResources.bundle/channelbar@2x.png</key>
+		<data>
+		ViIYGfedNetwqkuj3l+vWWTeZ5I=
+		</data>
+		<key>UILibResources.bundle/channelbar_dark.png</key>
+		<data>
+		hDZNUQkkvUzTLwI1PuSv9p1aVi0=
+		</data>
+		<key>UILibResources.bundle/channelbar_dark@2x.png</key>
+		<data>
+		rZiuMa3GiKdH86UjZvTFC8lOKsI=
+		</data>
+		<key>UILibResources.bundle/checkmark.png</key>
+		<data>
+		0Duu3pmU1QFWAMSteR7ltdEXgqQ=
+		</data>
+		<key>UILibResources.bundle/checkmark@2x.png</key>
+		<data>
+		O77CEz7bTz1SwajSx/GLTKm6ah0=
+		</data>
+		<key>UILibResources.bundle/checkmark_selected.png</key>
+		<data>
+		SpE3zz24Zq2jwDSCvuSOBj9zRo4=
+		</data>
+		<key>UILibResources.bundle/checkmark_selected@2x.png</key>
+		<data>
+		ANm7sY69b/o7kcIF5qhZXQcDFOo=
+		</data>
+		<key>UILibResources.bundle/comment_box.png</key>
+		<data>
+		6Vp9yrqznHT8S8/CDDUbh27O8nk=
+		</data>
+		<key>UILibResources.bundle/comment_box@2x.png</key>
+		<data>
+		0yCZEkY1cxWVRpK15yQVzMwGZ2c=
+		</data>
+		<key>UILibResources.bundle/default_user_thumbnail.png</key>
+		<data>
+		0lnvGWsn6kPpKQ2DuhPqiWtx17c=
+		</data>
+		<key>UILibResources.bundle/default_user_thumbnail@2x.png</key>
+		<data>
+		a4uIxJud9asCFb50P7mp6Ars6n4=
+		</data>
+		<key>UILibResources.bundle/default_user_thumbnail_selected.png</key>
+		<data>
+		0CCA+m7pZsMeoteZaKw2vwCckEw=
+		</data>
+		<key>UILibResources.bundle/default_user_thumbnail_selected@2x.png</key>
+		<data>
+		biEhbBtk4mrUYzJY0mJcX5NAg3k=
+		</data>
+		<key>UILibResources.bundle/feed_bubble.png</key>
+		<data>
+		iYQ3SM8jEC9LPV2wce01LpmZiVA=
+		</data>
+		<key>UILibResources.bundle/feed_bubble@2x.png</key>
+		<data>
+		9fI6Kr1QgNrLL8k0mVQu+6XBPmQ=
+		</data>
+		<key>UILibResources.bundle/feed_error.png</key>
+		<data>
+		m4VgUQbXZowRu8x4zZFy8tLW/Mk=
+		</data>
+		<key>UILibResources.bundle/feed_error@2x.png</key>
+		<data>
+		nH4ZJIDXVoFWJWfLxuiC5siLnNw=
+		</data>
+		<key>UILibResources.bundle/feed_error_light.png</key>
+		<data>
+		cfcIHnYIMy67AcYA9jLwWF60his=
+		</data>
+		<key>UILibResources.bundle/feed_error_light@2x.png</key>
+		<data>
+		qL38aC/UYDraOkKhBdqfW5Wwab4=
+		</data>
+		<key>UILibResources.bundle/grouped_table.png</key>
+		<data>
+		TvCt5A8RdVFG9bPMniI77P0DhGw=
+		</data>
+		<key>UILibResources.bundle/grouped_table@2x.png</key>
+		<data>
+		eSVZJK1jsV7YSTMbFhowp+I8SRk=
+		</data>
+		<key>UILibResources.bundle/grouped_table_bottom.png</key>
+		<data>
+		dAIetJI67qNJ6d6HC9KEQCDiHl8=
+		</data>
+		<key>UILibResources.bundle/grouped_table_bottom@2x.png</key>
+		<data>
+		5i07KVFMxQl0xrB9wsfuAZt+7U0=
+		</data>
+		<key>UILibResources.bundle/grouped_table_bottom_selected.png</key>
+		<data>
+		LwIghJkMNK30907vdsrlQDEqzoQ=
+		</data>
+		<key>UILibResources.bundle/grouped_table_bottom_selected@2x.png</key>
+		<data>
+		4yUVI9luFWs8doYDXULaoiiMsHU=
+		</data>
+		<key>UILibResources.bundle/grouped_table_middle.png</key>
+		<data>
+		JawCUGjrAwB2t3rRqzRgiD9t6Hw=
+		</data>
+		<key>UILibResources.bundle/grouped_table_middle@2x.png</key>
+		<data>
+		RnkEZwSzoCx359ul1yOzCwkAixw=
+		</data>
+		<key>UILibResources.bundle/grouped_table_middle_selected.png</key>
+		<data>
+		VVjmPw0ZwjDrTNPPRzus3SoNdys=
+		</data>
+		<key>UILibResources.bundle/grouped_table_middle_selected@2x.png</key>
+		<data>
+		ruUOGk+KegYppQCLK15DQjqch30=
+		</data>
+		<key>UILibResources.bundle/grouped_table_selected.png</key>
+		<data>
+		NLy2m/ehHXL76B2uqdpDkovX3Ck=
+		</data>
+		<key>UILibResources.bundle/grouped_table_selected@2x.png</key>
+		<data>
+		NJbzhWlR+udY8fiS7cZJELJ1iLw=
+		</data>
+		<key>UILibResources.bundle/grouped_table_top.png</key>
+		<data>
+		HuQdtJylCHi9heLq+LM/iD61KTQ=
+		</data>
+		<key>UILibResources.bundle/grouped_table_top@2x.png</key>
+		<data>
+		+X/He+ka8YMzjEax091t66Fei1A=
+		</data>
+		<key>UILibResources.bundle/grouped_table_top_selected.png</key>
+		<data>
+		enGsen8+fc6izeAR0OwquoIe4tU=
+		</data>
+		<key>UILibResources.bundle/grouped_table_top_selected@2x.png</key>
+		<data>
+		xYIPQgoc1tF0Y/iFSw9eeSeN6LM=
+		</data>
+		<key>UILibResources.bundle/horizontal_separator.png</key>
+		<data>
+		Ezjmgw9WzW25wwBxQJummG3dOl8=
+		</data>
+		<key>UILibResources.bundle/horizontal_separator@2x.png</key>
+		<data>
+		O+3xx8rlOb8rPeR2ix9NpaedPCU=
+		</data>
+		<key>UILibResources.bundle/ipad_background_cell_selected.png</key>
+		<data>
+		Smgoz6nsxaWPKGPPa2sqIi9FTjg=
+		</data>
+		<key>UILibResources.bundle/ipad_background_cell_selected@2x.png</key>
+		<data>
+		NO+Cv4TQNZD7Io+N80dJAC81fSA=
+		</data>
+		<key>UILibResources.bundle/ipad_background_suggested_cell_selected.png</key>
+		<data>
+		UsTJd2LF88sQlU6hMrP8HBnzd8U=
+		</data>
+		<key>UILibResources.bundle/ipad_background_suggested_cell_selected@2x.png</key>
+		<data>
+		ud6f/xRoS4cNs+XzqEICEQyd+SI=
+		</data>
+		<key>UILibResources.bundle/ipad_channel_default_background.png</key>
+		<data>
+		m5kFxpEfZ3+cBxE/fuveYvtjMaA=
+		</data>
+		<key>UILibResources.bundle/ipad_channel_default_background@2x.png</key>
+		<data>
+		zHWr5MzBChGwq4rEXypWiHkSmBs=
+		</data>
+		<key>UILibResources.bundle/ipad_channelbar.png</key>
+		<data>
+		s70oYr3baCvOCtYfNIi7d2DWDz4=
+		</data>
+		<key>UILibResources.bundle/ipad_channelbar@2x.png</key>
+		<data>
+		Sq0kfCPQyLBcQq0uQ7Fne5uMXKQ=
+		</data>
+		<key>UILibResources.bundle/ipad_tab_left.png</key>
+		<data>
+		rKrztmiotNtdC9dJ9lnil/rHCZ4=
+		</data>
+		<key>UILibResources.bundle/ipad_tab_left@2x.png</key>
+		<data>
+		YAMBm1WKvY012q26Po0cORj4hS8=
+		</data>
+		<key>UILibResources.bundle/ipad_tab_left_selected.png</key>
+		<data>
+		QQLMW+JYzCauvC5nuClUQ4tNVSQ=
+		</data>
+		<key>UILibResources.bundle/ipad_tab_left_selected@2x.png</key>
+		<data>
+		00GXonqg/zxSdasnLanSsFuHjPM=
+		</data>
+		<key>UILibResources.bundle/ipad_tab_mid.png</key>
+		<data>
+		RTkFUcYJaEsZWlRXxu3YysjvbF8=
+		</data>
+		<key>UILibResources.bundle/ipad_tab_mid@2x.png</key>
+		<data>
+		JdHt3dTtFkRnev9sTR5L3i1S/Js=
+		</data>
+		<key>UILibResources.bundle/ipad_tab_mid_selected.png</key>
+		<data>
+		qXcxeDuZFOZXCyIpcY/vmvKWnrw=
+		</data>
+		<key>UILibResources.bundle/ipad_tab_mid_selected@2x.png</key>
+		<data>
+		X2UtFG/7tipJasFRmbXcIPqeYGw=
+		</data>
+		<key>UILibResources.bundle/ipad_tab_right.png</key>
+		<data>
+		Vi/miSJhw5FdpsJkg0WUHavnvEw=
+		</data>
+		<key>UILibResources.bundle/ipad_tab_right@2x.png</key>
+		<data>
+		EPE/krn1176QHMwoA0m6ECFZis8=
+		</data>
+		<key>UILibResources.bundle/ipad_tab_right_selected.png</key>
+		<data>
+		RnUr3Ke655mbktxWIgNvMw7yz58=
+		</data>
+		<key>UILibResources.bundle/ipad_tab_right_selected@2x.png</key>
+		<data>
+		bZoLXC/NKeup0iWcBeplgtkICds=
+		</data>
+		<key>UILibResources.bundle/ipad_tab_titles_background.png</key>
+		<data>
+		3MDr2enzi+6o6OnxdH+PNGSCf0c=
+		</data>
+		<key>UILibResources.bundle/ipad_tab_titles_background@2x.png</key>
+		<data>
+		xJ9QhxIQnhrZBFVdPF96Bi1BIJM=
+		</data>
+		<key>UILibResources.bundle/ipad_youtube_system_channel.png</key>
+		<data>
+		vK2zNph3JBWU4ijRESp7CSJTICM=
+		</data>
+		<key>UILibResources.bundle/ipad_youtube_system_channel@2x.png</key>
+		<data>
+		e1T49SMHvBrCKrSC8nXaKs98Des=
+		</data>
+		<key>UILibResources.bundle/large_channel_cell_meta_background.png</key>
+		<data>
+		H9wzbE+cPY9kSoiq2oDRSu+NE9E=
+		</data>
+		<key>UILibResources.bundle/large_channel_cell_meta_background@2x.png</key>
+		<data>
+		SC7E5AheNjqCiRd9cUwy1g99cAM=
+		</data>
+		<key>UILibResources.bundle/large_event_cell_meta_background.png</key>
+		<data>
+		lpOkobbQ4viAc3a7UoOTdT4B0qc=
+		</data>
+		<key>UILibResources.bundle/large_event_cell_meta_background@2x.png</key>
+		<data>
+		78tDnqCh8X9rxH4SieZwAXKiCzQ=
+		</data>
+		<key>UILibResources.bundle/large_playlist_thumb_meta_background.png</key>
+		<data>
+		Qzd/q8En2rYxl6YO/gEwH41QZgo=
+		</data>
+		<key>UILibResources.bundle/large_playlist_thumb_meta_background@2x.png</key>
+		<data>
+		lhtdnewrHRP6QdT1JjW7db1IvV0=
+		</data>
+		<key>UILibResources.bundle/large_purchase_thumb_meta_background.png</key>
+		<data>
+		tI7ftDEfUTE7VhcykoxKp+fouXE=
+		</data>
+		<key>UILibResources.bundle/large_purchase_thumb_meta_background@2x.png</key>
+		<data>
+		N7lY7me50lEh279+73/pjByCffk=
+		</data>
+		<key>UILibResources.bundle/large_thumb_meta_background.png</key>
+		<data>
+		bxdQM4BZ0Ca1jFW+0QLL8oTomNU=
+		</data>
+		<key>UILibResources.bundle/large_thumb_meta_background@2x.png</key>
+		<data>
+		AIEsX6rZoJnCjJbaeJ3nDgV1HX8=
+		</data>
+		<key>UILibResources.bundle/large_thumb_promoted_meta_background.png</key>
+		<data>
+		tpacvjGta3wWjljtsv/d0agxqvs=
+		</data>
+		<key>UILibResources.bundle/large_thumb_promoted_meta_background@2x.png</key>
+		<data>
+		uHKJHdDnZzaGZ22Hj3cmprwKuco=
+		</data>
+		<key>UILibResources.bundle/large_video_cell_meta_background.png</key>
+		<data>
+		/qC0B2lf+vrAwf6I392yJJxaQPg=
+		</data>
+		<key>UILibResources.bundle/large_video_cell_meta_background@2x.png</key>
+		<data>
+		WOVDDvFY1oCcFOZxtNcQFAgbicA=
+		</data>
+		<key>UILibResources.bundle/live_cell_badge.png</key>
+		<data>
+		yHD4P9riEK7mlTus1uLNDIKzVI8=
+		</data>
+		<key>UILibResources.bundle/live_cell_badge@2x.png</key>
+		<data>
+		Kqkg6mVfnh/xmc0arHNh3UM2/B4=
+		</data>
+		<key>UILibResources.bundle/playlist_thumb_meta_background.png</key>
+		<data>
+		PRnEOWtYBRQLbNnABTRZIDiSD7Q=
+		</data>
+		<key>UILibResources.bundle/playlist_thumb_meta_background@2x.png</key>
+		<data>
+		XcpYQiO07SuHTDUSJKpFxFDjZfU=
+		</data>
+		<key>UILibResources.bundle/promoted_feed_bubble.png</key>
+		<data>
+		gQjzcLWlWFXWdsqiuUaH7zRXGy0=
+		</data>
+		<key>UILibResources.bundle/promoted_feed_bubble@2x.png</key>
+		<data>
+		VEiObmHg8/pqCGoSwoHRHtPbgww=
+		</data>
+		<key>UILibResources.bundle/purchase_thumb_meta_background.png</key>
+		<data>
+		OmlWsfRqpU2oCr8Hom63j2IDvnw=
+		</data>
+		<key>UILibResources.bundle/purchase_thumb_meta_background@2x.png</key>
+		<data>
+		S8xY/H6WEFWfUqoFd/fOezLvWew=
+		</data>
+		<key>UILibResources.bundle/refresh_dark.png</key>
+		<data>
+		jWZPsw2u3Fk0b8p79qLD5blcM6g=
+		</data>
+		<key>UILibResources.bundle/refresh_dark@2x.png</key>
+		<data>
+		NCNRhMf7FipJEsE0xfKh43AIYKw=
+		</data>
+		<key>UILibResources.bundle/refresh_light.png</key>
+		<data>
+		39umNug/OlbbQymbhQlCmvyd7OI=
+		</data>
+		<key>UILibResources.bundle/refresh_light@2x.png</key>
+		<data>
+		SaVOs8P5Vsl41KoF6ThCNuzOkHA=
+		</data>
+		<key>UILibResources.bundle/search_add.png</key>
+		<data>
+		DNZ/aDep1VeaKI2EunmTKxHnOb4=
+		</data>
+		<key>UILibResources.bundle/search_add@2x.png</key>
+		<data>
+		ZoWFPU8ywQei5gppscnY/L9xkX0=
+		</data>
+		<key>UILibResources.bundle/search_add_selected.png</key>
+		<data>
+		9ajujw/E+y2BCEXuGZRWBcvCnV4=
+		</data>
+		<key>UILibResources.bundle/search_add_selected@2x.png</key>
+		<data>
+		vNGspLo71qM5EcJWJyMCuhoR6Dw=
+		</data>
+		<key>UILibResources.bundle/small_thumb_meta_background.png</key>
+		<data>
+		/BdkKmWlV0rKpnFN4cECH/5Pny0=
+		</data>
+		<key>UILibResources.bundle/small_thumb_meta_background@2x.png</key>
+		<data>
+		tp2mOHiEs51uMPRCnFaX2lUHEb0=
+		</data>
+		<key>UILibResources.bundle/subscribe.png</key>
+		<data>
+		FLE5CZVYR0pSQNtD/Z3nV4bc6kM=
+		</data>
+		<key>UILibResources.bundle/subscribe@2x.png</key>
+		<data>
+		fjjMN1DAPjJfRbvBfpAhGRT0khg=
+		</data>
+		<key>UILibResources.bundle/subscribe_dark.png</key>
+		<data>
+		I3ZAJYackKCXVpt1jqjGrivWBks=
+		</data>
+		<key>UILibResources.bundle/subscribe_dark@2x.png</key>
+		<data>
+		tldbN0o1lSjxJp6JNbkstbBaZw4=
+		</data>
+		<key>UILibResources.bundle/subscribed.png</key>
+		<data>
+		M6jD6wvxiKxxNdbul1eMOHK6j4o=
+		</data>
+		<key>UILibResources.bundle/subscribed@2x.png</key>
+		<data>
+		vqiAWshyJkqgzKYQ8oHTGTtSrvg=
+		</data>
+		<key>UILibResources.bundle/tab_left.png</key>
+		<data>
+		YzXo/GFV3L+Psy7Lfl7smVZWniI=
+		</data>
+		<key>UILibResources.bundle/tab_left@2x.png</key>
+		<data>
+		TfP7X3SXUAM8XJ91D5Ob8WQpUjE=
+		</data>
+		<key>UILibResources.bundle/tab_left_selected.png</key>
+		<data>
+		OygcBsI0x9lpHFJd9hsVbLkgM3A=
+		</data>
+		<key>UILibResources.bundle/tab_left_selected@2x.png</key>
+		<data>
+		kISR2Eq+0P/ASYZDmBlew+3SWeU=
+		</data>
+		<key>UILibResources.bundle/tab_mid.png</key>
+		<data>
+		KS66dkhDJRTqXC1TjZHpidgznGw=
+		</data>
+		<key>UILibResources.bundle/tab_mid@2x.png</key>
+		<data>
+		8s4UwLx0Fiptt5umJP2HdOKjRqQ=
+		</data>
+		<key>UILibResources.bundle/tab_mid_selected.png</key>
+		<data>
+		aCbzRz91iu7uV/wwt8bNrdQ32oo=
+		</data>
+		<key>UILibResources.bundle/tab_mid_selected@2x.png</key>
+		<data>
+		+gXG6xoGf3C23TSZpqlhoNLVAYk=
+		</data>
+		<key>UILibResources.bundle/tab_right.png</key>
+		<data>
+		kLJRKSdL5sRzW0rL4At7hz5a4DA=
+		</data>
+		<key>UILibResources.bundle/tab_right@2x.png</key>
+		<data>
+		XTY/J2jagai/90OlIJtITJTGoz0=
+		</data>
+		<key>UILibResources.bundle/tab_right_selected.png</key>
+		<data>
+		/+HVxig8/2QzHQ+Jdiskwmx6Adg=
+		</data>
+		<key>UILibResources.bundle/tab_right_selected@2x.png</key>
+		<data>
+		tad8Wwg1AeqhAe+qpVa8B7iSyVw=
+		</data>
+		<key>UILibResources.bundle/tab_titles_background.png</key>
+		<data>
+		0jOc73C48zLcVUnpGDUXmsDr9xQ=
+		</data>
+		<key>UILibResources.bundle/tab_titles_background@2x.png</key>
+		<data>
+		2a/BZiI8okJp45LoFBNYp9R+3+4=
+		</data>
+		<key>UILibResources.bundle/text_field_clear.png</key>
+		<data>
+		7YtI4VFv7HDpvn/9cwbL+88CveM=
+		</data>
+		<key>UILibResources.bundle/text_field_clear@2x.png</key>
+		<data>
+		tK8tZJNLqSRdBHH82OjahtNkezQ=
+		</data>
+		<key>UILibResources.bundle/thumbnail_mask_channel_bar.png</key>
+		<data>
+		ZHrknRNWpztJDQkv7OBCNqNpPpU=
+		</data>
+		<key>UILibResources.bundle/thumbnail_mask_channel_bar@2x.png</key>
+		<data>
+		oQvLhGNryPpOBsHqnPlmpTk9cq8=
+		</data>
+		<key>UILibResources.bundle/thumbnail_mask_channel_card.png</key>
+		<data>
+		8Vf33xzqKvH9ifn0Xm05gDRMHAk=
+		</data>
+		<key>UILibResources.bundle/thumbnail_mask_channel_card@2x.png</key>
+		<data>
+		dALXv1q2BrR6YdRmiJtz0YdbHLU=
+		</data>
+		<key>UILibResources.bundle/thumbnail_mask_comment_box.png</key>
+		<data>
+		bNvwMcV+WoRpWEMyyHvwoFLrPe0=
+		</data>
+		<key>UILibResources.bundle/thumbnail_mask_comment_box@2x.png</key>
+		<data>
+		VC1/1bVWX1CzD7yrcfcgBX5V0C0=
+		</data>
+		<key>UILibResources.bundle/thumbnail_mask_event.png</key>
+		<data>
+		YH4JnGDr/rcH5LjcoC5fVUe4yPY=
+		</data>
+		<key>UILibResources.bundle/thumbnail_mask_event@2x.png</key>
+		<data>
+		EHXG/QtjAccAmh1G6B8T9sqt0u4=
+		</data>
+		<key>UILibResources.bundle/thumbnail_placeholder.png</key>
+		<data>
+		EicFLKksXdwSP28ldkuyfiIx0e8=
+		</data>
+		<key>UILibResources.bundle/thumbnail_placeholder@2x.png</key>
+		<data>
+		YjCu7IkG0GNt7k3eI8CXAe4TyCw=
+		</data>
+		<key>UILibResources.bundle/thumbnail_placeholder_dark.png</key>
+		<data>
+		PuQ/vePIK7zR+J8CmLtCAXxsFFE=
+		</data>
+		<key>UILibResources.bundle/thumbnail_placeholder_dark@2x.png</key>
+		<data>
+		TXhojU7+wls2KvriiyQcidVoyTk=
+		</data>
+		<key>UILibResources.bundle/thumbnail_placeholder_light.png</key>
+		<data>
+		/av0u4oo+ofQuQOKG5f9EeBv7fs=
+		</data>
+		<key>UILibResources.bundle/thumbnail_placeholder_light@2x.png</key>
+		<data>
+		o1/pe5kDUC5FlNvFqinRjR/qg5Q=
+		</data>
+		<key>UILibResources.bundle/unsubscribe.png</key>
+		<data>
+		XfbTrev69HdwdlGDQcWjtxlLZF8=
+		</data>
+		<key>UILibResources.bundle/unsubscribe@2x.png</key>
+		<data>
+		Ac+YvVqYa7ynmpRnEz6kp1YvexA=
+		</data>
+		<key>UILibResources.bundle/unsubscribe_dark.png</key>
+		<data>
+		pNkBx9dw/PZ3FRZ/pC/3SCpkyOo=
+		</data>
+		<key>UILibResources.bundle/unsubscribe_dark@2x.png</key>
+		<data>
+		cfvIqm13zC8aMMaoiVK98JQzW+s=
+		</data>
+		<key>UILibResources.bundle/vertical_separator_dark.png</key>
+		<data>
+		H6mXWaHyvZ/THe6mXDNI+3/CWlo=
+		</data>
+		<key>UILibResources.bundle/vertical_separator_dark@2x.png</key>
+		<data>
+		AnbXU3/97+1AUh2jgxRs4pkTkF8=
+		</data>
+		<key>UILibResources.bundle/vertical_separator_light.png</key>
+		<data>
+		vNZxe2ukV3UF6aQrqWJECp6ljho=
+		</data>
+		<key>UILibResources.bundle/vertical_separator_light@2x.png</key>
+		<data>
+		vNZxe2ukV3UF6aQrqWJECp6ljho=
+		</data>
+		<key>UILibResources.bundle/youtube_system_channel.png</key>
+		<data>
+		WVqUf1M6/xnxPxMHrZm/6tUxgag=
+		</data>
+		<key>UILibResources.bundle/youtube_system_channel@2x.png</key>
+		<data>
+		snOZrt0k5rd6RlFeeF/ySJRO3Ys=
+		</data>
 		<key>YTNavigationController.nib</key>
 		<data>
-		fSTUXJI69FSLWjFKNqkccB4wvsU=
+		U99No7OSFTQpfWtAWtDdhJWcMlU=
 		</data>
-		<key>YouTubeResources.bundle/OpenSourceLicenses.html</key>
+		<key>YouTubeResources.bundle/Icon-Small-50.png</key>
 		<data>
-		WIZ2phBgYBA3DS3gkF/pzZ39gi4=
+		PjZetDkRyEJmGBvt2d95cuKoyE4=
 		</data>
-		<key>YouTubeResources.bundle/account_guide.png</key>
+		<key>YouTubeResources.bundle/Icon-Small-50@2x.png</key>
 		<data>
-		x71Db7fCnGmKdhJ0H/Dsl5BSeeY=
+		6eAYdvn+MVhGuSIxJK4PADU/uSU=
 		</data>
-		<key>YouTubeResources.bundle/account_guide@2x.png</key>
+		<key>YouTubeResources.bundle/Icon-Small.png</key>
 		<data>
-		aiY0NllXRe3QpI/7XsNnaClyWO0=
+		WM2FmoeSDf2IcIJ65WkluRIb17E=
 		</data>
-		<key>YouTubeResources.bundle/account_guide_selected.png</key>
+		<key>YouTubeResources.bundle/Icon-Small@2x.png</key>
 		<data>
-		XLLWHxgO+ecQBTt+I0mJIjYWJn8=
+		ICjftHmNhFSeQa9j5X3UD+6fj5Q=
 		</data>
-		<key>YouTubeResources.bundle/account_guide_selected@2x.png</key>
+		<key>YouTubeResources.bundle/Icon-iPad.png</key>
 		<data>
-		D6vmJGQGnFgrN/a59bNuT6ZWkZ4=
+		AkBD7YaaCzHkxy8Je8BMWQiqWvc=
+		</data>
+		<key>YouTubeResources.bundle/Icon-iPad@2x.png</key>
+		<data>
+		5u+ynJGM7TcIBCEyzE6VzBOOMuQ=
+		</data>
+		<key>YouTubeResources.bundle/Icon.png</key>
+		<data>
+		qF+xgR4ocfN3hqEqqpqnJY9ZTrs=
+		</data>
+		<key>YouTubeResources.bundle/Icon@2x.png</key>
+		<data>
+		EAZds2KGKSTyP3UGffLD+cAL19c=
+		</data>
+		<key>YouTubeResources.bundle/YouTubeResources</key>
+		<data>
+		Nz86D5P87jeC/fs0fXE1AWDA77o=
+		</data>
+		<key>YouTubeResources.bundle/account_cell_background_guide.png</key>
+		<data>
+		GIxAYY3FXUOFLcHWR0q83gtYsk8=
+		</data>
+		<key>YouTubeResources.bundle/account_cell_background_guide@2x.png</key>
+		<data>
+		x2KvDBSt68alejCKd7F3moOlx0M=
+		</data>
+		<key>YouTubeResources.bundle/account_cell_background_guide_selected.png</key>
+		<data>
+		decOfcSn+cxD3SQCrwed0BrEdqI=
+		</data>
+		<key>YouTubeResources.bundle/account_cell_background_guide_selected@2x.png</key>
+		<data>
+		TFRGeb2M6Q0PQG0cFgeteDjB5cI=
 		</data>
 		<key>YouTubeResources.bundle/action.png</key>
 		<data>
-		sakunfq1id1Lydby3j/Vbjn4nFw=
+		NytYQNo5YQq7GDL3IIOx8QDe9LE=
 		</data>
 		<key>YouTubeResources.bundle/action@2x.png</key>
 		<data>
-		nkGSfSxnRRR73fqWf3KPuA3AR90=
+		oldW7dPD7yihJkni3ekJX9vYI5Q=
 		</data>
 		<key>YouTubeResources.bundle/action_bar.png</key>
 		<data>
-		/9CL8OvvSq66+QksrVWrumvVJ84=
+		0nF085/opRnXwPTiS37C79ZZTvA=
 		</data>
 		<key>YouTubeResources.bundle/action_bar@2x.png</key>
 		<data>
-		yama9eD346IttgwfppoR9lRnEdI=
+		bDDvX0PoaxX9o5ydCLkZM4TfIKA=
 		</data>
 		<key>YouTubeResources.bundle/action_bar_landscape.png</key>
 		<data>
-		H4mjchVNV9l7yG3j8AwVIUrGFVc=
+		AD3B6rYE+MmSVscI7gy5anvUx2Q=
 		</data>
 		<key>YouTubeResources.bundle/action_bar_landscape@2x.png</key>
 		<data>
-		XNMQSSsQM0fpqa6VbXWUDaM99RM=
+		+5Sw+gisHYmmv9y/qYkHcW6VpWA=
+		</data>
+		<key>YouTubeResources.bundle/action_watch.png</key>
+		<data>
+		K4RcPz2xN7dqeeyvQDOyTkk1OfQ=
+		</data>
+		<key>YouTubeResources.bundle/action_watch@2x.png</key>
+		<data>
+		V32+Tx5DOF1qbXTQsebN0p20/4w=
 		</data>
 		<key>YouTubeResources.bundle/add_channel_guide.png</key>
 		<data>
-		bOVLZZNxsxWMZM7g2Vx3DcX1vH8=
+		EM8yFnKAYgMvl6ikeUPzpLNkQhQ=
 		</data>
 		<key>YouTubeResources.bundle/add_channel_guide@2x.png</key>
 		<data>
-		upCE9bCMHoSd3aZF/PVY49g0wJg=
+		Nh4J/k7PA6BZ9+86LRPjk8fMPQ0=
 		</data>
 		<key>YouTubeResources.bundle/add_channel_guide_selected.png</key>
 		<data>
-		hwPfu1MG8UDLoM4wyrG8PyZyj3Y=
+		wvqfSKmULL/T+bssKF91xJdSfo8=
 		</data>
 		<key>YouTubeResources.bundle/add_channel_guide_selected@2x.png</key>
 		<data>
-		vNWPLTsqVqsfgbvCX4ItbS8U+9w=
+		Gl6J0u/lq3JjFVWhvP24smZz9Mw=
 		</data>
 		<key>YouTubeResources.bundle/animals_guide.png</key>
 		<data>
-		+MEU9VCN4rJoy8nAjkj0kefuHIE=
+		5Yc6/ZHSgH2tzLsbc/qxydwH6Jo=
 		</data>
 		<key>YouTubeResources.bundle/animals_guide@2x.png</key>
 		<data>
-		k+rBhFNzoTrk4qHPGhmQ3a4Puj0=
+		Syder+WcKcDPIxC/hf0vX26ByRM=
 		</data>
 		<key>YouTubeResources.bundle/animals_guide_selected.png</key>
 		<data>
-		IqT5zgXTrTy/qbM9gLLafbPMAwg=
+		eaDdAy0kHQjS/jH459OYgP1RRL0=
 		</data>
 		<key>YouTubeResources.bundle/animals_guide_selected@2x.png</key>
 		<data>
-		K4CJwY0VgS3dcgKFij/0MUx/UoM=
+		GXTyuBYtWN3W81aRwXRbZwJcIj0=
+		</data>
+		<key>YouTubeResources.bundle/arrow_rotate_1.png</key>
+		<data>
+		1cbHcZtp4mglNGZx+QOMLfO6dxY=
+		</data>
+		<key>YouTubeResources.bundle/arrow_rotate_1@2x.png</key>
+		<data>
+		JzrmzmMBanT1d8I58Jsgl1afy+k=
+		</data>
+		<key>YouTubeResources.bundle/arrow_rotate_2.png</key>
+		<data>
+		Ul8Ed/jyvYy8DRaV90yTXX/tWv4=
+		</data>
+		<key>YouTubeResources.bundle/arrow_rotate_2@2x.png</key>
+		<data>
+		bKja/6TGLSQ/b8AA1gVElwQQPHE=
+		</data>
+		<key>YouTubeResources.bundle/arrow_rotate_3.png</key>
+		<data>
+		qk0UNOl/u+V1b+t3F8MSSBWj9eo=
+		</data>
+		<key>YouTubeResources.bundle/arrow_rotate_3@2x.png</key>
+		<data>
+		QnU/UqGvgnzbS+eQcL28cCvsKqs=
+		</data>
+		<key>YouTubeResources.bundle/arrow_rotate_4.png</key>
+		<data>
+		JzkaBO14RL/XmqJ835JVNnUaIDU=
+		</data>
+		<key>YouTubeResources.bundle/arrow_rotate_4@2x.png</key>
+		<data>
+		9+7W73NTTV+i1xbwNOzFBi6++L8=
+		</data>
+		<key>YouTubeResources.bundle/arrow_rotate_5.png</key>
+		<data>
+		oFEYgamwXhNcg2mweV6xRQ6QyoM=
+		</data>
+		<key>YouTubeResources.bundle/arrow_rotate_5@2x.png</key>
+		<data>
+		+Kzzoj3fwvkge5ZPXhx+oiXpbaE=
+		</data>
+		<key>YouTubeResources.bundle/artist_info.png</key>
+		<data>
+		HwSMZAAmo7RjxD1UE0GoRVv1snc=
+		</data>
+		<key>YouTubeResources.bundle/artist_info@2x.png</key>
+		<data>
+		69/5GLYSicNDWI8YVXR8ygc6B3s=
 		</data>
 		<key>YouTubeResources.bundle/autos_guide.png</key>
 		<data>
-		JAaPQwivSDaVMqFZ2uorixat/ps=
+		M96uSomcZu8fUcLytaio2hSVOAk=
 		</data>
 		<key>YouTubeResources.bundle/autos_guide@2x.png</key>
 		<data>
-		TY1zatX32MT7ExkpoDQHv3tErL4=
+		linneVQkEpd1eO/MYZYp9yAmbWk=
 		</data>
 		<key>YouTubeResources.bundle/autos_guide_selected.png</key>
 		<data>
-		o6GVS5QLu/8s65/vAQNyxEP7iBo=
+		cw4NYGPsqUZiLK0cZsmYayvbHYY=
 		</data>
 		<key>YouTubeResources.bundle/autos_guide_selected@2x.png</key>
 		<data>
-		hAzvzlQiHw0dEfmLe5HNATacako=
-		</data>
-		<key>YouTubeResources.bundle/avatar_mask_channel_bar.png</key>
-		<data>
-		a/XLP0U/pqhNm8Qz61K72+0hXJE=
-		</data>
-		<key>YouTubeResources.bundle/avatar_mask_channel_bar@2x.png</key>
-		<data>
-		X0VEq3IOYvnc6/NeD22EhvBoFWg=
-		</data>
-		<key>YouTubeResources.bundle/avatar_mask_channel_card.png</key>
-		<data>
-		SiV07nlthJoKwa1ViEXkWac8WrQ=
-		</data>
-		<key>YouTubeResources.bundle/avatar_mask_channel_card@2x.png</key>
-		<data>
-		nS0gmvYpXjHLdlwj3ahdLSSmX0U=
-		</data>
-		<key>YouTubeResources.bundle/avatar_mask_comment_box.png</key>
-		<data>
-		SMv84gNkJfncWTb3MZulc5X4TMA=
-		</data>
-		<key>YouTubeResources.bundle/avatar_mask_comment_box@2x.png</key>
-		<data>
-		kYItq1FQJwA2pwm3RWa1T9Vkoe0=
-		</data>
-		<key>YouTubeResources.bundle/avatar_mask_event.png</key>
-		<data>
-		kCcMFhae+IWoSR48nrqEqYqjKog=
-		</data>
-		<key>YouTubeResources.bundle/avatar_mask_event@2x.png</key>
-		<data>
-		ENt0SrS8J0mF/GEq1zeyWw9QqAo=
-		</data>
-		<key>YouTubeResources.bundle/avatar_mask_guide.png</key>
-		<data>
-		M9UVDzmCIXJelLiVmX6m+PYuuDw=
-		</data>
-		<key>YouTubeResources.bundle/avatar_mask_guide@2x.png</key>
-		<data>
-		MNITeGx1VqrqVMeL1mHwjqQdjAk=
-		</data>
-		<key>YouTubeResources.bundle/avatar_mask_guide_selected.png</key>
-		<data>
-		rE6d8klm7mznntjj53XeNhGt6Yk=
-		</data>
-		<key>YouTubeResources.bundle/avatar_mask_guide_selected@2x.png</key>
-		<data>
-		Ya/klhecrTvfH0tNqAjm1Is2psE=
-		</data>
-		<key>YouTubeResources.bundle/avatar_placeholder_dark.png</key>
-		<data>
-		hq/lwX4rdGow9RLsHVc/GyRumz8=
-		</data>
-		<key>YouTubeResources.bundle/avatar_placeholder_dark@2x.png</key>
-		<data>
-		hCQNdKJGbbNBj19Gi9RKyDFb6c4=
-		</data>
-		<key>YouTubeResources.bundle/avatar_placeholder_light.png</key>
-		<data>
-		MbVaT20sATDqy+9Kd6w4W8HuoaI=
-		</data>
-		<key>YouTubeResources.bundle/avatar_placeholder_light@2x.png</key>
-		<data>
-		0vLmNNYLRC9DBTmHSQhQIE30Smk=
+		hK6bFP7l0WZnPVflqctna53V+4I=
 		</data>
 		<key>YouTubeResources.bundle/back_arrow.png</key>
 		<data>
-		+qUcVHIY27U+MF81o51QrsVHEmI=
+		yibiYS8WX0sijo7oTeMzzWkFgd8=
 		</data>
 		<key>YouTubeResources.bundle/back_arrow@2x.png</key>
 		<data>
-		HoVOlOkWFwMg0crRIOsAc4YIHxA=
+		Tuepc+5Uv4F7hTZYAHIbMPokzSI=
 		</data>
-		<key>YouTubeResources.bundle/badge_background.png</key>
+		<key>YouTubeResources.bundle/back_button.png</key>
 		<data>
-		Onb3Z3h1qlYVeFyDYrIvsQADQws=
+		892pcE/8K3Ta6z4MMVC7pB5Ygv0=
 		</data>
-		<key>YouTubeResources.bundle/badge_background@2x.png</key>
+		<key>YouTubeResources.bundle/back_button@2x.png</key>
 		<data>
-		5wfDLpgsRcS7bVjlxAuyVdU40DU=
-		</data>
-		<key>YouTubeResources.bundle/bar_shadow.png</key>
-		<data>
-		elqjW74NqMyITCZ29aQRSn3DLw0=
-		</data>
-		<key>YouTubeResources.bundle/bar_shadow@2x.png</key>
-		<data>
-		6ZwRgd2GEIrikToN98YmmQFDKoU=
+		82IZZrBLr9RVT9WsYuVfCpZ0BG8=
 		</data>
 		<key>YouTubeResources.bundle/bubble.png</key>
 		<data>
-		ASVfQpRAyAeL+sBcNxVQjx4/Esc=
+		M0JXQ0MzYXoA2VQPj7mxnqhx7GY=
 		</data>
 		<key>YouTubeResources.bundle/bubble@2x.png</key>
 		<data>
-		ZEUicOjWxmrMNEM26DTB9MOdhQM=
+		paZhPSlqHk/DXW2K1DOp6uDpNN0=
 		</data>
-		<key>YouTubeResources.bundle/buffered.png</key>
+		<key>YouTubeResources.bundle/bullet_number_bg.png</key>
 		<data>
-		CFEi7CaIoVEEecW55LeQl1YMYZA=
+		eT9mhilXIZuRyzTtCyTQiVHSqyM=
 		</data>
-		<key>YouTubeResources.bundle/buffered@2x.png</key>
+		<key>YouTubeResources.bundle/bullet_number_bg@2x.png</key>
 		<data>
-		P4rjOUyQoVyEWcSBtpBKBp2Vplc=
+		VuOg5rHEIJhtfzL5C2FoO6gu6tA=
 		</data>
-		<key>YouTubeResources.bundle/button_blue.png</key>
+		<key>YouTubeResources.bundle/capture_camera.png</key>
 		<data>
-		JxsKWo06wcbQ/oF3exqP0UyEPyo=
+		7FEUyXtrb4fK21l2u0iOVv9LBHY=
 		</data>
-		<key>YouTubeResources.bundle/button_blue@2x.png</key>
+		<key>YouTubeResources.bundle/capture_camera@2x.png</key>
 		<data>
-		+v+qIOedTnRd5dDferZLU+JQZ5I=
+		ZQlxlxvrOjyg4hA7ljwZjXHYhno=
 		</data>
-		<key>YouTubeResources.bundle/button_dark.png</key>
+		<key>YouTubeResources.bundle/capture_guide.png</key>
 		<data>
-		r6H6te3rIOxZtCmVlmkhwAGezeE=
+		A6b1kvONaYcNxzHKvM2ezjLKpls=
 		</data>
-		<key>YouTubeResources.bundle/button_dark@2x.png</key>
+		<key>YouTubeResources.bundle/capture_guide@2x.png</key>
 		<data>
-		RwocADAKQJiT3xcuvzpOOtSXwIY=
+		BnmAZKZTZoISHuwI3QJhc2xhfVQ=
 		</data>
-		<key>YouTubeResources.bundle/button_light.png</key>
+		<key>YouTubeResources.bundle/capture_guide_selected.png</key>
 		<data>
-		V2WXLWRakbUaOHqR7eJ51o8IwDU=
+		NqPwmHPNZ/q3gqAIdlI3+eiA1p8=
 		</data>
-		<key>YouTubeResources.bundle/button_light@2x.png</key>
+		<key>YouTubeResources.bundle/capture_guide_selected@2x.png</key>
 		<data>
-		Ce3k/gu13JBWliMXWF4RjmFPR8E=
+		s72rWq3/VyP8bc2jd/VDlDQYmYs=
 		</data>
-		<key>YouTubeResources.bundle/cc.png</key>
+		<key>YouTubeResources.bundle/capture_logo.png</key>
 		<data>
-		bzezL2bzsgk5dIutumFa4m/xoo4=
+		ctMvxlR+YoJtvzPW1OyxLLsEGCI=
 		</data>
-		<key>YouTubeResources.bundle/cc@2x.png</key>
+		<key>YouTubeResources.bundle/capture_logo@2x.png</key>
 		<data>
-		iiQyyUKwhFrHUuBMwR25rhGtSK8=
+		IpY7rdJxBW1LLR0jxVYpkhBOjQM=
 		</data>
-		<key>YouTubeResources.bundle/cc_on.png</key>
+		<key>YouTubeResources.bundle/cast_connected.png</key>
 		<data>
-		rTFOGaW0YCX2CdHhYDO2DkusR78=
+		GuSlerE8EYuFd2JxW+/O028gbBY=
 		</data>
-		<key>YouTubeResources.bundle/cc_on@2x.png</key>
+		<key>YouTubeResources.bundle/cast_connected@2x.png</key>
 		<data>
-		wKKq+bOJNuJIo+JS3zFuF5oJkhc=
+		pxI87SSaCCFSheLVyK/WPwJkLLg=
 		</data>
-		<key>YouTubeResources.bundle/cell_background_browse.png</key>
+		<key>YouTubeResources.bundle/cast_disconnected.png</key>
 		<data>
-		LwDLiSCXAmN7WHqCZ6U3fx+TaOg=
+		bfxPoyU2x4XPU2fKlcCQtloOVCo=
 		</data>
-		<key>YouTubeResources.bundle/cell_background_browse@2x.png</key>
+		<key>YouTubeResources.bundle/cast_disconnected@2x.png</key>
 		<data>
-		U7nXZpp8lBmzCN4Tqf5QFbEV550=
+		vJmzM/vYPysFzmkz2SQAky4Viu8=
 		</data>
 		<key>YouTubeResources.bundle/cell_background_browse_last.png</key>
 		<data>
-		MfOf5XpXMTveH2mpGOVSVAa/nbc=
+		FSa85d33w+v2S/3sk1f028bE1ak=
 		</data>
 		<key>YouTubeResources.bundle/cell_background_browse_last@2x.png</key>
 		<data>
-		uyZdiAXDy+pYg6QbCFPj4i0IJMM=
-		</data>
-		<key>YouTubeResources.bundle/cell_background_browse_selected.png</key>
-		<data>
-		TM8DKRqHxCYh2/rhAg/AhJpFWzM=
-		</data>
-		<key>YouTubeResources.bundle/cell_background_browse_selected@2x.png</key>
-		<data>
-		5gbvriR4fgd0nPwbobWcE9DL+k4=
+		81Jc7vH6kK26CduK0a5OgpkIZC0=
 		</data>
 		<key>YouTubeResources.bundle/cell_background_guide.png</key>
 		<data>
-		+5BhLg16NEg2VyXtEd3+wwBc5dI=
+		GIxAYY3FXUOFLcHWR0q83gtYsk8=
 		</data>
 		<key>YouTubeResources.bundle/cell_background_guide@2x.png</key>
 		<data>
-		8gim05n0CxUmAgXKbkTUmc+3iwc=
+		x2KvDBSt68alejCKd7F3moOlx0M=
 		</data>
 		<key>YouTubeResources.bundle/cell_background_guide_selected.png</key>
 		<data>
-		NvJbSjVVCg5RuWlBwvaB+b3nHkQ=
+		decOfcSn+cxD3SQCrwed0BrEdqI=
 		</data>
 		<key>YouTubeResources.bundle/cell_background_guide_selected@2x.png</key>
 		<data>
-		3vcI77rr8MPsyU+nHDteybgUeQI=
+		TFRGeb2M6Q0PQG0cFgeteDjB5cI=
 		</data>
-		<key>YouTubeResources.bundle/channelbar.png</key>
+		<key>YouTubeResources.bundle/choose_channel_checkmark.png</key>
 		<data>
-		2uazSwwCpiuHbSmNMincUnqQY8w=
+		4x6eAHKp5CPIG/CITyAsBSyebo0=
 		</data>
-		<key>YouTubeResources.bundle/channelbar@2x.png</key>
+		<key>YouTubeResources.bundle/choose_channel_checkmark@2x.png</key>
 		<data>
-		TZjRzYJZsIubU43QKnqCEhU5fKw=
+		Z0ULMde3lwEu41z0LsauMJJUGCQ=
 		</data>
-		<key>YouTubeResources.bundle/checkmark.png</key>
+		<key>YouTubeResources.bundle/choose_channel_checkmark_selected.png</key>
 		<data>
-		6CmsiBspbGS3OvQABnuTCxnhbx0=
+		OSqsSESDAxMc1qIOb7rSvrRwq7A=
 		</data>
-		<key>YouTubeResources.bundle/checkmark@2x.png</key>
+		<key>YouTubeResources.bundle/choose_channel_checkmark_selected@2x.png</key>
 		<data>
-		Vk1RXQQdIPnmK+oudSwmZ4kdQoo=
-		</data>
-		<key>YouTubeResources.bundle/checkmark_selected.png</key>
-		<data>
-		20sDWIbSFkNgMuNjjsqQyDKhKmU=
-		</data>
-		<key>YouTubeResources.bundle/checkmark_selected@2x.png</key>
-		<data>
-		kivTsiWsx8liBvx4OglK//j9HcA=
+		ltIsdiaClOwt+2edcRPq4YCymn4=
 		</data>
 		<key>YouTubeResources.bundle/close.png</key>
 		<data>
-		YfSjaPdc/OynSvq62lYagWm1Sag=
+		plklHBWCLHHywkqs4d21/Yy71ik=
 		</data>
 		<key>YouTubeResources.bundle/close@2x.png</key>
 		<data>
-		IOvGBgqrMGjFdeGhi2zrv2CNY/w=
+		irz0yqNoSFupn9r5Dq2EqhIV5mY=
 		</data>
 		<key>YouTubeResources.bundle/collapse.png</key>
 		<data>
-		gnvVh3mdGuxmW1YUgZgqaVjWbXg=
+		mL+DG2kE4bVsc1MwsogMOeOMOJ0=
 		</data>
 		<key>YouTubeResources.bundle/collapse@2x.png</key>
 		<data>
-		qJHWSkz7i4Yh0hLYJhyHvsqhYqQ=
+		czl/iEtgtRMDIW7tJNa4+gomSFE=
+		</data>
+		<key>YouTubeResources.bundle/collapse_guide.png</key>
+		<data>
+		EPHcFmR518zahNmC9XV3g4S+p2s=
+		</data>
+		<key>YouTubeResources.bundle/collapse_guide@2x.png</key>
+		<data>
+		goUhU1CAMRf+tJGTLT+svNIRXN0=
 		</data>
 		<key>YouTubeResources.bundle/collapse_selected.png</key>
 		<data>
-		SFswM2WqNvaRTxtjkZW4IRBbWho=
+		q3l4DSA3DY1oi1NVpBv6AM+47Jk=
 		</data>
 		<key>YouTubeResources.bundle/collapse_selected@2x.png</key>
 		<data>
-		bKghZyEQgafmoLSmpD2Di/OuyWc=
+		+uIn/RLEMSU0O8neWej36CbYl6I=
 		</data>
 		<key>YouTubeResources.bundle/comedy_guide.png</key>
 		<data>
-		yoEv3EZCrMHH6nv+voKMdaMAtFg=
+		Cp3I6vSJMdxZx4T2FQbLWbdLU4k=
 		</data>
 		<key>YouTubeResources.bundle/comedy_guide@2x.png</key>
 		<data>
-		3XmwXfFlxD1QHLaq5BdQt8ujylo=
+		oFV/9rYthWfzzunV+pqoZoLWpBg=
 		</data>
 		<key>YouTubeResources.bundle/comedy_guide_selected.png</key>
 		<data>
-		OPG+dO7TX2On/dY+P1BqM8HUdOg=
+		Ze46IeUpNudesBnPeb9CZ1cvnpM=
 		</data>
 		<key>YouTubeResources.bundle/comedy_guide_selected@2x.png</key>
 		<data>
-		wwsqeeuEsMHEBcscQsHy1oj765w=
-		</data>
-		<key>YouTubeResources.bundle/comment_box.png</key>
-		<data>
-		aoSzjEOCsH32OKIxWTvf7yCQtNk=
-		</data>
-		<key>YouTubeResources.bundle/comment_box@2x.png</key>
-		<data>
-		/MI2gjeBxLAxTCw7GdXO1rEVHM0=
+		TJM8Rhs6yWJ6KhHXYxR4k4ciBx4=
 		</data>
 		<key>YouTubeResources.bundle/dislike.png</key>
 		<data>
-		ccZuf0wwKTDkXsNqYYhnDme+3Zo=
+		DxKhhw8VvwdQH8Ir2wu/1ULkGWE=
 		</data>
 		<key>YouTubeResources.bundle/dislike@2x.png</key>
 		<data>
-		iU/Y1641ak4GckVz+Dgh2Co80XY=
+		DorG9n0WSAqsRlBsF6RBQ9Jv3TI=
 		</data>
 		<key>YouTubeResources.bundle/dislike_selected.png</key>
 		<data>
-		XnRVBx0H7Yj3kYaIGQBsNMhtqUw=
+		PsA1b3IF/UPRib6dnXLdoNQEnfI=
 		</data>
 		<key>YouTubeResources.bundle/dislike_selected@2x.png</key>
 		<data>
-		3uG3dZY2dPxYEcwHoIM/N54hMBM=
+		nvKPjtf/DuifIozs9VZdFPMLRRU=
+		</data>
+		<key>YouTubeResources.bundle/dislike_watch.png</key>
+		<data>
+		WTN09O6USOu0YVNovhUiLTbZUNQ=
+		</data>
+		<key>YouTubeResources.bundle/dislike_watch@2x.png</key>
+		<data>
+		B1U/cSzaS98igVIPsF5yFTI4qCg=
+		</data>
+		<key>YouTubeResources.bundle/dislike_watch_selected.png</key>
+		<data>
+		WWMQqvF8o46s0YmUXUAv0WZUULE=
+		</data>
+		<key>YouTubeResources.bundle/dislike_watch_selected@2x.png</key>
+		<data>
+		UcZzxcwFPLX71LMXkOJVsCSsu6U=
 		</data>
 		<key>YouTubeResources.bundle/education_guide.png</key>
 		<data>
-		t0hFXhenx35O/1j7DOF27JOBdr4=
+		c7itUrvdpZgI2m0nUPpzj7xnskU=
 		</data>
 		<key>YouTubeResources.bundle/education_guide@2x.png</key>
 		<data>
-		WTqyRWnaXiXfHTHCESoEbO86JiU=
+		xfqXv+nkVdqkhVdzBNePJDZ+rOw=
 		</data>
 		<key>YouTubeResources.bundle/education_guide_selected.png</key>
 		<data>
-		GnjyCebw+hObJeZ6GA5UDQKN+nQ=
+		A1EofUE0IIfx+i94cJZDlUkD7rg=
 		</data>
 		<key>YouTubeResources.bundle/education_guide_selected@2x.png</key>
 		<data>
-		E9w2VBbdgKZWVWev8EnIvMtcn1Y=
+		1sz4ezyjDaKQDzReqnPjU9b5nmI=
 		</data>
 		<key>YouTubeResources.bundle/entertainment_guide.png</key>
 		<data>
-		Mr+PNUW+WkIQaI0T3LZ/UWaBz5U=
+		DPXDqqwDFI8EXQLR2hd5Go7QiyM=
 		</data>
 		<key>YouTubeResources.bundle/entertainment_guide@2x.png</key>
 		<data>
-		a4uCUDwoBzWog4i/Z7s4ol0n+l4=
+		GpZsc62LPPGhzOxfF7dkukeGTfs=
 		</data>
 		<key>YouTubeResources.bundle/entertainment_guide_selected.png</key>
 		<data>
-		SDOGWGhnv5LEm6QnvDNih6KbIVM=
+		VjDD9T7SY6RWX4y+zzlsDDX4Wts=
 		</data>
 		<key>YouTubeResources.bundle/entertainment_guide_selected@2x.png</key>
 		<data>
-		+Xl3coDbcoQnXce5t0AJ4aqssio=
+		FvmD4v8ne5E9ONuIyrWabeTeE1c=
 		</data>
-		<key>YouTubeResources.bundle/feed_bubble.png</key>
+		<key>YouTubeResources.bundle/expand_guide.png</key>
 		<data>
-		V8ZA76/eC89Bgfgq6Rh44qxr+hI=
+		UAFcmJqPaacq/SgDycyjxIlSQfE=
 		</data>
-		<key>YouTubeResources.bundle/feed_bubble@2x.png</key>
+		<key>YouTubeResources.bundle/expand_guide@2x.png</key>
 		<data>
-		MSBoKkoeL5g7qu0wx94QYQpvyCI=
+		d6EG4+cYn7OFnomG82SYXlSgaeI=
 		</data>
-		<key>YouTubeResources.bundle/feed_error.png</key>
+		<key>YouTubeResources.bundle/external_redirect_guide.png</key>
 		<data>
-		oy4praGyuc5xyogj0XmQkNVwyzU=
+		Ig8qa1cl4+ClkQaqQbjj32qdpd8=
 		</data>
-		<key>YouTubeResources.bundle/feed_error@2x.png</key>
+		<key>YouTubeResources.bundle/external_redirect_guide@2x.png</key>
 		<data>
-		EFw00HEmWuOseqf0QrWF13lhasI=
+		L7t7MrWTC1upZ/MXlS1vDZFQSvU=
+		</data>
+		<key>YouTubeResources.bundle/external_redirect_guide_selected.png</key>
+		<data>
+		MsMO9BDBBNDd5WzWLaT+qKBnj4o=
+		</data>
+		<key>YouTubeResources.bundle/external_redirect_guide_selected@2x.png</key>
+		<data>
+		OcfMPGCpftybKgcG04SRdRy/V3U=
+		</data>
+		<key>YouTubeResources.bundle/favorites_guide.png</key>
+		<data>
+		aaHS70ZEvMuPB4z98e0aOI/aiv4=
+		</data>
+		<key>YouTubeResources.bundle/favorites_guide@2x.png</key>
+		<data>
+		nbG0/1HQL7CgNYHw4Bnf42ghxHU=
+		</data>
+		<key>YouTubeResources.bundle/favorites_guide_selected.png</key>
+		<data>
+		ckUUUgJ/HmE6uAll7eIt+yXo3XA=
+		</data>
+		<key>YouTubeResources.bundle/favorites_guide_selected@2x.png</key>
+		<data>
+		1o4MqR5vAdK4Qd6ftK8FtLoeKhI=
 		</data>
 		<key>YouTubeResources.bundle/film_guide.png</key>
 		<data>
-		71c8Jgc6udUVHasN4n6L2IxmXgk=
+		328kyk7OrMDl8IrdkgIlIQnRfzQ=
 		</data>
 		<key>YouTubeResources.bundle/film_guide@2x.png</key>
 		<data>
-		tIBvNqshd5euucJtp3QNzUNb/0A=
+		plIxA/ePBc35o3mdQY0k2gk5nO0=
 		</data>
 		<key>YouTubeResources.bundle/film_guide_selected.png</key>
 		<data>
-		/cGDK1vjjXbMPm6kgxLzgHI4szs=
+		hGIqKUv4E6ZLHYbns//oU3Dfalo=
 		</data>
 		<key>YouTubeResources.bundle/film_guide_selected@2x.png</key>
 		<data>
-		6FKsxXP1thPchH0UuMMWAe13Mc4=
-		</data>
-		<key>YouTubeResources.bundle/fullscreen_portrait.png</key>
-		<data>
-		z2F+i5+ocCj20M3lcpu151MevNE=
-		</data>
-		<key>YouTubeResources.bundle/fullscreen_portrait@2x.png</key>
-		<data>
-		ZtkmiYshLBAJKaeIzcnfs70ujdE=
+		XMqixCqGIllrVF7aq1F7StuaAn4=
 		</data>
 		<key>YouTubeResources.bundle/games_guide.png</key>
 		<data>
-		whw4Lb6KuIjkkoZQwbDYfDm68wQ=
+		U/aHmLxZHNxdXPWi8bvTIhqXZOg=
 		</data>
 		<key>YouTubeResources.bundle/games_guide@2x.png</key>
 		<data>
-		fgUIs0MgTZOXc3e8yxJzntCb7yA=
+		IXpFXcX9NWXoxCf40ao3bi8dgAs=
 		</data>
 		<key>YouTubeResources.bundle/games_guide_selected.png</key>
 		<data>
-		M1NkTQXTIvaFV8QX6Xhlv4gbYAY=
+		KVRjkulc5NLk0qMNlqNqQW5QR7I=
 		</data>
 		<key>YouTubeResources.bundle/games_guide_selected@2x.png</key>
 		<data>
-		moHI/l7HZ5UPlN1II758D+OTtBg=
-		</data>
-		<key>YouTubeResources.bundle/grouped_table.png</key>
-		<data>
-		3RUGwsCG047MVKL2P8jLj5GWzqM=
-		</data>
-		<key>YouTubeResources.bundle/grouped_table@2x.png</key>
-		<data>
-		VOvoCBr1lZWTiUgNng6AJBulA+4=
-		</data>
-		<key>YouTubeResources.bundle/grouped_table_bottom.png</key>
-		<data>
-		MCmsuccvDZv9QW2cAlCwKThAreU=
-		</data>
-		<key>YouTubeResources.bundle/grouped_table_bottom@2x.png</key>
-		<data>
-		Zwiz6ed9k16y36yvraD7lQBR5GQ=
-		</data>
-		<key>YouTubeResources.bundle/grouped_table_bottom_selected.png</key>
-		<data>
-		VI+YQ3UOWsZGfoitvZNvMM8dgAA=
-		</data>
-		<key>YouTubeResources.bundle/grouped_table_bottom_selected@2x.png</key>
-		<data>
-		IZK+tlHMLE3WDBfALzGj7Dt2H6E=
-		</data>
-		<key>YouTubeResources.bundle/grouped_table_middle.png</key>
-		<data>
-		dy1vB5z+uucUmQkGj+M2g/oYSuk=
-		</data>
-		<key>YouTubeResources.bundle/grouped_table_middle@2x.png</key>
-		<data>
-		MJ9HEMXPsh+vt4JVZc6DCiT6qEY=
-		</data>
-		<key>YouTubeResources.bundle/grouped_table_middle_selected.png</key>
-		<data>
-		T5jfQU2fWqa8PfXcaL3kv7TBrg0=
-		</data>
-		<key>YouTubeResources.bundle/grouped_table_middle_selected@2x.png</key>
-		<data>
-		rmfETYoKVu7nBp80iIM34dyTaLc=
-		</data>
-		<key>YouTubeResources.bundle/grouped_table_selected.png</key>
-		<data>
-		+JTsV99z/pzGY+rABIOiraMZz3Q=
-		</data>
-		<key>YouTubeResources.bundle/grouped_table_selected@2x.png</key>
-		<data>
-		xvxDQz38TCHOr2H8lXtgUAWyTvg=
-		</data>
-		<key>YouTubeResources.bundle/grouped_table_top.png</key>
-		<data>
-		PfM8DDeYsM3AdbyLsXcFCkkIcAM=
-		</data>
-		<key>YouTubeResources.bundle/grouped_table_top@2x.png</key>
-		<data>
-		aHroseL9ZvzFSw6uiV19/AjCpDA=
-		</data>
-		<key>YouTubeResources.bundle/grouped_table_top_selected.png</key>
-		<data>
-		Tx2/Lbc9Yq8Xu1vtd5+WdMDa+10=
-		</data>
-		<key>YouTubeResources.bundle/grouped_table_top_selected@2x.png</key>
-		<data>
-		/C+YTnkcqlMlH8sz0PhG3ktEQ7o=
+		VBaEVMXVyG9DxDXXVlkV8f1P16U=
 		</data>
 		<key>YouTubeResources.bundle/guide.png</key>
 		<data>
-		et5TQ60LHDiUANEywoJ+kZ046sM=
+		zczjgU5zlNpLtiWGKzAtNTvSoeQ=
 		</data>
 		<key>YouTubeResources.bundle/guide@2x.png</key>
 		<data>
-		yH8W+aTkldY3l+fVrpinuRGCego=
-		</data>
-		<key>YouTubeResources.bundle/guide_feed_error.png</key>
-		<data>
-		Ero0yplNceOZc8Z1UtB0IMsh2Ps=
-		</data>
-		<key>YouTubeResources.bundle/guide_feed_error@2x.png</key>
-		<data>
-		+s4AhlOB42wZe0Y3GW6D1peOQ+4=
+		0KVMqwGuxxmfh0xoWq8wdvF/8iY=
 		</data>
 		<key>YouTubeResources.bundle/header_background.png</key>
 		<data>
-		tmol4WWZqH7HnZgv6LZ/PZXhIPY=
+		qKWZbOMPyRVzikTNF6CLeQRBqmI=
 		</data>
 		<key>YouTubeResources.bundle/header_background@2x.png</key>
 		<data>
-		Xl6RnoxjP9QCLRUZ73HLsSdWvlw=
+		fMrwOKGGLNtWw+FcE3zW/sXpoZk=
+		</data>
+		<key>YouTubeResources.bundle/history_guide.png</key>
+		<data>
+		+xrMoXe+hd/ULSqVx+Rt/GKlOmo=
+		</data>
+		<key>YouTubeResources.bundle/history_guide@2x.png</key>
+		<data>
+		GvwZIaX8TG6mY2CDl2W0BirMnSA=
+		</data>
+		<key>YouTubeResources.bundle/history_guide_selected.png</key>
+		<data>
+		5CifkhLlhRJe8B3/IM8OAKNFdA4=
+		</data>
+		<key>YouTubeResources.bundle/history_guide_selected@2x.png</key>
+		<data>
+		bo8Y1XrZGGuQKQDDREaAoSOo6AQ=
 		</data>
 		<key>YouTubeResources.bundle/howto_guide.png</key>
 		<data>
-		TGx2isq4g4WxL83/F+L+3ElWcYw=
+		DmzUIgg7+wjayoWnZYzoJh7z5Rg=
 		</data>
 		<key>YouTubeResources.bundle/howto_guide@2x.png</key>
 		<data>
-		587q8RSk2YFqrLrNxxvrr3ilxk0=
+		6LtVi7bO2KYfTKxeeYvocmcwsHU=
 		</data>
 		<key>YouTubeResources.bundle/howto_guide_selected.png</key>
 		<data>
-		NH47vspESgrRGx2a9/BGMfA4bOU=
+		jTBHG9K9J4dkt6jioLz6GDjwhvU=
 		</data>
 		<key>YouTubeResources.bundle/howto_guide_selected@2x.png</key>
 		<data>
-		3LniC/Hyp8ML8E+0D6FFMI+bhlA=
+		AyLq4DX5GbC2k8ifnbmofijryQY=
 		</data>
-		<key>YouTubeResources.bundle/large_thumb_meta_background.png</key>
+		<key>YouTubeResources.bundle/ipad_account_cell_background_guide.png</key>
 		<data>
-		BGbQ64EN9MDJUB5xV/t0dBGmAL0=
+		+hQqUUv1Kw4hSyUCF4iR8NxPn/k=
 		</data>
-		<key>YouTubeResources.bundle/large_thumb_meta_background@2x.png</key>
+		<key>YouTubeResources.bundle/ipad_account_cell_background_guide@2x.png</key>
 		<data>
-		i+58avbvCeuSgCyu2Rqp/YiBazE=
+		fVVzHgfz8zNqok9TWsZHtNrZiv0=
+		</data>
+		<key>YouTubeResources.bundle/ipad_account_cell_background_guide_selected.png</key>
+		<data>
+		5XOGpz+HWYsDz2HxNVMr95AvGXA=
+		</data>
+		<key>YouTubeResources.bundle/ipad_account_cell_background_guide_selected@2x.png</key>
+		<data>
+		rQJmCX8eCw+W150W41hvMMib20w=
+		</data>
+		<key>YouTubeResources.bundle/ipad_action.png</key>
+		<data>
+		NytYQNo5YQq7GDL3IIOx8QDe9LE=
+		</data>
+		<key>YouTubeResources.bundle/ipad_action@2x.png</key>
+		<data>
+		oldW7dPD7yihJkni3ekJX9vYI5Q=
+		</data>
+		<key>YouTubeResources.bundle/ipad_capture_camera.png</key>
+		<data>
+		OjkbUDsFA7ZxDDTaHSs5YgNVv4E=
+		</data>
+		<key>YouTubeResources.bundle/ipad_capture_camera@2x.png</key>
+		<data>
+		mBKLU31QwCHlSp97YPPkxB8Xwnw=
+		</data>
+		<key>YouTubeResources.bundle/ipad_capture_logo.png</key>
+		<data>
+		4R2Ot8b5zIqXo1zyytLpwAZkYOQ=
+		</data>
+		<key>YouTubeResources.bundle/ipad_capture_logo@2x.png</key>
+		<data>
+		JsiXPcJYAR+yRKS5a7j8e6KJ2uA=
+		</data>
+		<key>YouTubeResources.bundle/ipad_cell_background_guide.png</key>
+		<data>
+		+hQqUUv1Kw4hSyUCF4iR8NxPn/k=
+		</data>
+		<key>YouTubeResources.bundle/ipad_cell_background_guide@2x.png</key>
+		<data>
+		fVVzHgfz8zNqok9TWsZHtNrZiv0=
+		</data>
+		<key>YouTubeResources.bundle/ipad_cell_background_guide_selected.png</key>
+		<data>
+		5XOGpz+HWYsDz2HxNVMr95AvGXA=
+		</data>
+		<key>YouTubeResources.bundle/ipad_cell_background_guide_selected@2x.png</key>
+		<data>
+		rQJmCX8eCw+W150W41hvMMib20w=
+		</data>
+		<key>YouTubeResources.bundle/ipad_deck_background.png</key>
+		<data>
+		mycj2ugejcqEQ7vvVCtUl1haG9Q=
+		</data>
+		<key>YouTubeResources.bundle/ipad_deck_background@2x.png</key>
+		<data>
+		yY1q4U+Y8phDqXymWLfz6jodvtU=
+		</data>
+		<key>YouTubeResources.bundle/ipad_deck_background_portrait.png</key>
+		<data>
+		p3QTIsX4tfn/a/pS7p7BCDZNRa0=
+		</data>
+		<key>YouTubeResources.bundle/ipad_deck_background_portrait@2x.png</key>
+		<data>
+		LFJ4ZQ8fVTw4+xxSzQ1hC6qkxhY=
+		</data>
+		<key>YouTubeResources.bundle/ipad_dislike.png</key>
+		<data>
+		DxKhhw8VvwdQH8Ir2wu/1ULkGWE=
+		</data>
+		<key>YouTubeResources.bundle/ipad_dislike@2x.png</key>
+		<data>
+		DorG9n0WSAqsRlBsF6RBQ9Jv3TI=
+		</data>
+		<key>YouTubeResources.bundle/ipad_dislike_selected.png</key>
+		<data>
+		PsA1b3IF/UPRib6dnXLdoNQEnfI=
+		</data>
+		<key>YouTubeResources.bundle/ipad_dislike_selected@2x.png</key>
+		<data>
+		nvKPjtf/DuifIozs9VZdFPMLRRU=
+		</data>
+		<key>YouTubeResources.bundle/ipad_guide_disabled.png</key>
+		<data>
+		aVfZ6oqaINc7rpUoYYtyx65TcNs=
+		</data>
+		<key>YouTubeResources.bundle/ipad_guide_disabled@2x.png</key>
+		<data>
+		FszsKvNaheFD5tTijpxGrEEfkyY=
+		</data>
+		<key>YouTubeResources.bundle/ipad_header_background_guide.png</key>
+		<data>
+		+S+WK+5bYvXNPjPo1Qp90LL8Nbs=
+		</data>
+		<key>YouTubeResources.bundle/ipad_header_background_guide@2x.png</key>
+		<data>
+		jIQKobFg2O/YlNtx7JGxHdQlUxc=
+		</data>
+		<key>YouTubeResources.bundle/ipad_like.png</key>
+		<data>
+		WeHGmwwj1268aII2LwrU2ZhFoL8=
+		</data>
+		<key>YouTubeResources.bundle/ipad_like@2x.png</key>
+		<data>
+		W18FHzC/hZPH6ORi1soQopYqg1A=
+		</data>
+		<key>YouTubeResources.bundle/ipad_like_selected.png</key>
+		<data>
+		QrioHVgBSEtqJjg+gcMH7+DZO/4=
+		</data>
+		<key>YouTubeResources.bundle/ipad_like_selected@2x.png</key>
+		<data>
+		EBTbniBFMpNPeolgXET76YPQ4s4=
+		</data>
+		<key>YouTubeResources.bundle/ipad_promo_background.png</key>
+		<data>
+		/xxdNWRs5ZwoV5xn4BY+oF0LS88=
+		</data>
+		<key>YouTubeResources.bundle/ipad_promo_background@2x.png</key>
+		<data>
+		lCVSatY4tSutOtUQahP4Wl/SCy4=
+		</data>
+		<key>YouTubeResources.bundle/ipad_right_column_shadow.png</key>
+		<data>
+		T4GLiaX7yUCgboM6DaT9qzbiwt8=
+		</data>
+		<key>YouTubeResources.bundle/ipad_right_column_shadow@2x.png</key>
+		<data>
+		27/j31Tw6HG0h0Fby2dVIYY1cbA=
+		</data>
+		<key>YouTubeResources.bundle/ipad_right_column_titlebar.png</key>
+		<data>
+		j55hObG3Xs3RqTsEXY2cw2WM2uw=
+		</data>
+		<key>YouTubeResources.bundle/ipad_right_column_titlebar@2x.png</key>
+		<data>
+		PrpAHSGOHlF9W1pWHbf4eW2P33s=
+		</data>
+		<key>YouTubeResources.bundle/ipad_search_hint.png</key>
+		<data>
+		j9j1EUkETcYotvXcNKq6bDVYPFI=
+		</data>
+		<key>YouTubeResources.bundle/ipad_search_hint@2x.png</key>
+		<data>
+		ik3YiWeCO4bpqYrxJiFdNcsKqxI=
+		</data>
+		<key>YouTubeResources.bundle/ipad_search_input.png</key>
+		<data>
+		AbDD1fmJmHobFQTWun1D4eLSSMs=
+		</data>
+		<key>YouTubeResources.bundle/ipad_search_input@2x.png</key>
+		<data>
+		FlsgkWTuhueYok5QYOcdUXs6TLg=
+		</data>
+		<key>YouTubeResources.bundle/ipad_search_input_inactive.png</key>
+		<data>
+		jVAWuczN2YRGHBSe/LboxiJdsxg=
+		</data>
+		<key>YouTubeResources.bundle/ipad_search_input_inactive@2x.png</key>
+		<data>
+		6lM6Irb+GH6Tx+FKj3l6+FzfB1c=
+		</data>
+		<key>YouTubeResources.bundle/ipad_search_voice.png</key>
+		<data>
+		zmFptSHrN/A0fmWYJKN7z91fbL4=
+		</data>
+		<key>YouTubeResources.bundle/ipad_search_voice@2x.png</key>
+		<data>
+		UI95oCI7vsS9MeoFqBuihbDUk7Q=
+		</data>
+		<key>YouTubeResources.bundle/ipad_section_background_guide.png</key>
+		<data>
+		dwhYeQcLdxa5Yt0daVF80ZdZWn0=
+		</data>
+		<key>YouTubeResources.bundle/ipad_section_background_guide@2x.png</key>
+		<data>
+		/01fZrgOJ2iBxHWh2LRfC/NQveA=
+		</data>
+		<key>YouTubeResources.bundle/ipad_side_feed_background_landscape.png</key>
+		<data>
+		RPzYdP4aeuzGPoANDkBIXPy3cEI=
+		</data>
+		<key>YouTubeResources.bundle/ipad_side_feed_background_landscape@2x.png</key>
+		<data>
+		FTFGgfTzTOtkgQFQppRGMghDwW8=
+		</data>
+		<key>YouTubeResources.bundle/ipad_side_feed_background_portrait.png</key>
+		<data>
+		6oW9mczLchpXE0NNxkMfcwO66UM=
+		</data>
+		<key>YouTubeResources.bundle/ipad_side_feed_background_portrait@2x.png</key>
+		<data>
+		Vu11QjnuqrHXpGtnQs+NiqgBucE=
+		</data>
+		<key>YouTubeResources.bundle/ipad_titlebar.png</key>
+		<data>
+		Di7evvN/vfJqnQ6jjDlqAbffVsY=
+		</data>
+		<key>YouTubeResources.bundle/ipad_titlebar@2x.png</key>
+		<data>
+		EIDTsafBiZJhfR73J7vrohotYiA=
 		</data>
 		<key>YouTubeResources.bundle/large_thumbnail_placeholder.png</key>
 		<data>
-		MepjcqlNdnn+xwQsdI3Z3F/wzIE=
+		fQ1zMMsyy5OJeUhmQE3ovQQH3NI=
 		</data>
 		<key>YouTubeResources.bundle/large_thumbnail_placeholder@2x.png</key>
 		<data>
-		oOkxUREAK+4HcEMwEspgHP3ceGc=
+		tHdWhg/WLpYlrC42ldwCPFwTiHQ=
 		</data>
 		<key>YouTubeResources.bundle/like.png</key>
 		<data>
-		bs+KkfrlMF9FTXDEFFJYSi2fDr4=
+		WeHGmwwj1268aII2LwrU2ZhFoL8=
 		</data>
 		<key>YouTubeResources.bundle/like@2x.png</key>
 		<data>
-		CpZ1t/Z+S852mmHIRx2dcNaTIR4=
+		W18FHzC/hZPH6ORi1soQopYqg1A=
 		</data>
 		<key>YouTubeResources.bundle/like_selected.png</key>
 		<data>
-		GsepFksMR1CnK+gdZl8EP/waAvE=
+		QrioHVgBSEtqJjg+gcMH7+DZO/4=
 		</data>
 		<key>YouTubeResources.bundle/like_selected@2x.png</key>
 		<data>
-		uwJzXApN/VuntBcTk31RyEULhIk=
+		EBTbniBFMpNPeolgXET76YPQ4s4=
+		</data>
+		<key>YouTubeResources.bundle/like_watch.png</key>
+		<data>
+		mcRYt8BMJaB9QxCzoAb/M5N9f8Q=
+		</data>
+		<key>YouTubeResources.bundle/like_watch@2x.png</key>
+		<data>
+		+twyWxpX2gUMOa7ncN5YWnopuh4=
+		</data>
+		<key>YouTubeResources.bundle/like_watch_selected.png</key>
+		<data>
+		74mq65Qi7/Xzwkc7ZgqP8w00bFk=
+		</data>
+		<key>YouTubeResources.bundle/like_watch_selected@2x.png</key>
+		<data>
+		0F02uWjxeMrdsvT9n5+lCNCb+qc=
+		</data>
+		<key>YouTubeResources.bundle/live_guide.png</key>
+		<data>
+		cM3Re6eHJk9CIHQQP0joOa44WuA=
+		</data>
+		<key>YouTubeResources.bundle/live_guide@2x.png</key>
+		<data>
+		q6eFNy+3R18GHeGo5q6YaLyBkoE=
+		</data>
+		<key>YouTubeResources.bundle/live_guide_selected.png</key>
+		<data>
+		Or04spwoZmQoT38hYJ8PJu24cX8=
+		</data>
+		<key>YouTubeResources.bundle/live_guide_selected@2x.png</key>
+		<data>
+		OTgUOkqUepnMuDAn7PncOZr0Xi0=
 		</data>
 		<key>YouTubeResources.bundle/logo.png</key>
 		<data>
-		UDAWQYNELyKSmsx/dp5TSubReSU=
+		AN0RZtpy2tHoDrWxcMvUS2BmQC8=
 		</data>
 		<key>YouTubeResources.bundle/logo@2x.png</key>
 		<data>
-		+XFs+fsgKOpMoTYuUn6sImsVCEE=
+		9uQjhfFw0AYuP4A3FFYu8ZUzsAg=
 		</data>
 		<key>YouTubeResources.bundle/music_guide.png</key>
 		<data>
-		I84AyqJzG78+24IJvskR4ZCxv6E=
+		kBTt1dpxXLN5IdYsxuMBZWxd18U=
 		</data>
 		<key>YouTubeResources.bundle/music_guide@2x.png</key>
 		<data>
-		yuLF0FY9zvgszkfsnpYFPZbcH/g=
+		eEGvd5svMPvx0KpVhIKG08fWp0s=
 		</data>
 		<key>YouTubeResources.bundle/music_guide_selected.png</key>
 		<data>
-		eXHbPefFQYW0JMc9tTSsyWRGDzU=
+		NDc1d2t4p6TK7hIXbEh2wCSx7Wo=
 		</data>
 		<key>YouTubeResources.bundle/music_guide_selected@2x.png</key>
 		<data>
-		XVIsx24+FyOXc325T3oIuwjaDVg=
+		P+paU0BzoKKqYd/5CmVuCRkZnxk=
 		</data>
 		<key>YouTubeResources.bundle/news_guide.png</key>
 		<data>
-		tEE98vvh53XVCROUfUSN/QUUIIU=
+		1JbJ6gT6n4E/Ih3D2APqdQUHj64=
 		</data>
 		<key>YouTubeResources.bundle/news_guide@2x.png</key>
 		<data>
-		RU8yU9ofkKwnCtEv2+o1ys/gnmM=
+		uMAdc3lbGkvjVgJe22YXZ7F97T0=
 		</data>
 		<key>YouTubeResources.bundle/news_guide_selected.png</key>
 		<data>
-		f3lLcYqSpEx5t1PTxfnUJOg1nu4=
+		wJqDGERD/1trsNUfFCgYXohgMMU=
 		</data>
 		<key>YouTubeResources.bundle/news_guide_selected@2x.png</key>
 		<data>
-		MJtIhXG9teN76AD/QR8K7K95UCs=
+		Fyq31b5Bg+Y/TfTKfLBdQlKDJ/0=
 		</data>
-		<key>YouTubeResources.bundle/not_available_airplay.png</key>
+		<key>YouTubeResources.bundle/not_available_mobile.png</key>
 		<data>
-		iEzo1+KOGohKgXNIU5IkvZSua9I=
+		AHE29TCeR91aeFkijsxK5qqfWP0=
 		</data>
-		<key>YouTubeResources.bundle/pause.png</key>
+		<key>YouTubeResources.bundle/not_available_mobile@2x.png</key>
 		<data>
-		QYPIZljn2d1qkZxvKw3SpigAwro=
+		yiCGPDovDrJ6/MuLKRnG6zM901Q=
 		</data>
-		<key>YouTubeResources.bundle/pause@2x.png</key>
+		<key>YouTubeResources.bundle/not_available_mobile_large.png</key>
 		<data>
-		aTouoQ5nz1FwLrAQ0WcGVfm2Ibs=
+		JIEJxASO+oec6iLtyHpGMSvPZ7Y=
 		</data>
-		<key>YouTubeResources.bundle/pause_portrait.png</key>
+		<key>YouTubeResources.bundle/not_available_mobile_large@2x.png</key>
 		<data>
-		8KYDeooY1NbTfr2G6+we1tsB53c=
+		vvwWt8VYQuKWnOGS6Zl5FBcVvPk=
 		</data>
-		<key>YouTubeResources.bundle/pause_portrait@2x.png</key>
+		<key>YouTubeResources.bundle/now_playing_guide.png</key>
 		<data>
-		DgIhJ9IzDU1W/Ecfb4zMuyHGDoY=
+		xKCKLJf7BWnhKJrdhTTHgsftB7U=
+		</data>
+		<key>YouTubeResources.bundle/now_playing_guide@2x.png</key>
+		<data>
+		bmXyZzVZ5wVPHw/fyOaBnlPNAM4=
+		</data>
+		<key>YouTubeResources.bundle/now_playing_guide_selected.png</key>
+		<data>
+		AnUcN53+RNYieLu/xO1YmoVJuP0=
+		</data>
+		<key>YouTubeResources.bundle/now_playing_guide_selected@2x.png</key>
+		<data>
+		sa1v1TYFjpnMQMayCUahGlW2cSY=
+		</data>
+		<key>YouTubeResources.bundle/pairing_success.png</key>
+		<data>
+		k5+JD+hghbg2eR9odj1WTWTSX/c=
+		</data>
+		<key>YouTubeResources.bundle/pairing_success@2x.png</key>
+		<data>
+		5d7LD5L5s8stv9Ry2pebKC2Keg0=
+		</data>
+		<key>YouTubeResources.bundle/pairing_success_segment.png</key>
+		<data>
+		t1ZPtP8D2tUUWNdbKI7C8PL7TDs=
+		</data>
+		<key>YouTubeResources.bundle/pairing_success_segment@2x.png</key>
+		<data>
+		LyzkuILfXq0x8gaVVl1u3B3ewHQ=
+		</data>
+		<key>YouTubeResources.bundle/pause_overlay.png</key>
+		<data>
+		nM1El5LZryBD06qK9mM31My8p04=
+		</data>
+		<key>YouTubeResources.bundle/pause_overlay@2x.png</key>
+		<data>
+		tahKXi5ZUylIVRFdd6TG1tdEKDk=
 		</data>
 		<key>YouTubeResources.bundle/people_guide.png</key>
 		<data>
-		1mSr9q1t3xgFOQFTT/C/CqZ0C5Y=
+		jflJnPoiqB7rOaInqpz4Q7WaDLc=
 		</data>
 		<key>YouTubeResources.bundle/people_guide@2x.png</key>
 		<data>
-		8HEplBt8+I8NVZ3p830NH7EuFYI=
+		/ylGZFL2OfIgqqRguJhTBmlh+N8=
 		</data>
 		<key>YouTubeResources.bundle/people_guide_selected.png</key>
 		<data>
-		dHywWR9ohvkHSMikME6lygSA0U0=
+		6mQav6RVkxwZmx0oaxxkxD9gxAY=
 		</data>
 		<key>YouTubeResources.bundle/people_guide_selected@2x.png</key>
 		<data>
-		tBzsxTiJMhQJLGlje0PJe42mCI8=
+		Y6HHWfFwj2zAw1ViRX2HpctvOUs=
 		</data>
-		<key>YouTubeResources.bundle/play.png</key>
+		<key>YouTubeResources.bundle/play_overlay.png</key>
 		<data>
-		pST+aPxHNHL9zTP1eloNIYpz0nA=
+		yz7ZnqVVRClYaPoFqGyHmLVayC4=
 		</data>
-		<key>YouTubeResources.bundle/play@2x.png</key>
+		<key>YouTubeResources.bundle/play_overlay@2x.png</key>
 		<data>
-		/wWmT+us23EN/TKfdHkAI9OC6qE=
-		</data>
-		<key>YouTubeResources.bundle/play_portrait.png</key>
-		<data>
-		w5Vf4q7Asu+YBgLfVJkvvvmHNPE=
-		</data>
-		<key>YouTubeResources.bundle/play_portrait@2x.png</key>
-		<data>
-		lDkmnp4MSq7Hb7q/E/rH9jFhRe0=
+		LGqORxEG4mLDsr5+y3iQg3BWiGY=
 		</data>
 		<key>YouTubeResources.bundle/playall.png</key>
 		<data>
-		kdM9+nEQI/9SqVDnmRDtOqTuIWk=
+		80Vdq35l/afpNJ4LhTOIVmiKUCY=
 		</data>
 		<key>YouTubeResources.bundle/playall@2x.png</key>
 		<data>
-		nIuiuZj38yWRSg6igQdzBuHyrGU=
+		9Ydu3ONubiV+XZxOSnvuPFcnsmo=
 		</data>
-		<key>YouTubeResources.bundle/played.png</key>
+		<key>YouTubeResources.bundle/playlists_guide.png</key>
 		<data>
-		VIbiMtuuERbUAP6uUZUO9xca/Ns=
+		S+qHFu4BEbiIVVK6plvJ11s0YcI=
 		</data>
-		<key>YouTubeResources.bundle/played@2x.png</key>
+		<key>YouTubeResources.bundle/playlists_guide@2x.png</key>
 		<data>
-		Wc7tX+Jx0p/7JxT+gbdogGfbPhs=
+		82n3B1V3zsx44OzAEAW3nYCk7co=
 		</data>
-		<key>YouTubeResources.bundle/played_ad.png</key>
+		<key>YouTubeResources.bundle/playlists_guide_selected.png</key>
 		<data>
-		XkavI27scKGN6+h6UDK+JYKYpwo=
+		5Ce1UxoEG40PGXWQtfzTQAVJECo=
 		</data>
-		<key>YouTubeResources.bundle/played_ad@2x.png</key>
+		<key>YouTubeResources.bundle/playlists_guide_selected@2x.png</key>
 		<data>
-		GQ+ho21pi/9elN98NVPMHco6or8=
+		dIBEy2GH+wg1LNrkqRfGD4bumK0=
 		</data>
-		<key>YouTubeResources.bundle/player_bar_background.png</key>
+		<key>YouTubeResources.bundle/popover_arrow_down.png</key>
 		<data>
-		H4mjchVNV9l7yG3j8AwVIUrGFVc=
+		FvPTGOFax9gVX4d6fbMgv0Cg8rQ=
 		</data>
-		<key>YouTubeResources.bundle/player_bar_background@2x.png</key>
+		<key>YouTubeResources.bundle/popover_arrow_down@2x.png</key>
 		<data>
-		XNMQSSsQM0fpqa6VbXWUDaM99RM=
+		pTmz8ahgWsaEKTQcJCuDd1eQigU=
 		</data>
-		<key>YouTubeResources.bundle/playing_on.png</key>
+		<key>YouTubeResources.bundle/popover_arrow_left.png</key>
 		<data>
-		koA5zrgfz9DL+w+wyFRlLu1sRNA=
+		yxeOWZiNyGGJ5VPgnQ4w7Uk4Of4=
 		</data>
-		<key>YouTubeResources.bundle/playing_on@2x.png</key>
+		<key>YouTubeResources.bundle/popover_arrow_left@2x.png</key>
 		<data>
-		ulom7q/FEupDARrkC6OgrjwRjjQ=
+		+HNJolP+0T0gZS8ud+c4oQMSpTI=
 		</data>
-		<key>YouTubeResources.bundle/playlist_thumb_meta_background.png</key>
+		<key>YouTubeResources.bundle/popover_arrow_right.png</key>
 		<data>
-		8kYILWgyz4Kf/6g5zXaJF6yPyB4=
+		Wjq7SPwmnWcJ+mNy0tYZqQpm7kU=
 		</data>
-		<key>YouTubeResources.bundle/playlist_thumb_meta_background@2x.png</key>
+		<key>YouTubeResources.bundle/popover_arrow_right@2x.png</key>
 		<data>
-		9zVwe8jJxHnTXTm9QEgI898DNm4=
+		U0BZg7uqgmen08i9ot0WdcyNfys=
+		</data>
+		<key>YouTubeResources.bundle/popover_arrow_up.png</key>
+		<data>
+		90fa4uTTZEaS6w3Y07CzjxM1prY=
+		</data>
+		<key>YouTubeResources.bundle/popover_arrow_up@2x.png</key>
+		<data>
+		7GsUQHzVi8XVs99zbSuvVrnef3s=
+		</data>
+		<key>YouTubeResources.bundle/popover_background.png</key>
+		<data>
+		7NDr2GpXZyWHzwYB1IwPnHO8zMo=
+		</data>
+		<key>YouTubeResources.bundle/popover_background@2x.png</key>
+		<data>
+		LAG5Uw/SxnFvWIcUbEPRSfgj8CQ=
 		</data>
 		<key>YouTubeResources.bundle/popular_guide.png</key>
 		<data>
-		uSR7WUqHt5Am2dh+kOoc/DWy2bY=
+		aaHS70ZEvMuPB4z98e0aOI/aiv4=
 		</data>
 		<key>YouTubeResources.bundle/popular_guide@2x.png</key>
 		<data>
-		m9T0sCRfh9cPKjqxS0hKgDaVDj4=
+		nbG0/1HQL7CgNYHw4Bnf42ghxHU=
 		</data>
 		<key>YouTubeResources.bundle/popular_guide_selected.png</key>
 		<data>
-		geXLVwQJwPRQ5cSYHcgzXcT67iU=
+		ckUUUgJ/HmE6uAll7eIt+yXo3XA=
 		</data>
 		<key>YouTubeResources.bundle/popular_guide_selected@2x.png</key>
 		<data>
-		6j4avrZsXq7F9ad0Gfa50rqNDxc=
+		1o4MqR5vAdK4Qd6ftK8FtLoeKhI=
 		</data>
 		<key>YouTubeResources.bundle/promo_background.png</key>
 		<data>
-		zHqNKX1g9VNPfJpuy4Yt8snOgSg=
+		PPCxTQCcNEm3exL9UigPYq6QZzY=
 		</data>
 		<key>YouTubeResources.bundle/promo_background@2x.png</key>
 		<data>
-		y8QVdi0b4mvQMnYoyfESueT7fvU=
+		zqeI76kfa4Id86uGS1pHXTgp6aM=
 		</data>
-		<key>YouTubeResources.bundle/purchase_thumb_meta_background.png</key>
+		<key>YouTubeResources.bundle/purchases_guide.png</key>
 		<data>
-		0L62J0E/gxjrvAjIPhLSXHz/vEI=
+		jiHZY6xh0lSt/8SLKhyOqtF7m9I=
 		</data>
-		<key>YouTubeResources.bundle/purchase_thumb_meta_background@2x.png</key>
+		<key>YouTubeResources.bundle/purchases_guide@2x.png</key>
 		<data>
-		V2iQcrB6eg8r7V+WLHJTHhncdHk=
+		64Uz4X0VsMxQKKNz/v0vI7vl+i4=
 		</data>
-		<key>YouTubeResources.bundle/refresh_dark.png</key>
+		<key>YouTubeResources.bundle/purchases_guide_selected.png</key>
 		<data>
-		B53X0899DR002lcvpME4IkqiAbM=
+		/Uuc90VW/j5KCr+jAA7XnNWPG9I=
 		</data>
-		<key>YouTubeResources.bundle/refresh_dark@2x.png</key>
+		<key>YouTubeResources.bundle/purchases_guide_selected@2x.png</key>
 		<data>
-		JtbueAEXVSybI5qt7uX2vkED34k=
+		311hhtRqjPA+HckvkNKfKyXZONY=
 		</data>
-		<key>YouTubeResources.bundle/refresh_light.png</key>
+		<key>YouTubeResources.bundle/replay_overlay.png</key>
 		<data>
-		XMYHXHJc0rR3EVFCxG7YCFtQUDM=
+		flrBLXzdyUL+OL8aN8udq2IQ5tY=
 		</data>
-		<key>YouTubeResources.bundle/refresh_light@2x.png</key>
+		<key>YouTubeResources.bundle/replay_overlay@2x.png</key>
 		<data>
-		wuI4F98ws00ND9fkXyay/xryCoM=
-		</data>
-		<key>YouTubeResources.bundle/replay.png</key>
-		<data>
-		bezi7d/XiHOqFp1uTVJ7VayAfFg=
-		</data>
-		<key>YouTubeResources.bundle/replay@2x.png</key>
-		<data>
-		wJSUNLQj9lrqiP58D/LrvA24MFs=
+		mLVTNyoLKfGC7aDovIaX5LIguZ0=
 		</data>
 		<key>YouTubeResources.bundle/rule_separator.png</key>
 		<data>
-		YwdCtycGu7BNBABsV8UphUpeRXY=
+		DnxtB8sdIu7PgSeTCYtwjE3LlPM=
 		</data>
 		<key>YouTubeResources.bundle/rule_separator@2x.png</key>
 		<data>
-		W7z0uC9o+7L3fNIA+qtx203Xg5Y=
+		OnA4lmufIWeed8nxB7UNcq8DD3o=
 		</data>
-		<key>YouTubeResources.bundle/scrubber.png</key>
+		<key>YouTubeResources.bundle/screen_delete.png</key>
 		<data>
-		ZpPZpBY9Fz6/35u0f7QIlQVyvyQ=
+		9EzhKn486EuXNgsQMAKz1L0Kf54=
 		</data>
-		<key>YouTubeResources.bundle/scrubber@2x.png</key>
+		<key>YouTubeResources.bundle/screen_delete@2x.png</key>
 		<data>
-		eauUiyUT7gG9FL4nCp7yqbRgMWg=
+		dWkF/LjhKdYex0fcUx2a8g+0Iuw=
 		</data>
 		<key>YouTubeResources.bundle/search.png</key>
 		<data>
-		NdpvtcIHox1m4LrRxMxYL0Hv3Fw=
+		AB+DboV223c7cVvlm1EFuPHRoY0=
 		</data>
 		<key>YouTubeResources.bundle/search@2x.png</key>
 		<data>
-		HOtcnASVil3ILFIKih9VKwLZuC0=
-		</data>
-		<key>YouTubeResources.bundle/search_add.png</key>
-		<data>
-		aMi5v6SeMo31sNNMjZANnVP2k9Y=
-		</data>
-		<key>YouTubeResources.bundle/search_add@2x.png</key>
-		<data>
-		h1Zt9ODXt2I77JGYKABiSKY2XKc=
-		</data>
-		<key>YouTubeResources.bundle/search_add_selected.png</key>
-		<data>
-		bUreLXz5UbYhtaneki2Cv2JeNd4=
-		</data>
-		<key>YouTubeResources.bundle/search_add_selected@2x.png</key>
-		<data>
-		3oMyZ/w8rQvnAmCqmqAe/J/EuCQ=
-		</data>
-		<key>YouTubeResources.bundle/search_clear.png</key>
-		<data>
-		cEH91b8gSiA8CN7tqnNwaY3ZbPk=
-		</data>
-		<key>YouTubeResources.bundle/search_clear@2x.png</key>
-		<data>
-		zqqpp9My7MUELJIv47kQMaK7gMc=
+		JjxLvwhrYyobLXTN6DR/o1XEroU=
 		</data>
 		<key>YouTubeResources.bundle/search_hint.png</key>
 		<data>
-		nri8ggvRpk64Z8kpAbUc2M94kn4=
+		7+LvBhdkeZGCGRtWmKey2fPO474=
 		</data>
 		<key>YouTubeResources.bundle/search_hint@2x.png</key>
 		<data>
-		He2TcwbpwU2u3D2Noi3CRwpttFM=
+		QlNU6BxynOQg6fI2MfnaOkv/zf0=
 		</data>
 		<key>YouTubeResources.bundle/search_input.png</key>
 		<data>
-		VbesoACtwATkfA3w99rTh+84WG8=
+		+rkNbt21W93ZaHcJKnnIvl6UH20=
 		</data>
 		<key>YouTubeResources.bundle/search_input@2x.png</key>
 		<data>
-		Wo2VrriNJo9N71vR4tSsALFQi/g=
+		nttUTk1+BIq3Sl0UI5XE8T0R7dY=
 		</data>
 		<key>YouTubeResources.bundle/search_titlebar.png</key>
 		<data>
-		OCogK6DcfVe+c4c5R/9md2PJgm0=
+		bVHsY4JegRm692qbKwvgS2ueLEA=
 		</data>
 		<key>YouTubeResources.bundle/search_titlebar@2x.png</key>
 		<data>
-		rY5L84pj4yDmbynJEocyu+7V1/s=
+		w95QiSwKsOGJsUsCDGMB0LZgSWY=
 		</data>
 		<key>YouTubeResources.bundle/search_voice.png</key>
 		<data>
-		yGgjQNAsre+4A6omlawpwJs66js=
+		H3QrXjMHa45joar8Wyw6PSugqvU=
 		</data>
 		<key>YouTubeResources.bundle/search_voice@2x.png</key>
 		<data>
-		AuKtqb7OnW5QJP+GYiMvEDpkNgI=
+		e6C19qrP2jmRei7/boQb+nj+LQ4=
 		</data>
 		<key>YouTubeResources.bundle/section_background_guide.png</key>
 		<data>
-		QMsCrWJdXzI0wwFQgE0VcyyNWSo=
+		lIdaWGocWmSSwSN0GZx97Q3davc=
 		</data>
 		<key>YouTubeResources.bundle/section_background_guide@2x.png</key>
 		<data>
-		0auK82wNPFonJvbdDRfEk2GTkPw=
+		/sa9u3+0xEUXehzaSKiXwKcaKJs=
 		</data>
 		<key>YouTubeResources.bundle/settings_bkg.png</key>
 		<data>
-		rXAV/btO3SowFP0D0nnHV74ZKRg=
+		6kcuM8gbbPjIHnyjA4cvGvzu8Q4=
 		</data>
 		<key>YouTubeResources.bundle/settings_bkg@2x.png</key>
 		<data>
-		QkV6WVOJTek3wvFDAThOMQ5XrLs=
+		Dmau8/QT2aR1iwAyUT1gHYTGU8g=
 		</data>
 		<key>YouTubeResources.bundle/settings_guide.png</key>
 		<data>
-		+mSmWv+hQiJB39gFmL6VF/epX38=
+		DNrLdGav8SfDKUsgO7jzNRAQpmo=
 		</data>
 		<key>YouTubeResources.bundle/settings_guide@2x.png</key>
 		<data>
-		FzBGHrqc+AE6CUgOQtHbWxOCjQI=
+		uLjayXEyyuSdd9cK9I3L0K+hCLc=
 		</data>
 		<key>YouTubeResources.bundle/settings_guide_selected.png</key>
 		<data>
-		nas2peCbGq4+1r4EHjnuLh6gtko=
+		FPtDhyTBwLuSlfwTerYPBtrZcwc=
 		</data>
 		<key>YouTubeResources.bundle/settings_guide_selected@2x.png</key>
 		<data>
-		t1fAZQwyUi9PFTbkhG+D9KY+rmk=
+		Msu8/a8248EAtnXOyC6W5N1ZSl4=
+		</data>
+		<key>YouTubeResources.bundle/shadow_left.png</key>
+		<data>
+		7Untb7RUs7PgghSBE33bAYCAqmQ=
+		</data>
+		<key>YouTubeResources.bundle/shadow_right.png</key>
+		<data>
+		bljNSPigLLRNt1PagXkRTtM3dKc=
 		</data>
 		<key>YouTubeResources.bundle/sketchy_box.png</key>
 		<data>
-		qZLHp2+RCoWSbXZx4Zvszg3/70o=
+		9EKmO4w6hc7xKAvoxxRX6AEh54k=
 		</data>
 		<key>YouTubeResources.bundle/sketchy_box@2x.png</key>
 		<data>
-		OYgUcp8pUara64y+nED+5lPHo2U=
-		</data>
-		<key>YouTubeResources.bundle/skip_ad_button.png</key>
-		<data>
-		tcDmLBZzAM2s9C5HDg+vuu2ISSQ=
-		</data>
-		<key>YouTubeResources.bundle/small_thumb_meta_background.png</key>
-		<data>
-		JNnIPgRxaRDn4Zg45LTak/D+HsQ=
-		</data>
-		<key>YouTubeResources.bundle/small_thumb_meta_background@2x.png</key>
-		<data>
-		cXUIaYjPLfKKWK2k1avA8PqHwLM=
-		</data>
-		<key>YouTubeResources.bundle/smallscreen.png</key>
-		<data>
-		4kwveSuxIwmNmd58oH+uET4BMus=
-		</data>
-		<key>YouTubeResources.bundle/smallscreen@2x.png</key>
-		<data>
-		D0NWTX9fWdPZhWnwNaA8xQ/Xbsk=
+		mtbL6p5ljvg/mVm06gFbdwmiwkQ=
 		</data>
 		<key>YouTubeResources.bundle/sports_guide.png</key>
 		<data>
-		UxImPgCsw1ZHkWbgI0qoShe/zsc=
+		c6mMr5xFnTBXUAr1KIDqTiD3hZg=
 		</data>
 		<key>YouTubeResources.bundle/sports_guide@2x.png</key>
 		<data>
-		U3MmAB1bCdsmtj/WlA7ri6g+kFA=
+		OqBdLHybXvX7i3G2r9a9ba7fPhM=
 		</data>
 		<key>YouTubeResources.bundle/sports_guide_selected.png</key>
 		<data>
-		gTV2TlG8jHuWs+jPpD+6FGkDvoI=
+		KtQfSPrRAfdu/aSTyl2fYvYm7+w=
 		</data>
 		<key>YouTubeResources.bundle/sports_guide_selected@2x.png</key>
 		<data>
-		vTPsBc/voj26PTtcElK9YGGgq/0=
-		</data>
-		<key>YouTubeResources.bundle/subscribe.png</key>
-		<data>
-		VtXhK+QkpuR2by7tJyXKre5GRl8=
-		</data>
-		<key>YouTubeResources.bundle/subscribe@2x.png</key>
-		<data>
-		bh02qKKzuz6qqw+oVfHZDiW3WWs=
-		</data>
-		<key>YouTubeResources.bundle/subscribed.png</key>
-		<data>
-		xYaW3fL3ee3vWwEA/9u7TLI8mRw=
-		</data>
-		<key>YouTubeResources.bundle/subscribed@2x.png</key>
-		<data>
-		2QKSnhviA1R8IvAf9tJDypWhLwI=
+		3f9Rz6DJa+aJmjvolh/FH+Sr3VQ=
 		</data>
 		<key>YouTubeResources.bundle/subscriptions_guide.png</key>
 		<data>
-		yF8FACrA40cCoxvSdbfl1fR7BBs=
+		A1WKTm28NamiD2oDFSR5C/cBBLs=
 		</data>
 		<key>YouTubeResources.bundle/subscriptions_guide@2x.png</key>
 		<data>
-		9CPdjhNNa4izFo6El0R8+R/aVvA=
+		RICuX60niXUq9AA33Qyn+ZkZpqg=
 		</data>
 		<key>YouTubeResources.bundle/subscriptions_guide_selected.png</key>
 		<data>
-		1G1N6unMmIL+1p/60A0Uo3/BRBc=
+		3lv9Fyc/k+TmdlzGd/77Y3xtvdE=
 		</data>
 		<key>YouTubeResources.bundle/subscriptions_guide_selected@2x.png</key>
 		<data>
-		UhLu197HD/V6ePDuuRSQ1ifZp+k=
+		9LWEYLIJdmG23dgkFCuaxQvO5Uw=
 		</data>
 		<key>YouTubeResources.bundle/swipe_arrow.png</key>
 		<data>
-		iEz0QqXuKocxIsHKbkRUNaMehQU=
+		2sQsKVbbkrwc6MIviZxTDemyP1M=
 		</data>
 		<key>YouTubeResources.bundle/swipe_arrow@2x.png</key>
 		<data>
-		ddki2ARi0kREcuOV7ScJxN+vv0s=
-		</data>
-		<key>YouTubeResources.bundle/tab_left.png</key>
-		<data>
-		d6InUiciqSrPhfxfKzOes3sJmWM=
-		</data>
-		<key>YouTubeResources.bundle/tab_left@2x.png</key>
-		<data>
-		Pzstw4fAQB+Eh0X2LK8svhPJVWs=
-		</data>
-		<key>YouTubeResources.bundle/tab_left_selected.png</key>
-		<data>
-		PemNydw0q01uG4cZCr4Bo02wE4c=
-		</data>
-		<key>YouTubeResources.bundle/tab_left_selected@2x.png</key>
-		<data>
-		NEldMLaVlz93ekxcarmH3ogqPdE=
-		</data>
-		<key>YouTubeResources.bundle/tab_mid.png</key>
-		<data>
-		dtPkknT6hMcmzX3lv3FuulwhE2M=
-		</data>
-		<key>YouTubeResources.bundle/tab_mid@2x.png</key>
-		<data>
-		UOwnZvn3A1IV45IjIk+BjCLuzt0=
-		</data>
-		<key>YouTubeResources.bundle/tab_mid_selected.png</key>
-		<data>
-		AIXBFLyRi1FZfxTi/fbUE+XLPtY=
-		</data>
-		<key>YouTubeResources.bundle/tab_mid_selected@2x.png</key>
-		<data>
-		5htepJM5Icb6C0CAUxrJ8+WQb94=
-		</data>
-		<key>YouTubeResources.bundle/tab_right.png</key>
-		<data>
-		jMrY/Tr/YudL+1HDmAB0tyByHPg=
-		</data>
-		<key>YouTubeResources.bundle/tab_right@2x.png</key>
-		<data>
-		Q9pPU7d12yE2huQK1a9qwoL2jCU=
-		</data>
-		<key>YouTubeResources.bundle/tab_right_selected.png</key>
-		<data>
-		c+GDkzTGzX/YXHJsv/D1BYEQve4=
-		</data>
-		<key>YouTubeResources.bundle/tab_right_selected@2x.png</key>
-		<data>
-		UCkJK8OeFtoHfX9ERWYYdoVgdMc=
-		</data>
-		<key>YouTubeResources.bundle/tab_titles_background.png</key>
-		<data>
-		rCBO1kPzufgijj3LeUaAA74ynbs=
-		</data>
-		<key>YouTubeResources.bundle/tab_titles_background@2x.png</key>
-		<data>
-		yl3ngTHKwH6rQnfXB+g1Oq52VhQ=
+		1DxRh9lEcWcj19blwiUoZLfnGX0=
 		</data>
 		<key>YouTubeResources.bundle/tech_guide.png</key>
 		<data>
-		8ykwlFTtOkxPg7gF54SMGaeyFjk=
+		VdAL074C7XwXmBb5Y6FVCcz7onY=
 		</data>
 		<key>YouTubeResources.bundle/tech_guide@2x.png</key>
 		<data>
-		wRp5smu4wCmvKVPerLqr4NB4pBw=
+		wu2k3mXwwfg3W+rMSeUdwaYAkDg=
 		</data>
 		<key>YouTubeResources.bundle/tech_guide_selected.png</key>
 		<data>
-		5ut/HXQGy2B+6EezCzkJV4f4Unc=
+		fOMtohL7OfO1XZducSefwrxliLQ=
 		</data>
 		<key>YouTubeResources.bundle/tech_guide_selected@2x.png</key>
 		<data>
-		77btQM/SJe1Xsyu43Pq8FTKxqZM=
+		Z7eXnjw5kYcRUSeoc26J8n8Nh0s=
 		</data>
-		<key>YouTubeResources.bundle/thumbnail_placeholder.png</key>
+		<key>YouTubeResources.bundle/thumbnail_mask_guide.png</key>
 		<data>
-		7arpb7VhMVJ29ufNUp7+1AV0FY4=
+		HKRKonG3SXoB14NmLH47jpKnnEw=
 		</data>
-		<key>YouTubeResources.bundle/thumbnail_placeholder@2x.png</key>
+		<key>YouTubeResources.bundle/thumbnail_mask_guide@2x.png</key>
 		<data>
-		zCiobLmZqHTdGpnujiRPriPe57I=
+		BkQYeNC2JWbk0JvAa+N1Y5VhJFQ=
+		</data>
+		<key>YouTubeResources.bundle/thumbnail_mask_guide_selected.png</key>
+		<data>
+		GVQJJdneilJyEDh7wKpJMrcZEnE=
+		</data>
+		<key>YouTubeResources.bundle/thumbnail_mask_guide_selected@2x.png</key>
+		<data>
+		gBl1L0cvp685QvAgRTfTldeKigE=
+		</data>
+		<key>YouTubeResources.bundle/thumbnail_mask_watch.png</key>
+		<data>
+		8h7viTG5LX2SUGCGHbE/lZVi6fQ=
+		</data>
+		<key>YouTubeResources.bundle/thumbnail_mask_watch@2x.png</key>
+		<data>
+		EPTc/uzeHIWsGE/C1F5nNrP9gro=
 		</data>
 		<key>YouTubeResources.bundle/titlebar.png</key>
 		<data>
-		qRJTgMAKu/BVlmgMu65621LqhxA=
+		uCWySQvmNwPDxcKMy+3kv1iCmo0=
 		</data>
 		<key>YouTubeResources.bundle/titlebar@2x.png</key>
 		<data>
-		a8/99cDYZH35jIy1rRpXgHpvsRs=
+		VsO7LyYH3fYFqohIgZtj2Gvdkqw=
 		</data>
 		<key>YouTubeResources.bundle/toast_error.png</key>
 		<data>
-		87g+SR2U47td6l5cQyQ6f3/sEBo=
+		D9q/S+MgIsnJgmwNeXxYhVvR2eU=
 		</data>
 		<key>YouTubeResources.bundle/toast_error@2x.png</key>
 		<data>
-		LaZe9jVS9hYqpNJ3Nj73xyM2Q5M=
+		wM7zLwYSCuP9rKXqKFpiknDB3pg=
 		</data>
 		<key>YouTubeResources.bundle/toast_info.png</key>
 		<data>
-		KB1x0pEXo1HHFGecebmcmHGuhJY=
+		z6f/BUkIU8ewDBGisdECTT4ZX0g=
 		</data>
 		<key>YouTubeResources.bundle/toast_info@2x.png</key>
 		<data>
-		lxbTE9Azne7eYBKcoHE7r8eG/Ns=
-		</data>
-		<key>YouTubeResources.bundle/track.png</key>
-		<data>
-		FcGWS2YBakzUngvAICWqzplU8j8=
-		</data>
-		<key>YouTubeResources.bundle/track@2x.png</key>
-		<data>
-		Q5KL13Hb+qhwMexQyaMIaWOZ2cs=
-		</data>
-		<key>YouTubeResources.bundle/transparent.png</key>
-		<data>
-		rGajSZ/IUnzWqHjMa5ZTp0JwsuE=
+		Hw+/rHyWRzovn3YIBystFrk+nWw=
 		</data>
 		<key>YouTubeResources.bundle/travel_guide.png</key>
 		<data>
-		+toZrNMfZDE8GDWxSYM2tAS8NWQ=
+		zaoxq7dFo68iaE8edV7tDJFxYMQ=
 		</data>
 		<key>YouTubeResources.bundle/travel_guide@2x.png</key>
 		<data>
-		i/o0r7hqJOgWsDcEBXgsXTCA6zg=
+		b8fILR/DFjrX4iuRAvYxxlzFt3U=
 		</data>
 		<key>YouTubeResources.bundle/travel_guide_selected.png</key>
 		<data>
-		WkLh4kKkYjR5f7XgkqU5ivRZbhQ=
+		Y7Jq7nh4ZudU2da4XVSm/3/ev/A=
 		</data>
 		<key>YouTubeResources.bundle/travel_guide_selected@2x.png</key>
 		<data>
-		NBtBZwrTUTHIxTHVrbHM5sDYKbQ=
+		xoSPxO4oHYOin+mYqYPFd9WZVvU=
 		</data>
-		<key>YouTubeResources.bundle/unsubscribe.png</key>
+		<key>YouTubeResources.bundle/tv_count_bg.png</key>
 		<data>
-		DgPj5upFzDV5JO1Hk/5AXVr+FqY=
+		Yc8w6bmHJlusrfgCsAeVT3GFE0w=
 		</data>
-		<key>YouTubeResources.bundle/unsubscribe@2x.png</key>
+		<key>YouTubeResources.bundle/tv_count_bg@2x.png</key>
 		<data>
-		VNTctahtsSRi3GxFGkcEDHeGsCA=
+		TjT9PNwV2NX01mBMj2girpgqfA8=
+		</data>
+		<key>YouTubeResources.bundle/tv_promo_white.png</key>
+		<data>
+		zC6v2XfeliEtwIWXpgo5gnPFZXM=
+		</data>
+		<key>YouTubeResources.bundle/tv_promo_white@2x.png</key>
+		<data>
+		drYPK6gbzls7/JkvDrpVBA/z91Y=
+		</data>
+		<key>YouTubeResources.bundle/tv_queue_guide.png</key>
+		<data>
+		VJWo8UMi7PfKKGF5hf4HrQ+82R8=
+		</data>
+		<key>YouTubeResources.bundle/tv_queue_guide@2x.png</key>
+		<data>
+		CApjBAxuyD9BFHfpkXoE3HTVtZA=
+		</data>
+		<key>YouTubeResources.bundle/tv_queue_guide_selected.png</key>
+		<data>
+		BhKSzXnT1ezDk0/E/1i8jkO89BI=
+		</data>
+		<key>YouTubeResources.bundle/tv_queue_guide_selected@2x.png</key>
+		<data>
+		d+b5v5q0Au0GtobdQxSRdVRFnr4=
+		</data>
+		<key>YouTubeResources.bundle/unread_count_guide_background.png</key>
+		<data>
+		iW3PIuD/nchP63d2FfRnrTthgKA=
+		</data>
+		<key>YouTubeResources.bundle/unread_count_guide_background@2x.png</key>
+		<data>
+		kbmVqWkzcoeEEMHeFlJlHTGUUI4=
 		</data>
 		<key>YouTubeResources.bundle/updates_indicator.png</key>
 		<data>
-		lGsOsv7KpTiREO0e4X+D1F0NCMM=
+		zpsx6+/AzaKguSMhtBZAe2HSXfk=
 		</data>
 		<key>YouTubeResources.bundle/updates_indicator@2x.png</key>
 		<data>
-		HebguZDqEEolEcJ9o9PFEP21z+o=
+		p0+BXhGSXrLE6WVc+XEE06+Mz0c=
 		</data>
-		<key>YouTubeResources.bundle/youtube_system_channel.png</key>
+		<key>YouTubeResources.bundle/uploads_guide.png</key>
 		<data>
-		IM9YCg8vNl6bz/vym23o2NS4bvs=
+		8Zx6D/HEtVhS3+cOumzKtnMMXqw=
 		</data>
-		<key>YouTubeResources.bundle/youtube_system_channel@2x.png</key>
+		<key>YouTubeResources.bundle/uploads_guide@2x.png</key>
 		<data>
-		X5ArZ7Vn9i1iPPhgrXR7KBuhe8g=
+		XxiHNIN3eiY/PNPgFM3QrRTOP8I=
 		</data>
-		<key>af.lproj/GooglePlus.strings</key>
+		<key>YouTubeResources.bundle/uploads_guide_selected.png</key>
 		<data>
-		jTAHS6c1t+H/qzd2tehsVbTa7L0=
+		G6hb8TfyxQN0pmFG9R0QPi/MIAk=
 		</data>
-		<key>am.lproj/GooglePlus.strings</key>
+		<key>YouTubeResources.bundle/uploads_guide_selected@2x.png</key>
 		<data>
-		xTyha8ls9bMi1gm0JQdrtBlh//U=
+		eqZfhFhaHGlA6+V6587UrHgc8VA=
 		</data>
-		<key>ar.lproj/GIPSpeech.strings</key>
+		<key>YouTubeResources.bundle/vertical_separator_watch.png</key>
 		<data>
-		taU1jbK8wghjKM04o5ohPvIoqwY=
+		K8yV77H2/r2Tr/pp3QONkXyANcQ=
 		</data>
-		<key>ar.lproj/GIPWebView.strings</key>
+		<key>YouTubeResources.bundle/vertical_separator_watch@2x.png</key>
 		<data>
-		FmFCbC+EccR+SDdE33dnxFPz7Go=
+		JDwyVHd9QyKiHghZd6Raaz9+gQk=
 		</data>
-		<key>ar.lproj/GooglePlus.strings</key>
+		<key>YouTubeResources.bundle/watch_later_guide.png</key>
 		<data>
-		sun1O37BwH5JfP5e7Qw1DkERYQo=
+		zdohtGOfAZQTUbTju3A9rD8ThMU=
 		</data>
-		<key>bg.lproj/GooglePlus.strings</key>
+		<key>YouTubeResources.bundle/watch_later_guide@2x.png</key>
 		<data>
-		OQzwfFzAEUvCye76o/Jzwrg6RFI=
+		16BQAk78GMOZo0qzlLj3uAp7ThQ=
 		</data>
-		<key>bn.lproj/GooglePlus.strings</key>
+		<key>YouTubeResources.bundle/watch_later_guide_selected.png</key>
 		<data>
-		HI2BAIokqV5nUe+9RsgCqw/PIQQ=
+		19b/dVpMi05TbJbPnzNjYJXk7jY=
 		</data>
-		<key>ca.lproj/GIPSpeech.strings</key>
+		<key>YouTubeResources.bundle/watch_later_guide_selected@2x.png</key>
 		<data>
-		/VzGPVsvrm3bYkMZ3ejJpG6sZts=
+		fppK4sg2/ajWQ7zHP6Op3o9YA5Q=
 		</data>
-		<key>ca.lproj/GIPUserInterface.strings</key>
+		<key>YouTubeResources.bundle/what_to_watch_guide.png</key>
 		<data>
-		JcQ4oATf4sCanmN/FebLzjFoRP4=
+		VXWkYs5A/iQ65CLCUQk0GD51cVQ=
 		</data>
-		<key>ca.lproj/GIPWebView.strings</key>
+		<key>YouTubeResources.bundle/what_to_watch_guide@2x.png</key>
 		<data>
-		JQmvnSrlQ3CvWohCsBmkVQ4zHBo=
+		AUo49aDTKUAll9uczoZt3FZi94g=
 		</data>
-		<key>ca.lproj/GooglePlus.strings</key>
+		<key>YouTubeResources.bundle/what_to_watch_guide_selected.png</key>
 		<data>
-		bhypEPTFdVqeOr0i1OSx2JXzZpk=
+		PUE12x7nx/Fnn99hQFVgEp0kmH8=
 		</data>
-		<key>cs.lproj/GIPSpeech.strings</key>
+		<key>YouTubeResources.bundle/what_to_watch_guide_selected@2x.png</key>
 		<data>
-		0M+CJnSJPCrvEqu3blHkxPvUBoA=
+		BAczWpfcHKBXxNMCxWwrp/lBc9Y=
 		</data>
-		<key>cs.lproj/GIPUserInterface.strings</key>
+		<key>blueArrow.png</key>
 		<data>
-		kZcCafdZmWJUl8V8Kb5OEKRPplk=
+		L8py0qsIqK4icMN6lpyt8rFlDSQ=
 		</data>
-		<key>cs.lproj/GIPWebView.strings</key>
+		<key>blueArrow_2x.png</key>
 		<data>
-		/SEzDKpwY5E2SpPQojKYykrZAGU=
+		XIALb99wSdO8254tpeLE0/6AX24=
 		</data>
-		<key>cs.lproj/GooglePlus.strings</key>
+		<key>ca.lproj/DataLib.strings</key>
 		<data>
-		9xF+VkNPBh+tfrajFhu88QgemwM=
+		91OJW9ZgOoaeZnAE1/entDImt+8=
 		</data>
-		<key>da.lproj/GIPSpeech.strings</key>
+		<key>ca.lproj/Localizable.strings</key>
 		<data>
-		9QFN3sy4wo3ArhqmOBJv3AbXakQ=
+		esQdOD++GgLLljqygrF+spngGtY=
 		</data>
-		<key>da.lproj/GIPUserInterface.strings</key>
+		<key>ca.lproj/PlayerLib.strings</key>
 		<data>
-		7PSVp0NwWxOOU/AJDLmPX/MV6cQ=
+		wYo9me/t1QKnGyD+uikDfeqpEpw=
 		</data>
-		<key>da.lproj/GIPWebView.strings</key>
+		<key>ca.lproj/UILib.strings</key>
 		<data>
-		B8fb0dwIvFSFxaV1iJ/Nmcnx9Dw=
+		JmOeBOYy6CvwgY+JmAARXX7hK6k=
 		</data>
-		<key>da.lproj/GooglePlus.strings</key>
+		<key>cs.lproj/DataLib.strings</key>
 		<data>
-		gEFY2tM64EckBLuNLmTvO8y2rS0=
+		JhwMBQjh+AlR6FQpjH6Op8jNOX8=
 		</data>
-		<key>de.lproj/GIPSpeech.strings</key>
+		<key>cs.lproj/Localizable.strings</key>
 		<data>
-		FMZhBh6MaVJ2PLtCrPRRdTsaZ/8=
+		zdB4pS23YO5QYhi+i65rJhNZXWs=
 		</data>
-		<key>de.lproj/GIPUserInterface.strings</key>
+		<key>cs.lproj/PlayerLib.strings</key>
 		<data>
-		8CruC6H3/0UzlUzu75enXtO9YzA=
+		GS7/S76R1rwWhK+ped7hu2K4XxA=
 		</data>
-		<key>de.lproj/GIPWebView.strings</key>
+		<key>cs.lproj/UILib.strings</key>
 		<data>
-		1zWGt8dUwCDP5SxkbGIybirCTxM=
+		LHEIzviASl7YeLOO9ZAsYguNL5E=
 		</data>
-		<key>de.lproj/GooglePlus.strings</key>
+		<key>da.lproj/DataLib.strings</key>
 		<data>
-		ZYlVj67QTH9TlpjUdMILn1k1bSc=
+		LOzvx7VLB3nD8M3H4i1dROrDsBE=
+		</data>
+		<key>da.lproj/Localizable.strings</key>
+		<data>
+		98338I9EyLtcdBqr2WEj4Gv9B7Q=
+		</data>
+		<key>da.lproj/PlayerLib.strings</key>
+		<data>
+		mfHvzB8HBaGShhlMukOYydiuI/k=
+		</data>
+		<key>da.lproj/UILib.strings</key>
+		<data>
+		UjD+k/LLIDvBCTECffay/mSprh4=
+		</data>
+		<key>de.lproj/DataLib.strings</key>
+		<data>
+		w3fbKfP6POFLHzPMV3Xl7zdmNzg=
 		</data>
 		<key>de.lproj/Localizable.strings</key>
 		<data>
-		RpGKOvXjuYgWVoTxNXMIbrAljIQ=
+		dy2mWQ4EbJtqH9i89DGaINetfik=
 		</data>
-		<key>de_AT.lproj/GooglePlus.strings</key>
+		<key>de.lproj/PlayerLib.strings</key>
 		<data>
-		ZYlVj67QTH9TlpjUdMILn1k1bSc=
+		/fc6xjqkb5W7XkTDuNDxPmGTIB0=
 		</data>
-		<key>de_CH.lproj/GooglePlus.strings</key>
+		<key>de.lproj/UILib.strings</key>
 		<data>
-		ZYlVj67QTH9TlpjUdMILn1k1bSc=
+		/7DS2xkLxuBDrXSc5BiCcIlejVs=
 		</data>
-		<key>el.lproj/GIPSpeech.strings</key>
+		<key>el.lproj/DataLib.strings</key>
 		<data>
-		tPK4RAGO2LfbwREWxjhOktvrKgM=
+		iojXNTCyv4qO0HyJoOqfL1roWgo=
 		</data>
-		<key>el.lproj/GIPUserInterface.strings</key>
+		<key>el.lproj/Localizable.strings</key>
 		<data>
-		TifdU6TqvTD+wwjsS2h/MxaTPkU=
+		fEVZMl4lttXhxGIeBf3ZJRLhUNE=
 		</data>
-		<key>el.lproj/GIPWebView.strings</key>
+		<key>el.lproj/PlayerLib.strings</key>
 		<data>
-		M+w+HlB6rZZ+TwkA96ZwV2tV0nk=
+		XgJKNyBuPbvyExUv1z2wqI/kHOA=
 		</data>
-		<key>el.lproj/GooglePlus.strings</key>
+		<key>el.lproj/UILib.strings</key>
 		<data>
-		ZJpUrdDcz2zSC32Tn/H0BkAg5+s=
+		yNcePYWYUPc8WIosr69GuLf7RiU=
 		</data>
-		<key>en.lproj/GIPSpeech.strings</key>
+		<key>en.lproj/DataLib.strings</key>
 		<data>
-		dfkKFfMA/cawCeheeCeDEPFyMbc=
-		</data>
-		<key>en.lproj/GIPUserInterface.strings</key>
-		<data>
-		ZfIuiidj9v/la7mTJ2fcpM9SQ+U=
-		</data>
-		<key>en.lproj/GIPWebView.strings</key>
-		<data>
-		kcXFNwOLN1oTwLI8jZT5azHcf/g=
-		</data>
-		<key>en.lproj/GooglePlus.strings</key>
-		<data>
-		IxVF3Jq6fXuSLl0Ms7pXKjFgzAE=
+		ZQEBGkW6bhia8q5XQvwKw0DFKW0=
 		</data>
 		<key>en.lproj/Localizable.strings</key>
 		<data>
-		GBQK+b8AdfRTnQpqkDfQyZy3b7g=
+		Sftlyx+g4ojlYC9wulAZ7IhUd0E=
 		</data>
-		<key>en_GB.lproj/GIPSpeech.strings</key>
+		<key>en.lproj/PlayerLib.strings</key>
 		<data>
-		03mFge5i558sSGVrG8bbNkvRBwc=
+		wiyE5Q5x638TTdk1CNwuDjYw1IM=
 		</data>
-		<key>en_GB.lproj/GIPUserInterface.strings</key>
+		<key>en.lproj/UILib.strings</key>
 		<data>
-		ZfIuiidj9v/la7mTJ2fcpM9SQ+U=
+		X4dShMuY4zYIXJHr+9Dqo59olEc=
 		</data>
-		<key>en_GB.lproj/GIPWebView.strings</key>
+		<key>en_GB.lproj/DataLib.strings</key>
 		<data>
-		kcXFNwOLN1oTwLI8jZT5azHcf/g=
-		</data>
-		<key>en_GB.lproj/GooglePlus.strings</key>
-		<data>
-		IxVF3Jq6fXuSLl0Ms7pXKjFgzAE=
+		6s9VlTs2DQIJ+ytMRMtZ8tzTQZo=
 		</data>
 		<key>en_GB.lproj/Localizable.strings</key>
 		<data>
-		c63BIr7D6jTW4yVNuHQNyOsdjxQ=
+		VZ7OYPY4M+ECgVL2ciSOeqGgJK4=
 		</data>
-		<key>en_IE.lproj/GooglePlus.strings</key>
+		<key>en_GB.lproj/PlayerLib.strings</key>
 		<data>
-		IxVF3Jq6fXuSLl0Ms7pXKjFgzAE=
+		lMMDbsFdLx6jb6L8cYTLtoXG3QM=
 		</data>
-		<key>en_IN.lproj/GooglePlus.strings</key>
+		<key>en_GB.lproj/UILib.strings</key>
 		<data>
-		IxVF3Jq6fXuSLl0Ms7pXKjFgzAE=
+		Z3G9Lz1Hww6pcS7AbX5ZNGWsTHo=
 		</data>
-		<key>en_SG.lproj/GooglePlus.strings</key>
+		<key>es.lproj/DataLib.strings</key>
 		<data>
-		IxVF3Jq6fXuSLl0Ms7pXKjFgzAE=
-		</data>
-		<key>en_ZA.lproj/GooglePlus.strings</key>
-		<data>
-		IxVF3Jq6fXuSLl0Ms7pXKjFgzAE=
-		</data>
-		<key>es.lproj/GIPSpeech.strings</key>
-		<data>
-		DW59vsu1kZWmpY7iBtqavZYOmrE=
-		</data>
-		<key>es.lproj/GIPUserInterface.strings</key>
-		<data>
-		xuPjvIC+UnvqgS/lW724hI9hHSM=
-		</data>
-		<key>es.lproj/GIPWebView.strings</key>
-		<data>
-		8Pep1vWgdkD8DdB1inoFb9tWr9E=
-		</data>
-		<key>es.lproj/GooglePlus.strings</key>
-		<data>
-		+QG521EWRLTz/vyj3deTwKkw+Dc=
+		A1pElSll2NwxpD/dZbE0vz3Q/fM=
 		</data>
 		<key>es.lproj/Localizable.strings</key>
 		<data>
-		jHaJA52xnKUZFfM03L5jaa6z9EM=
+		2GPO/MhYsEFkd6fFweEzDwErYdQ=
 		</data>
-		<key>es_419.lproj/GooglePlus.strings</key>
+		<key>es.lproj/PlayerLib.strings</key>
 		<data>
-		1dezOVZqXudejLaAcoRR1oe2AAw=
+		Nf6Ayhla40Aa6Ep+gEvJbcqUQMs=
 		</data>
-		<key>es_AR.lproj/GooglePlus.strings</key>
+		<key>es.lproj/UILib.strings</key>
 		<data>
-		1dezOVZqXudejLaAcoRR1oe2AAw=
+		NhTaw0Q85b7yetLkXapeleTlfyI=
 		</data>
-		<key>es_BO.lproj/GooglePlus.strings</key>
+		<key>fi.lproj/DataLib.strings</key>
 		<data>
-		1dezOVZqXudejLaAcoRR1oe2AAw=
+		BYdFzc3GwDFGL1OZ7DfdaMO4tAc=
 		</data>
-		<key>es_CL.lproj/GooglePlus.strings</key>
+		<key>fi.lproj/Localizable.strings</key>
 		<data>
-		1dezOVZqXudejLaAcoRR1oe2AAw=
+		+okuYgfreA0hLnMRTeDFRCRIuMM=
 		</data>
-		<key>es_CO.lproj/GooglePlus.strings</key>
+		<key>fi.lproj/PlayerLib.strings</key>
 		<data>
-		1dezOVZqXudejLaAcoRR1oe2AAw=
+		Oov/97+WU56T+B/Y4yxuYg9YlvU=
 		</data>
-		<key>es_CR.lproj/GooglePlus.strings</key>
+		<key>fi.lproj/UILib.strings</key>
 		<data>
-		1dezOVZqXudejLaAcoRR1oe2AAw=
+		RMjPvOqpJcYnnziN1AQ7xpdlacw=
 		</data>
-		<key>es_DO.lproj/GooglePlus.strings</key>
+		<key>fr.lproj/DataLib.strings</key>
 		<data>
-		1dezOVZqXudejLaAcoRR1oe2AAw=
-		</data>
-		<key>es_EC.lproj/GooglePlus.strings</key>
-		<data>
-		1dezOVZqXudejLaAcoRR1oe2AAw=
-		</data>
-		<key>es_GT.lproj/GooglePlus.strings</key>
-		<data>
-		1dezOVZqXudejLaAcoRR1oe2AAw=
-		</data>
-		<key>es_HN.lproj/GooglePlus.strings</key>
-		<data>
-		1dezOVZqXudejLaAcoRR1oe2AAw=
-		</data>
-		<key>es_MX.lproj/GooglePlus.strings</key>
-		<data>
-		1dezOVZqXudejLaAcoRR1oe2AAw=
-		</data>
-		<key>es_NI.lproj/GooglePlus.strings</key>
-		<data>
-		1dezOVZqXudejLaAcoRR1oe2AAw=
-		</data>
-		<key>es_PA.lproj/GooglePlus.strings</key>
-		<data>
-		1dezOVZqXudejLaAcoRR1oe2AAw=
-		</data>
-		<key>es_PE.lproj/GooglePlus.strings</key>
-		<data>
-		1dezOVZqXudejLaAcoRR1oe2AAw=
-		</data>
-		<key>es_PR.lproj/GooglePlus.strings</key>
-		<data>
-		1dezOVZqXudejLaAcoRR1oe2AAw=
-		</data>
-		<key>es_PY.lproj/GooglePlus.strings</key>
-		<data>
-		1dezOVZqXudejLaAcoRR1oe2AAw=
-		</data>
-		<key>es_SV.lproj/GooglePlus.strings</key>
-		<data>
-		1dezOVZqXudejLaAcoRR1oe2AAw=
-		</data>
-		<key>es_US.lproj/GooglePlus.strings</key>
-		<data>
-		1dezOVZqXudejLaAcoRR1oe2AAw=
-		</data>
-		<key>es_UY.lproj/GooglePlus.strings</key>
-		<data>
-		1dezOVZqXudejLaAcoRR1oe2AAw=
-		</data>
-		<key>es_VE.lproj/GooglePlus.strings</key>
-		<data>
-		1dezOVZqXudejLaAcoRR1oe2AAw=
-		</data>
-		<key>et.lproj/GooglePlus.strings</key>
-		<data>
-		9zh5Kje56/8XgjeKhaxH82D5cgI=
-		</data>
-		<key>eu.lproj/GooglePlus.strings</key>
-		<data>
-		8xKgbyUPGBl2P/2je/aZExf3v6s=
-		</data>
-		<key>fa.lproj/GooglePlus.strings</key>
-		<data>
-		4BnrD7o+EjlkHEJrBgYK6npWuDg=
-		</data>
-		<key>fi.lproj/GIPSpeech.strings</key>
-		<data>
-		rLxSpM+I2UkDrlaLrRCsZ4Kw8Is=
-		</data>
-		<key>fi.lproj/GIPUserInterface.strings</key>
-		<data>
-		U/zT+c99SokuInIeEpnMYHckGug=
-		</data>
-		<key>fi.lproj/GIPWebView.strings</key>
-		<data>
-		6rbZQ0i0k+jlCY2mGteMjYXTpYc=
-		</data>
-		<key>fi.lproj/GooglePlus.strings</key>
-		<data>
-		ZD6wrImfxJmr93f8Pt9gw2Xy1pM=
-		</data>
-		<key>fil.lproj/GooglePlus.strings</key>
-		<data>
-		1Zofp3YlocuwtuFwTxcuKLaB9LE=
-		</data>
-		<key>fr.lproj/GIPSpeech.strings</key>
-		<data>
-		haCjdDKDNxOmqqViE/NpfrlgsNU=
-		</data>
-		<key>fr.lproj/GIPUserInterface.strings</key>
-		<data>
-		TMRzonYkYqPbtXduWQcJLA8yEsE=
-		</data>
-		<key>fr.lproj/GIPWebView.strings</key>
-		<data>
-		J1nYXKWy3EHZp2BsBaM3UhSb6dM=
-		</data>
-		<key>fr.lproj/GooglePlus.strings</key>
-		<data>
-		gginXBqREzbqUAsqydwhTaaciQA=
+		xQ/CV7hGlU8L8CwG5ihuRzP4I08=
 		</data>
 		<key>fr.lproj/Localizable.strings</key>
 		<data>
-		XlnsLti6v3kC5kOD2442af61NZs=
+		GD+DOQf2mAxSgErjj7o9IS9sjtY=
 		</data>
-		<key>fr_CA.lproj/GooglePlus.strings</key>
+		<key>fr.lproj/PlayerLib.strings</key>
 		<data>
-		Jm9Zm++CcA1/2TZKjQJEVl9EH2c=
+		0Bqc5j3sAsjBANCJOsKIsx50VoY=
 		</data>
-		<key>fr_CH.lproj/GooglePlus.strings</key>
+		<key>fr.lproj/UILib.strings</key>
 		<data>
-		gginXBqREzbqUAsqydwhTaaciQA=
+		wwB/+3ocPr7RY7yDBAy4+rpm+gI=
 		</data>
-		<key>gl.lproj/GooglePlus.strings</key>
+		<key>hr.lproj/DataLib.strings</key>
 		<data>
-		U6//0iZnA25GSRuY5E8FOxgR/Ao=
+		gfMd118VowgMi1kePd8fdkHOJZQ=
 		</data>
-		<key>gsw.lproj/GooglePlus.strings</key>
+		<key>hr.lproj/Localizable.strings</key>
 		<data>
-		ZYlVj67QTH9TlpjUdMILn1k1bSc=
+		vUfT+LZx42XstfdbyL7WFdwL0SM=
 		</data>
-		<key>gu.lproj/GooglePlus.strings</key>
+		<key>hr.lproj/PlayerLib.strings</key>
 		<data>
-		/v3igP5uQpnZQlbQtRNHDOUhu5E=
+		eNA7hXaT3vy9Mrwj5W22YTyLB88=
 		</data>
-		<key>he.lproj/GIPSpeech.strings</key>
+		<key>hr.lproj/UILib.strings</key>
 		<data>
-		9zq5QjZ04f6pxiarKifjrKpiP0s=
+		zZpCExF+oWMPA2iIb7QLhg+BR8s=
 		</data>
-		<key>he.lproj/GIPWebView.strings</key>
+		<key>hu.lproj/DataLib.strings</key>
 		<data>
-		xAKDX6CHMMMFV5Cf87OOM8wojGA=
+		33oaJP6a9/1swzrjHIjqK/k/VSA=
 		</data>
-		<key>he.lproj/GooglePlus.strings</key>
+		<key>hu.lproj/Localizable.strings</key>
 		<data>
-		YDIM4tT2/A28whh+3DMX2FoH/Eo=
+		HHsrpcj9fdtq5X/aLrIMcsvBIEI=
 		</data>
-		<key>hi.lproj/GooglePlus.strings</key>
+		<key>hu.lproj/PlayerLib.strings</key>
 		<data>
-		2zS/0ghFll995qEhtIfHqBQrFnU=
+		il0Y+gVUlDRARzSbvfKa6En+KaI=
 		</data>
-		<key>hr.lproj/GIPSpeech.strings</key>
+		<key>hu.lproj/UILib.strings</key>
 		<data>
-		0nDt67viUh9+VOHciAXk86orCF8=
+		TvMVrBpL4/E9ccG+G7EwK02wrZI=
 		</data>
-		<key>hr.lproj/GIPUserInterface.strings</key>
+		<key>it.lproj/DataLib.strings</key>
 		<data>
-		ly9FJYkyJAl3O8jINlw+GynuHk0=
-		</data>
-		<key>hr.lproj/GIPWebView.strings</key>
-		<data>
-		0TQykaIjD6O9b6FuWnpEsjyR/bQ=
-		</data>
-		<key>hr.lproj/GooglePlus.strings</key>
-		<data>
-		r7HqE9hDBAqNMz9S3KaeUBgM0Ts=
-		</data>
-		<key>hu.lproj/GIPSpeech.strings</key>
-		<data>
-		dmFJu8RNMvhjJtu0xdCik3BBUVU=
-		</data>
-		<key>hu.lproj/GIPUserInterface.strings</key>
-		<data>
-		UQo5fxU7FatbV8GIgd3U6mdDNQo=
-		</data>
-		<key>hu.lproj/GIPWebView.strings</key>
-		<data>
-		EYBib7mBEzvgWf6tt1zfl5jh/i8=
-		</data>
-		<key>hu.lproj/GooglePlus.strings</key>
-		<data>
-		vmCbVheqKNQwlKVkHwZX51i/DoY=
-		</data>
-		<key>id.lproj/GIPSpeech.strings</key>
-		<data>
-		vphr8YIA8JPrQHtosq5QAehhzZg=
-		</data>
-		<key>id.lproj/GIPUserInterface.strings</key>
-		<data>
-		E0/XL9AfX2pTWUxTsQFVFAozxVw=
-		</data>
-		<key>id.lproj/GIPWebView.strings</key>
-		<data>
-		fazieJrKyU0sTnTJcE/zAXlKCrY=
-		</data>
-		<key>id.lproj/GooglePlus.strings</key>
-		<data>
-		0qqg9xUADwtbLZjAkVVaAmb2Bsc=
-		</data>
-		<key>is.lproj/GooglePlus.strings</key>
-		<data>
-		GgUX4tEM43DBRNFxOPLPgtJlJW0=
-		</data>
-		<key>it.lproj/GIPSpeech.strings</key>
-		<data>
-		Geu2NuqS+FTBlQjbqhzvoOq713g=
-		</data>
-		<key>it.lproj/GIPUserInterface.strings</key>
-		<data>
-		R3Ii0EiZciISA87OLpOmiy4NegM=
-		</data>
-		<key>it.lproj/GIPWebView.strings</key>
-		<data>
-		k8iQPS3VQnghCXgcl5Mcmu7adI0=
-		</data>
-		<key>it.lproj/GooglePlus.strings</key>
-		<data>
-		Hygk7uhVhAYplzbXnr+fCWKqUio=
+		CyFjvDpICb1vYgRI1+3zUZLwSMk=
 		</data>
 		<key>it.lproj/Localizable.strings</key>
 		<data>
-		wVJLzOjBV1reBPsVR113AApfidU=
+		xYRanOgomBj9uTEc3VEmhTtqASA=
 		</data>
-		<key>ja.lproj/GIPSpeech.strings</key>
+		<key>it.lproj/PlayerLib.strings</key>
 		<data>
-		ZGFcbe4OQFYSEu3JisgIJvzGvYA=
+		UcF9L6syFocdYEWMRMQYiD59Uvw=
 		</data>
-		<key>ja.lproj/GIPUserInterface.strings</key>
+		<key>it.lproj/UILib.strings</key>
 		<data>
-		imyo0rNG8HMQyBIlPVKmnCd9uYo=
+		mA+spsNCpbbcIoFvOK2OAtJ5CE4=
 		</data>
-		<key>ja.lproj/GIPWebView.strings</key>
+		<key>ja.lproj/DataLib.strings</key>
 		<data>
-		MyLm7D0IR8XSfYo5tXMiNMRLCKI=
-		</data>
-		<key>ja.lproj/GooglePlus.strings</key>
-		<data>
-		pXy2Y/bdpnHJKhHlvP7/AnvipNI=
+		QorWxauWKbfWZZN88H5nk/FD5kw=
 		</data>
 		<key>ja.lproj/Localizable.strings</key>
 		<data>
-		5AIHYa55MWVPH30JXbY0lGHXiiM=
+		KCX9/taV5zOyC75uukwlD4MyByU=
 		</data>
-		<key>kn.lproj/GooglePlus.strings</key>
+		<key>ja.lproj/PlayerLib.strings</key>
 		<data>
-		zR83gzCc9yyQuW2jjq41eTCrZWU=
+		oVwnLdp3dpp03hnQqm0MdbhJPME=
 		</data>
-		<key>ko.lproj/GIPSpeech.strings</key>
+		<key>ja.lproj/UILib.strings</key>
 		<data>
-		PVnZU6uAQKa40vaeWV77xFokDWE=
+		IwY8GwdpKgIHg0ysZjxxdE6VuCk=
 		</data>
-		<key>ko.lproj/GIPUserInterface.strings</key>
+		<key>ko.lproj/DataLib.strings</key>
 		<data>
-		9qI+hwrSspxEVgOpFKGD8E9M5EY=
-		</data>
-		<key>ko.lproj/GIPWebView.strings</key>
-		<data>
-		ulZpRysYWncyuv0Bnb4b/mJa2+8=
-		</data>
-		<key>ko.lproj/GooglePlus.strings</key>
-		<data>
-		akcVIMtsTDSljYPP7CT9Dda2cBE=
+		G27/bgsBJfxRf7nxu0IxK6i9HDk=
 		</data>
 		<key>ko.lproj/Localizable.strings</key>
 		<data>
-		9ZzBU2vZK/3J3931rOV+Lv9ZqnY=
+		9zd0uQdZlZWYEPv2WdkOlfqPjIg=
 		</data>
-		<key>ln.lproj/GooglePlus.strings</key>
+		<key>ko.lproj/PlayerLib.strings</key>
 		<data>
-		gginXBqREzbqUAsqydwhTaaciQA=
+		QiVpau5gnen1qpnJz5gxx2ZZOdY=
 		</data>
-		<key>lt.lproj/GooglePlus.strings</key>
+		<key>ko.lproj/UILib.strings</key>
 		<data>
-		1noHvuRmfmf/gcf9bkctkKZyr4M=
+		Qi3T2eqUzHuH4kM/S2qLc830Ivc=
 		</data>
-		<key>lv.lproj/GooglePlus.strings</key>
+		<key>nb.lproj/DataLib.strings</key>
 		<data>
-		PlLriL26x1TP73XKRSA2bXdTHW8=
+		Az1edGkunF5nxD3CIjIE+qJNkos=
 		</data>
-		<key>ml.lproj/GooglePlus.strings</key>
+		<key>nb.lproj/Localizable.strings</key>
 		<data>
-		83/ItYM/XCjPoU6OaEtCryWa5H4=
+		eu/Nl3fZWDqmuA1T45jq2qoJhIw=
 		</data>
-		<key>mo.lproj/GooglePlus.strings</key>
+		<key>nb.lproj/PlayerLib.strings</key>
 		<data>
-		B43V0VcgL5HfwjSptgnsCpbit5g=
+		8f1FjRArI68M1jcIZc00DC3dIRs=
 		</data>
-		<key>mr.lproj/GooglePlus.strings</key>
+		<key>nb.lproj/UILib.strings</key>
 		<data>
-		mTX0hYtXUVmdBD5Gm3ckXwJOlkY=
+		FtZFZ2RKVbW6Biui3NqqzTbdDOU=
 		</data>
-		<key>ms.lproj/GIPSpeech.strings</key>
+		<key>nl.lproj/DataLib.strings</key>
 		<data>
-		/4rH3vgpMB5rBtIlsEeYcODT2/A=
-		</data>
-		<key>ms.lproj/GIPWebView.strings</key>
-		<data>
-		5F4qqX/k8L7jJLqaHlV9GD+5ZmM=
-		</data>
-		<key>ms.lproj/GooglePlus.strings</key>
-		<data>
-		hvmzPjC9hxtLE7SaBRP/8+yAOZE=
-		</data>
-		<key>nb.lproj/GooglePlus.strings</key>
-		<data>
-		AUkti0Ftwm9lHhj9QOiOZKVwHrI=
-		</data>
-		<key>nl.lproj/GIPSpeech.strings</key>
-		<data>
-		qIegGdbeZKHqwJ2j1Al/A4xSeVg=
-		</data>
-		<key>nl.lproj/GIPUserInterface.strings</key>
-		<data>
-		T6yB1A3TixZpkwwTlILpuU0xpqE=
-		</data>
-		<key>nl.lproj/GIPWebView.strings</key>
-		<data>
-		4z2EeA9EPyBVLrevsT1nEZPHC0s=
-		</data>
-		<key>nl.lproj/GooglePlus.strings</key>
-		<data>
-		suSPkguqNTTwmygsX98RGVUJbXY=
+		QYbTbwArfWXLIqxxzXvJrvUllOQ=
 		</data>
 		<key>nl.lproj/Localizable.strings</key>
 		<data>
-		Y9Kg60Vg/PR2oF4dec8SxUeF9kU=
+		LA7uxJkUDptAi29mjIo3qCh1WZU=
 		</data>
-		<key>no.lproj/GIPSpeech.strings</key>
+		<key>nl.lproj/PlayerLib.strings</key>
 		<data>
-		KOD7Vk4+N3EHh9xhHZws5y1CW98=
+		T1mc1eaX2pHR7PxBM6ZD6wUPqYw=
 		</data>
-		<key>no.lproj/GIPUserInterface.strings</key>
+		<key>nl.lproj/UILib.strings</key>
 		<data>
-		Kr47FXZnZjx3Kz0QxULgBwkSLss=
+		sk6i0xHIv2WsSbqqddq9Cnl0rEE=
 		</data>
-		<key>no.lproj/GIPWebView.strings</key>
+		<key>pl.lproj/DataLib.strings</key>
 		<data>
-		esYKQCCwzQxtdsrhitXDx1TFBd0=
+		Hsjy1wgNLidA2s2ruMkY8FA0E60=
 		</data>
-		<key>pl.lproj/GIPSpeech.strings</key>
+		<key>pl.lproj/Localizable.strings</key>
 		<data>
-		SlPPucuAuXnmDrrUeVgsmZd0JUc=
+		jebIrtulXCOKY6uSvn8IzWo6YJI=
 		</data>
-		<key>pl.lproj/GIPUserInterface.strings</key>
+		<key>pl.lproj/PlayerLib.strings</key>
 		<data>
-		HQ9owX7qLm0P+Zze+/EshXpUts0=
+		PaO2bAkhG+VJCw+t7xNQgtO+bMo=
 		</data>
-		<key>pl.lproj/GIPWebView.strings</key>
+		<key>pl.lproj/UILib.strings</key>
 		<data>
-		G0a4FIWLBp5R5jiDr4CqT+KjGOU=
+		n3xHa/hJTKBb6abMNGWH5/xdSzI=
 		</data>
-		<key>pl.lproj/GooglePlus.strings</key>
+		<key>pt.lproj/DataLib.strings</key>
 		<data>
-		fYYueLXJ5W3Mji0kTYTLyzc8sUw=
-		</data>
-		<key>pt.lproj/GIPSpeech.strings</key>
-		<data>
-		Kpi1XXAmklzHeznSNhFg2KEMZs4=
-		</data>
-		<key>pt.lproj/GIPUserInterface.strings</key>
-		<data>
-		qUjqpSxFX8gA1/YGQMdmv7zXHa0=
-		</data>
-		<key>pt.lproj/GIPWebView.strings</key>
-		<data>
-		Zg1PMettCa65NtuQHXQccn7Y9Ck=
-		</data>
-		<key>pt.lproj/GooglePlus.strings</key>
-		<data>
-		lutK4SRW/1CeBtkfcVC+nayB6s8=
+		lV455k+bGX4K+9ewjBZAKCaoWns=
 		</data>
 		<key>pt.lproj/Localizable.strings</key>
 		<data>
-		3QjKHOplWdNMDpcxtTg98rcRVvk=
+		tKHLk3g12//qFTVS1lLaUe3e3hY=
 		</data>
-		<key>pt_BR.lproj/GooglePlus.strings</key>
+		<key>pt.lproj/PlayerLib.strings</key>
 		<data>
-		lutK4SRW/1CeBtkfcVC+nayB6s8=
+		4Ce2bCZVozPfyzguC0lnywOr0/A=
+		</data>
+		<key>pt.lproj/UILib.strings</key>
+		<data>
+		dyx0KEl9nIP3QOybuAsjuM6qFrk=
+		</data>
+		<key>pt_BR.lproj/DataLib.strings</key>
+		<data>
+		lV455k+bGX4K+9ewjBZAKCaoWns=
 		</data>
 		<key>pt_BR.lproj/Localizable.strings</key>
 		<data>
-		3QjKHOplWdNMDpcxtTg98rcRVvk=
+		tKHLk3g12//qFTVS1lLaUe3e3hY=
 		</data>
-		<key>pt_PT.lproj/GIPSpeech.strings</key>
+		<key>pt_BR.lproj/PlayerLib.strings</key>
 		<data>
-		mZJoS5FJDGoExOfoKeC1GlozoO0=
+		4Ce2bCZVozPfyzguC0lnywOr0/A=
 		</data>
-		<key>pt_PT.lproj/GIPUserInterface.strings</key>
+		<key>pt_BR.lproj/UILib.strings</key>
 		<data>
-		qUjqpSxFX8gA1/YGQMdmv7zXHa0=
+		dyx0KEl9nIP3QOybuAsjuM6qFrk=
 		</data>
-		<key>pt_PT.lproj/GIPWebView.strings</key>
+		<key>pt_PT.lproj/DataLib.strings</key>
 		<data>
-		cBV+jdq44nIgB+BAdFGVkOEZI5c=
-		</data>
-		<key>pt_PT.lproj/GooglePlus.strings</key>
-		<data>
-		/EoLt2Tamd9WuzAl2r2Kkq/T4M8=
+		MojKqQTIog09VJeczWzX7nJTpLs=
 		</data>
 		<key>pt_PT.lproj/Localizable.strings</key>
 		<data>
-		ddak4+GwAmKZja48ZCz+qzQhy3E=
+		uN9BCet7xeNddm9AYnZyHtS/2ko=
 		</data>
-		<key>ro.lproj/GIPSpeech.strings</key>
+		<key>pt_PT.lproj/PlayerLib.strings</key>
 		<data>
-		+abO7oDlAQSEA4w8e+I+EpZB9W8=
+		sWJbBHjnhrAE1kwV0/xTSVVjv9M=
 		</data>
-		<key>ro.lproj/GIPUserInterface.strings</key>
+		<key>pt_PT.lproj/UILib.strings</key>
 		<data>
-		zR48eLja+cvQVp5whJ09sUfp3cE=
+		fdLFATLHFFjDTAKUugT06XFv8uY=
 		</data>
-		<key>ro.lproj/GIPWebView.strings</key>
+		<key>ro.lproj/DataLib.strings</key>
 		<data>
-		bsyY6QLTEZ4bWfJpIh4BwwFgRvU=
+		PQIVPIbsPXP4dbq4hy4Uzc7DH+o=
 		</data>
-		<key>ro.lproj/GooglePlus.strings</key>
+		<key>ro.lproj/Localizable.strings</key>
 		<data>
-		B43V0VcgL5HfwjSptgnsCpbit5g=
+		S+BhB+J8bdBKwqz1EY6ecJgDnJk=
 		</data>
-		<key>ru.lproj/GIPSpeech.strings</key>
+		<key>ro.lproj/PlayerLib.strings</key>
 		<data>
-		56iOSW5vU2OhufdK4zmooHizKHI=
+		218Ww/xZ2SzEDkRBjKWQ3/nETGU=
 		</data>
-		<key>ru.lproj/GIPUserInterface.strings</key>
+		<key>ro.lproj/UILib.strings</key>
 		<data>
-		oX6B0in/nXhH5XI4eTQRMDP19Es=
+		RihSFSLNwhXjSJE7jn5U+M9KCk0=
 		</data>
-		<key>ru.lproj/GIPWebView.strings</key>
+		<key>ru.lproj/DataLib.strings</key>
 		<data>
-		k2JcwK3ZE4yp/MZ1b4x2AepnWCE=
-		</data>
-		<key>ru.lproj/GooglePlus.strings</key>
-		<data>
-		FkNsRCJtFwakH9EswkXDQVUXej0=
+		ANSbv7jF7GPkPZguhI7H1zAcqh4=
 		</data>
 		<key>ru.lproj/Localizable.strings</key>
 		<data>
-		6LhbScpBXPgJU8nAWj4cQjg/JmM=
+		wDVCnssNPHBWyohFjY24XiO0PUo=
 		</data>
-		<key>sk.lproj/GIPSpeech.strings</key>
+		<key>ru.lproj/PlayerLib.strings</key>
 		<data>
-		JuG89W9R1vv9os5TWYC8tIYNma8=
+		4NAzkd6rf3rCKUordjfT5cbPfVE=
 		</data>
-		<key>sk.lproj/GIPUserInterface.strings</key>
+		<key>ru.lproj/UILib.strings</key>
 		<data>
-		j06krgcXK8jVDvVQ693wFRC6S1A=
+		ejpHjcLWNA1KKNvag5fcUGInPn4=
 		</data>
-		<key>sk.lproj/GIPWebView.strings</key>
+		<key>sk.lproj/DataLib.strings</key>
 		<data>
-		yOABJfJnA6Gurj6UC4DjSAgRaUY=
+		AyEaAlEMo4qc5lfmIXv2QHeSuR4=
 		</data>
-		<key>sk.lproj/GooglePlus.strings</key>
+		<key>sk.lproj/Localizable.strings</key>
 		<data>
-		6J54QG6Ia0chVYIJKG4J64ksuQ4=
+		bIwJi8b9GpDLIQgYn7RRMQg4HV4=
 		</data>
-		<key>sl.lproj/GooglePlus.strings</key>
+		<key>sk.lproj/PlayerLib.strings</key>
 		<data>
-		yeg7YZCgnBMMQxTFLE82AeXGqEU=
+		tyOrqu1Ihrroczh5KeG0zmgCLaU=
 		</data>
-		<key>sr.lproj/GooglePlus.strings</key>
+		<key>sk.lproj/UILib.strings</key>
 		<data>
-		M+Sm/w1bBRAVRY4RrFz6WRbdhno=
+		OrcJPK9Ks0cRUU+s7aibmitzUTo=
 		</data>
-		<key>sv.lproj/GIPSpeech.strings</key>
+		<key>sv.lproj/DataLib.strings</key>
 		<data>
-		kNGezcdAvvyQl9ZKhk5rJPAAcpg=
-		</data>
-		<key>sv.lproj/GIPUserInterface.strings</key>
-		<data>
-		gOzZ5rls/ve253hJm5QbwnbcAMk=
-		</data>
-		<key>sv.lproj/GIPWebView.strings</key>
-		<data>
-		Xp1hiIa/1EyVYWnpN22648nNi/w=
-		</data>
-		<key>sv.lproj/GooglePlus.strings</key>
-		<data>
-		ganwBb/tYB0//4f2gsxwsBQ4Y+w=
+		2Z9B9Fq3peZWQ7EAZTsei43EaSw=
 		</data>
 		<key>sv.lproj/Localizable.strings</key>
 		<data>
-		oIBcAPX+J42Ll7prlnyRUT80DYo=
+		WhcPirPpKQLBBL5lZPWpCmxQ4sk=
 		</data>
-		<key>sw.lproj/GooglePlus.strings</key>
+		<key>sv.lproj/PlayerLib.strings</key>
 		<data>
-		OhDO8qMwdz8eR/vWkuN+CYC3Jb0=
+		7Y5/z7FJIxim+pGoo5nMsaPgtlg=
 		</data>
-		<key>ta.lproj/GooglePlus.strings</key>
+		<key>sv.lproj/UILib.strings</key>
 		<data>
-		Q8obwpChNoUnlDxGIInXg1yiKCw=
+		ST9Tu0lNmnDv+zDSJfrkuLAOl64=
 		</data>
-		<key>te.lproj/GooglePlus.strings</key>
+		<key>th.lproj/DataLib.strings</key>
 		<data>
-		j7UCQv+s9LUBkWQYjxdK4UvfFns=
-		</data>
-		<key>th.lproj/GIPSpeech.strings</key>
-		<data>
-		GwHx7QNe1lXJUEdMYSL+gW3Otic=
-		</data>
-		<key>th.lproj/GIPUserInterface.strings</key>
-		<data>
-		h1Ao+pU/NTjfLeL9YlSIDRuDaFU=
-		</data>
-		<key>th.lproj/GIPWebView.strings</key>
-		<data>
-		6VdGYW9tYMTF7tZ0S+vnSDqjHTg=
-		</data>
-		<key>th.lproj/GooglePlus.strings</key>
-		<data>
-		EHfNsC3THvjrhcvGF9Y6k2rH2I8=
+		JQslLzBX0c/YyLlnrm1rQe0t4pE=
 		</data>
 		<key>th.lproj/Localizable.strings</key>
 		<data>
-		wkMtkteucNJoEhVGucdedER9HaI=
+		gUsG9iAOP2zYg0H/8pEye9HYWxc=
 		</data>
-		<key>titlebar.png</key>
+		<key>th.lproj/PlayerLib.strings</key>
 		<data>
-		qRJTgMAKu/BVlmgMu65621LqhxA=
+		buII19kUSeB5qa7qdCNTQg6Xh4M=
 		</data>
-		<key>titlebar@2x.png</key>
+		<key>th.lproj/UILib.strings</key>
 		<data>
-		a8/99cDYZH35jIy1rRpXgHpvsRs=
+		ZX+q24IqQICiDFRF0mhg6idVoEU=
 		</data>
-		<key>tl.lproj/GooglePlus.strings</key>
+		<key>tr.lproj/DataLib.strings</key>
 		<data>
-		1Zofp3YlocuwtuFwTxcuKLaB9LE=
+		29LGB+S78iOmwIoRS/PmHSTF06o=
 		</data>
-		<key>tr.lproj/GIPSpeech.strings</key>
+		<key>tr.lproj/Localizable.strings</key>
 		<data>
-		TjlXNjDmUorwU8S2FuzjvK+f+TY=
+		HyUMU54OK3EFauQHOEJHY6TlaUU=
 		</data>
-		<key>tr.lproj/GIPUserInterface.strings</key>
+		<key>tr.lproj/PlayerLib.strings</key>
 		<data>
-		WWgLOCA5xI8O2+qryL/8mM5Ax7Q=
+		D/Itjzm0XpwgzRsYE9Ta8SyHleU=
 		</data>
-		<key>tr.lproj/GIPWebView.strings</key>
+		<key>tr.lproj/UILib.strings</key>
 		<data>
-		QRzu+mcH5zqr8L7NT5wKOlhDQZ4=
+		8pDhPmLnFl+yn3gNG80OiVl5Swg=
 		</data>
-		<key>tr.lproj/GooglePlus.strings</key>
+		<key>zh.lproj/DataLib.strings</key>
 		<data>
-		ChpaLSL50KlCOhy93/KNNOOO8us=
-		</data>
-		<key>uk.lproj/GIPSpeech.strings</key>
-		<data>
-		W6wz9VhjY1YFxT8wepSkaDuJQug=
-		</data>
-		<key>uk.lproj/GIPUserInterface.strings</key>
-		<data>
-		EhH3mZXxH7MTWzdFudqYOkHwqGw=
-		</data>
-		<key>uk.lproj/GIPWebView.strings</key>
-		<data>
-		HV43XgEKA2aIggaeS46uxN9+sC8=
-		</data>
-		<key>uk.lproj/GooglePlus.strings</key>
-		<data>
-		xoMO0CB05zPmJvoRJWMLiobGkBc=
-		</data>
-		<key>ur.lproj/GooglePlus.strings</key>
-		<data>
-		EfzbGh26IN/pd8Y4w1Z4aL0/AhE=
-		</data>
-		<key>vi.lproj/GIPSpeech.strings</key>
-		<data>
-		+C22tBovdBhoa0WaIpH8mReHOIY=
-		</data>
-		<key>vi.lproj/GIPUserInterface.strings</key>
-		<data>
-		+PMNA4mA5Bfih/w3Xsf4HlJPFNg=
-		</data>
-		<key>vi.lproj/GIPWebView.strings</key>
-		<data>
-		ro3V4vmFYJ2wUnsyIWdZTwVqvU8=
-		</data>
-		<key>vi.lproj/GooglePlus.strings</key>
-		<data>
-		se9fvNH0CXKwSUDmTOPx84Db7pg=
-		</data>
-		<key>zh.lproj/GooglePlus.strings</key>
-		<data>
-		VwOn7R9Ia3yL+F8OnI0V/9Gom0U=
+		OMa6GEgZJfQzvr1wZbLuUJBMgis=
 		</data>
 		<key>zh.lproj/Localizable.strings</key>
 		<data>
-		ibXdmr1ICv6bJVw0SjzKg6DjxwI=
+		mb6QXGeepSxhdaUKWzF+IKUUQx0=
 		</data>
-		<key>zh_CN.lproj/GIPSpeech.strings</key>
+		<key>zh.lproj/PlayerLib.strings</key>
 		<data>
-		xIrtjJSkazBvS3w9Mz6zfYypELU=
+		Y31TFW6D/+kXRVv/sIGHK5uiErc=
 		</data>
-		<key>zh_CN.lproj/GIPUserInterface.strings</key>
+		<key>zh.lproj/UILib.strings</key>
 		<data>
-		Wp8fAtcltxZ0VGdOpBnYGk0Dj8w=
+		cMx2FvuCyurpVQWdOFtkyReHziM=
 		</data>
-		<key>zh_CN.lproj/GIPWebView.strings</key>
+		<key>zh_CN.lproj/DataLib.strings</key>
 		<data>
-		JITf32NDwPB9k+/2RFq16ToYVa8=
-		</data>
-		<key>zh_CN.lproj/GooglePlus.strings</key>
-		<data>
-		VwOn7R9Ia3yL+F8OnI0V/9Gom0U=
+		OMa6GEgZJfQzvr1wZbLuUJBMgis=
 		</data>
 		<key>zh_CN.lproj/Localizable.strings</key>
 		<data>
-		ibXdmr1ICv6bJVw0SjzKg6DjxwI=
+		mb6QXGeepSxhdaUKWzF+IKUUQx0=
 		</data>
-		<key>zh_HK.lproj/GooglePlus.strings</key>
+		<key>zh_CN.lproj/PlayerLib.strings</key>
 		<data>
-		dWidn4K47YGzNYnPnUAiw7Be6yM=
+		Y31TFW6D/+kXRVv/sIGHK5uiErc=
 		</data>
-		<key>zh_TW.lproj/GIPSpeech.strings</key>
+		<key>zh_CN.lproj/UILib.strings</key>
 		<data>
-		tiU3dMafaOuwvm2D5tnviQrdeeY=
+		cMx2FvuCyurpVQWdOFtkyReHziM=
 		</data>
-		<key>zh_TW.lproj/GIPUserInterface.strings</key>
+		<key>zh_TW.lproj/DataLib.strings</key>
 		<data>
-		hVy4TlbetgeBCq/j2OJs1GUChus=
-		</data>
-		<key>zh_TW.lproj/GIPWebView.strings</key>
-		<data>
-		Sj8dpesY4XKMGjE8KtzeKmu0nDM=
-		</data>
-		<key>zh_TW.lproj/GooglePlus.strings</key>
-		<data>
-		2TFLTc+u+KHRdRyW3S5lSZElZn8=
+		dcaGXdyF4lQzIUnvWdqa1x97I8k=
 		</data>
 		<key>zh_TW.lproj/Localizable.strings</key>
 		<data>
-		cuAO8SjwtsbjPdK4o12olTYbB8U=
+		VBax91HkVzmt65f1XkTTXyWYT5Q=
 		</data>
-		<key>zu.lproj/GooglePlus.strings</key>
+		<key>zh_TW.lproj/PlayerLib.strings</key>
 		<data>
-		+luJ+p/HvJHOwcFfODodfruSCY4=
+		nDPuXXPlGPBCK6pX1ICxMGsEuPo=
+		</data>
+		<key>zh_TW.lproj/UILib.strings</key>
+		<data>
+		fAZ1YpHA9Dz5EOX3v00iNpVUMyE=
 		</data>
 	</dict>
 	<key>rules</key>
