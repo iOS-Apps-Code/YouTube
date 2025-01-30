@@ -1,8 +1,0 @@
-/* Accessibility hint for a switch. Read as a hint when selecting just the switch. */
-"GoogleKitSwitchAccessibilityHint" = "設定を切り替えるにはダブルタップ";
-
-/* Accessibility label for a switch. Read as the value of the switch when the switch is on. */
-"GoogleKitSwitchAccessibilityLabelOn" = "オン";
-
-/* Accessibility label for a switch. Read as the value of the switch when the switch is off. */
-"GoogleKitSwitchAccessibilityLabelOff" = "オフ";
