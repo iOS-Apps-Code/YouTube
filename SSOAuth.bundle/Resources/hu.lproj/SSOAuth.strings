@@ -1,0 +1,157 @@
+/* Button label for canceling */
+"SSOAuthButtonCancel" = "Mégse";
+
+/* Button label for disassociating identities from this device. */
+"SSOAuthButtonForgetAllIdentites" = "Összes személyazonosság elfelejtése";
+
+/* Button label for user choosing to sign in to an alternative account. */
+"SSOAuthButtonAddAnotherAccount" = "Fiók hozzáadása";
+
+/* Button label for signing out of an app ($1). (30 chars) */
+"SSOAuthButtonSignOutOfApp" = "Kilépés ebből: %@";
+
+/* Button label for signing out of an account. (30 chars) */
+"SSOAuthButtonSignOut" = "Kijelentkezés";
+
+/* Internal logic error occurred, unable to proceed. */
+"SSOAuthErrorInternal" = "Belső hiba történt.";
+
+/* Error writing and reading to device. */
+"SSOAuthErrorKeychain" = "Nem lehet elemeket tárolni vagy biztonságos tárolóeszközről olvasni.";
+
+/* Inputted email does not match what was expected. Inputted address $1. Expected addresses $2. */
+"SSOAuthErrorMismatchedEmail" = "A megadott e-mail cím (%1$@) nem egyezik meg a várt eredeti e-mail címmel (%2$@).";
+
+/* Generic server error */
+"SSOAuthErrorServer" = "Szerverhiba";
+
+/* Error message displayed to user. */
+"SSOAuthErrorUnexpectedResponse" = "Váratlan válasz a szervertől.";
+
+/* Google's brand name. */
+"SSOAuthGoogle" = "Google";
+
+/* Navigation title when selecting accounts. */
+"SSOAuthSelectAccount" = "Válasszon fiókot";
+
+/* Alternate shorter navigation title when selecting accounts. */
+"SSOAuthSelect" = "Kiválasztás";
+
+/* Header title for the sign in screen. */
+"SSOAuthTitleSignIn" = "Belépés";
+
+/* Placeholder for when an account has no name. */
+"SSOAuthUnnamedAccount" = "Névtelen fiók";
+
+/* Button label for removing an account. */
+"SSOAuthRemoveAccount" = "Eltávolítás";
+
+/* Title of the account removal prompt. */
+"SSOAuthRemoveAccountConfirmationTitle" = "Eltávolítja ezt a fiókot?";
+
+/* Content of the account removal confirmation message. */
+"SSOAuthRemoveAccountConfirmationMessage" = "A fiók eltávolításával minden telepített Google-alkalmazásból kilép.";
+
+/* Button title for switching accounts. */
+"SSOAuthButtonSwitchAccount" = "Fiók váltása";
+
+/* Button title for managing accounts. */
+"SSOAuthButtonManageAccount" = "Fiók kezelése";
+
+/* Button title for managing accounts. */
+"SSOAuthButtonManageAccounts" = "Fiókok kezelése";
+
+/* Button title for managing Google accounts. */
+"SSOAuthButtonManageGoogleAccount" = "Google Fiók kezelése";
+
+/* Button title for signing in to a Google account. */
+"SSOAuthButtonSignIn" = "Bejelentkezés";
+
+/* Error message displayed when there's an unknown account error. */
+"SSOAuthErrorAccountUnknownError" = "Nem lehet bejelentkezni ebbe a fiókba.";
+
+/* Error message displayed when there is a server error. */
+"SSOAuthErrorServerError" = "Nem érhető el a szerver";
+
+/* Error message displayed when there is a network error. */
+"SSOAuthErrorNetworkError" = "Nem érhető el a hálózat";
+
+/* Error message displayed when we are unable to sign out a user. */
+"SSOAuthErrorUnableToSignOut" = "Nem lehet kijelentkezni";
+
+/* Error message displayed when we are unable to add a new user */
+"SSOAuthErrorUnableToAddAcount" = "Nem lehet újabb fiókot hozzáadni";
+
+/* Button title for "Done" when hitting Sign Out. */
+"SSOAuthButtonDone" = "Kész";
+
+/* Identity title for "Guest" account. */
+"SSOAuthIdentityGuest" = "Vendég";
+
+/* Button label for managing a list of accounts. (12 chars) */
+"SSOAuthButtonManage" = "Kezelés";
+
+/* Button label for removing an account. (20 chars) */
+"SSOAuthButtonRemove" = "Fiók eltávolítása";
+
+/* Dialog message to emphasize the effects of removing an account. $1 is an application name. */
+"SSOAuthRemoveAccountConfirmationMessageAlt" = "Ez a fiók törlésre kerül a(z) %@ alkalmazásból és az eszközön lévő többi Google-alkalmazásból.";
+
+/* Dialog message link for learning more. (20 chars) */
+"SSOAuthLinkLabelLearnMore" = "További információ";
+
+/* Loading message displayed when removing account for the list of accounts. (20 chars) */
+"SSOAuthMessageRemovingAccount" = "Fiók eltávolítása";
+
+/* Explanation of Guest Mode. $1 is an application name. (30 chars) */
+"SSOAuthGuestModeSubtitleFormat" = "%@ használata Google-fiók nélkül";
+
+/* Label for the Guest Mode button. (30 chars) */
+"SSOAuthGuestModeButtonLabel" = "Használat Google-fiók nélkül";
+
+/* Dialog message to emphasize the effects of removing an account. $1 is an application name. */
+"SSOAuthRemoveAccountConfirmationMessageV3" = "Ezt a fiókot és minden nem mentett adatot törlünk a(z) %@ alkalmazásból, illetve az eszközön lévő többi Google-alkalmazásból.";
+
+/* Placeholder text when there are no accounts. */
+"SSOAuthNoAccountsMessageShort" = "Nem érhetők el Google-fiókok.";
+
+/* Button label for adding another account to a list. */
+"SSOAuthAddAnotherAccount" = "További fiók hozzáadása";
+
+/* Guest account switch message. */
+"SSOAuthGuestAccountSwitchMessage" = "Az újbóli belépéshez elegendő kiválasztani az eszközön mentett Google-fiókok közül valamelyiket. \n \n Mentett fiók törléséhez koppintson a következőre: „Belépés” > „Kezelés” > „Törlés”.";
+
+/* Button title for "OK" when showing a message in dialog box. */
+"SSOAuthButtonOK" = "OK";
+
+/* Title for dialog box when showing alert related to "Device Policy". This error comes when the
+ device is not complient with the policy set by the IT administrator of the organization. */
+"SSOAuthMDMError" = "Riasztás – eszköz nem felel meg a szabályzatnak";
+
+/* Error message displayed to user when there is no error message avaiable from the server. */
+"SSOAuthUnknownError" = "Ismeretlen hiba";
+
+/* Text in the express sign-in view that, when clicked, allows the user to choose a different account to sign in with. */
+"SSOAuthButtonChooseAnotherAccount" = "Válasszon másik fiókot";
+
+/* Text in the express sign-in view that, when clicked, signs the user into their default account. $1 is the full name of the user. */
+"SSOAuthButtonContinueSignInFullName" = "Folytatás %@-ként";
+
+/* When we can't get the user's full name, text in the express sign-in view that, when clicked, signs the user into their default account. */
+"SSOAuthButtonContinueSignInDefault" = "Folytatás";
+
+/* Title of the alert view when the remove account button is clicked. */
+"SSOAuthRemoveAccountAlertTitle" = "Fiók eltávolítása („%@”)";
+
+/* Accessibility label for button that removes an account from the device. The phrase is the action that the button will take and the argument will be the profile information including account name and email address. */
+"SSOAuthRemoveAccountLabelFormat" = "Fiók eltávolítása, %@";
+
+/* Title of account selector view when mulitple selection is enabled. */
+"SSOAuthAccountSelectorMutlipleSelectionTitle" = "Fiókok";
+
+/* Button title to enter edit mode on account selector view. */
+"SSOAuthButtonEdit" = "Szerkesztés";
+
+/* Table header explaining account selection.  $1 is app name */
+"SSOAuthAccountMultipleSelectionHeader" = "E fiókok használata itt: %@";
+

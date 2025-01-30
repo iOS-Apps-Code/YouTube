@@ -1,0 +1,62 @@
+/* Placeholder/hint text for the feedback compose form's text field. (50 chars.) */
+"Compose_DescriptionPlaceholder" = "Tulis masukan Anda";
+
+/* Title for screen to send feedback. (40 chars.) */
+"Compose_HeaderTitle" = "Kirim masukan";
+
+/* Description explaining what it means to include your Google account in the feedback. (80 chars.) */
+"Compose_IncludeGoogleAccountExplanation" = "Sertakan informasi akun Google Anda";
+
+/* Label for the option to include the user's Google account in the feedback. (50 chars.) */
+"Compose_IncludeGoogleAccountLabel" = "Akun Google";
+
+/* Label for the button to view a preview of the feedback. (10 chars.) */
+"Compose_PreviewButtonLabel" = "Pratinjau";
+
+/* Description explaining the option to include a screenshot. (80 chars.) */
+"Compose_ScreenshotOptionExplanation" = "Kirim tangkapan layar laman terakhir tempat Anda berada.";
+
+/* Label to include a screenshot in the feedback. (50 chars.) */
+"Compose_ScreenshotOptionLabel" = "Sertakan tangkapan layar";
+
+/* Description explaining the option to include system data in the feedback. (80 chars.) */
+"Compose_SystemDataOptionExplanation" = "Berbagi data sistem dengan Google, agar masalahnya dapat lebih baik didiagnosis.";
+
+/* Label for the option to include the system data in the feedback. (50 chars.) */
+"Compose_SystemDataOptionLabel" = "Sertakan data sistem";
+
+/* Label for the preview of the general application data sent with feedback reports. (30 chars.) */
+"Preview_ApplicationDataLabel" = "Data aplikasi";
+
+/* Label for the preview of the application version number. (30 chars.) */
+"Preview_ApplicationVersionLabel" = "Versi aplikasi";
+
+/* Label for the preview of the general feedback description secion's content. (30 chars.) */
+"Preview_DescriptionLabel" = "Deskripsi";
+
+/* Label for the preview of the device model. (30 chars.) */
+"Preview_DeviceModelLabel" = "Model perangkat";
+
+/* Label for the preview of the user's Google account information being attached. (50 chars.) */
+"Preview_GoogleAccountLabel" = "Akun Google";
+
+/* Title for the screen showing a preview of the user feedback to be sent. (20 chars.) */
+"Preview_HeaderTitle" = "Pratinjau masukan";
+
+/* Label for the preview of the OS (Operating System) version number. (30 chars.) */
+"Preview_OSVersionLabel" = "Versi OS";
+
+/* Label for the preview of the screenshot being attached. (30 chars.) */
+"Preview_ScreenshotPreviewLabel" = "Pratinjau tangkapan layar";
+
+/* Label for the button send feedback. (10 chars.) */
+"Preview_SendButtonLabel" = "Kirim";
+
+/* Label for the preview of the system log being attached. (30 chars.) */
+"Preview_SystemLogLabel" = "Log sistem";
+
+/* Label for the preview of the date/time of the feedback. (30 chars.) */
+"Preview_TimestampLabel" = "Waktu";
+
+/* Title for the screen of the system log being attached. (30 chars.) */
+"SystemLog_HeaderTitle" = "Log sistem";

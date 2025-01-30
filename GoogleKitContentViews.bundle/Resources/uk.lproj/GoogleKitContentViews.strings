@@ -1,0 +1,11 @@
+/* Label for a button indicating an action should be attempted again. (40 chars.) */
+"TryAgainButton" = "Повторити спробу";
+
+/* Alert title when no network connection is available. (40 chars). */
+"NoNetworkAlertTitle" = "Немає підключення до мережі";
+
+/* Alert title when the network connection is available but the server connect be reached. (40 chars). */
+"NoServerAlertTitle" = "Немає з’єднання із сервером";
+
+/* Alert title for the default message. (40 chars). */
+"DefaultErrorTitle" = "Сталася помилка. Повторіть спробу пізніше.";

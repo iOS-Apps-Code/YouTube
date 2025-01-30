@@ -1,0 +1,11 @@
+/* Label for a button indicating an action should be attempted again. (40 chars.) */
+"TryAgainButton" = "Tekrar dene";
+
+/* Alert title when no network connection is available. (40 chars). */
+"NoNetworkAlertTitle" = "Ağ bağlantısı yok";
+
+/* Alert title when the network connection is available but the server connect be reached. (40 chars). */
+"NoServerAlertTitle" = "Sunucuya erişilemiyor";
+
+/* Alert title for the default message. (40 chars). */
+"DefaultErrorTitle" = "Hata, sorun var. Lütfen tekrar deneyin.";

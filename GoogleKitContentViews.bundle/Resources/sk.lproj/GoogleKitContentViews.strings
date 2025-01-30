@@ -1,0 +1,11 @@
+/* Label for a button indicating an action should be attempted again. (40 chars.) */
+"TryAgainButton" = "Skúsiť znova";
+
+/* Alert title when no network connection is available. (40 chars). */
+"NoNetworkAlertTitle" = "Zariadenie nie je pripojené k sieti";
+
+/* Alert title when the network connection is available but the server connect be reached. (40 chars). */
+"NoServerAlertTitle" = "Nedá sa pripojiť na server";
+
+/* Alert title for the default message. (40 chars). */
+"DefaultErrorTitle" = "Hops... Niekde sa stala chyba. Skúste to neskôr znova.";

@@ -1,0 +1,11 @@
+/* Label for a button indicating an action should be attempted again. (40 chars.) */
+"TryAgainButton" = "पुन: प्रयास करें";
+
+/* Alert title when no network connection is available. (40 chars). */
+"NoNetworkAlertTitle" = "कोई नेटवर्क कनेक्शन नहीं है";
+
+/* Alert title when the network connection is available but the server connect be reached. (40 chars). */
+"NoServerAlertTitle" = "सर्वर तक पहुंचा नहीं जा सकता";
+
+/* Alert title for the default message. (40 chars). */
+"DefaultErrorTitle" = "ओह, कुछ गलत हुआ. कृपया फिर से प्रयास करें.";

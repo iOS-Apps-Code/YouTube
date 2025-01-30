@@ -1,0 +1,41 @@
+/* Title for a done button, to return to the previous page. */
+"GIDConsentButtonDone" = "Hotovo";
+
+/* Description for a checkbox specifying that all circles should be included in the pACL. */
+"GIDConsentDescriptionAllCircles" = "Zahrnuje kruhy, které teprve budou vytvořeny";
+
+/* Description for a checkbox specifying that all contacts should be included in the pACL. */
+"GIDConsentDescriptionAllContacts" = "Zahrnujte kontakty, které teprve budou vytvořeny";
+
+/* Description at the bottom of a consent view about respecting ToS and private policies. */
+"GIDConsentDescriptionLegal" = "Pokud budete pokračovat, povolíte tím aplikaci a společnosti Google používat vaše informace v souladu s příslušnými smluvními podmínkami a zásadami ochrany soukromí.";
+
+/* Annotation for a user's circle that has people not public on the their profile. */
+"GIDConsentDescriptionNonPublicCircle" = "Lidé v tomto kruhu nejsou zveřejněni ve vašem profilu";
+
+/* Title for a button specifying that all circles should be included in the pACL. */
+"GIDConsentTitleAllCircles" = "Všechny kruhy";
+
+/* Title for a button specifying that all contacts should be included in the pACL. */
+"GIDConsentTitleAllContacts" = "Všechny kontakty";
+
+/* Title for sharing fACL publicly. */
+"GIDConsentTitleAnyone" = "Kdokoli na webu";
+
+/* Title for sharing fACL with extended circles. */
+"GIDConsentTitleExtended" = "Vaše rozšířené kruhy";
+
+/* Title of a button that hides all circles for fACL. */
+"GIDConsentTitleHide" = "Skrýt všechny kruhy";
+
+/* Title of a button for only sharing a post with yourself. */
+"GIDConsentTitleOnlyYou" = "Pouze vy";
+
+/* Title of a consent view, saying which scopes the app is requesting. App name $1. */
+"GIDConsentTitleScopes" = "Aplikace %@ žádá o následující oprávnění:";
+
+/* Title for sharing fACL with a set of circles. */
+"GIDConsentTitleSelected" = "Vybrané kruhy";
+
+/* Title of a button that show all circles for fACL. */
+"GIDConsentTitleShow" = "Zobrazit všechny kruhy";

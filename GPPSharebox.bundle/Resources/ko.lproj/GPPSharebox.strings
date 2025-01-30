@@ -1,0 +1,14 @@
+/* Description of a post that is restricted to a dasher domain, when we can't find a name for that domain. */
+"GPPShareboxDescriptionDomain" = "도메인 제한됨";
+
+/* Description of a post that is shared privately with selected people and/or circles. */
+"GPPShareboxDescriptionPrivate" = "제한적으로 공개";
+
+/* Description of a post that is publicly visible. */
+"GPPShareboxDescriptionPublic" = "공개";
+
+/* Title for a button to post a comment to a Google+ post. */
+"GPPShareboxTitlePost" = "올리기";
+
+/* Title for a view to add a comment to a Google+ post. */
+"GPPShareboxTitleReply" = "답글";

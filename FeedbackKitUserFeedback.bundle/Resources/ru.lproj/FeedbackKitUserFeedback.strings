@@ -1,0 +1,62 @@
+/* Placeholder/hint text for the feedback compose form's text field. (50 chars.) */
+"Compose_DescriptionPlaceholder" = "Напишите отзыв";
+
+/* Title for screen to send feedback. (40 chars.) */
+"Compose_HeaderTitle" = "Оставить отзыв";
+
+/* Description explaining what it means to include your Google account in the feedback. (80 chars.) */
+"Compose_IncludeGoogleAccountExplanation" = "Добавить сведения об аккаунте Google.";
+
+/* Label for the option to include the user's Google account in the feedback. (50 chars.) */
+"Compose_IncludeGoogleAccountLabel" = "Аккаунт Google";
+
+/* Label for the button to view a preview of the feedback. (10 chars.) */
+"Compose_PreviewButtonLabel" = "Предпросмотр";
+
+/* Description explaining the option to include a screenshot. (80 chars.) */
+"Compose_ScreenshotOptionExplanation" = "Отправить скриншот последней посещенной страницы.";
+
+/* Label to include a screenshot in the feedback. (50 chars.) */
+"Compose_ScreenshotOptionLabel" = "Добавить скриншот";
+
+/* Description explaining the option to include system data in the feedback. (80 chars.) */
+"Compose_SystemDataOptionExplanation" = "Отправить в Google системные данные для проведения диагностики.";
+
+/* Label for the option to include the system data in the feedback. (50 chars.) */
+"Compose_SystemDataOptionLabel" = "Системные данные";
+
+/* Label for the preview of the general application data sent with feedback reports. (30 chars.) */
+"Preview_ApplicationDataLabel" = "Данные приложения";
+
+/* Label for the preview of the application version number. (30 chars.) */
+"Preview_ApplicationVersionLabel" = "Версия";
+
+/* Label for the preview of the general feedback description secion's content. (30 chars.) */
+"Preview_DescriptionLabel" = "Описание";
+
+/* Label for the preview of the device model. (30 chars.) */
+"Preview_DeviceModelLabel" = "Модель устройства";
+
+/* Label for the preview of the user's Google account information being attached. (50 chars.) */
+"Preview_GoogleAccountLabel" = "Аккаунт Google";
+
+/* Title for the screen showing a preview of the user feedback to be sent. (20 chars.) */
+"Preview_HeaderTitle" = "Просмотр отзыва";
+
+/* Label for the preview of the OS (Operating System) version number. (30 chars.) */
+"Preview_OSVersionLabel" = "Версия ОС";
+
+/* Label for the preview of the screenshot being attached. (30 chars.) */
+"Preview_ScreenshotPreviewLabel" = "Просмотр скриншота";
+
+/* Label for the button send feedback. (10 chars.) */
+"Preview_SendButtonLabel" = "Отправить";
+
+/* Label for the preview of the system log being attached. (30 chars.) */
+"Preview_SystemLogLabel" = "Системный журнал";
+
+/* Label for the preview of the date/time of the feedback. (30 chars.) */
+"Preview_TimestampLabel" = "Время";
+
+/* Title for the screen of the system log being attached. (30 chars.) */
+"SystemLog_HeaderTitle" = "Системный журнал";

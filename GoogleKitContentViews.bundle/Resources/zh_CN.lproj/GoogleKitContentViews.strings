@@ -1,0 +1,11 @@
+/* Label for a button indicating an action should be attempted again. (40 chars.) */
+"TryAgainButton" = "重试";
+
+/* Alert title when no network connection is available. (40 chars). */
+"NoNetworkAlertTitle" = "没有网络连接";
+
+/* Alert title when the network connection is available but the server connect be reached. (40 chars). */
+"NoServerAlertTitle" = "无法连接服务器";
+
+/* Alert title for the default message. (40 chars). */
+"DefaultErrorTitle" = "糟糕！出现了一些问题，请重试。";

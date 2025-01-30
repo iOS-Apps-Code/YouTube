@@ -1,0 +1,5 @@
+/* Button label for navigating backwards in the application hierarchy. */
+"BackButton" = "返回";
+
+/* Button label for navigating backwards in the application hierarchy. */
+"GoogleKitUINavigationBackButton" = "返回";

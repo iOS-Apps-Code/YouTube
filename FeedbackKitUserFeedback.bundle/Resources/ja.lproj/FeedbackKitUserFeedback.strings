@@ -1,0 +1,62 @@
+/* Placeholder/hint text for the feedback compose form's text field. (50 chars.) */
+"Compose_DescriptionPlaceholder" = "フィードバックを入力";
+
+/* Title for screen to send feedback. (40 chars.) */
+"Compose_HeaderTitle" = "フィードバックの送信";
+
+/* Description explaining what it means to include your Google account in the feedback. (80 chars.) */
+"Compose_IncludeGoogleAccountExplanation" = "Googleアカウントの情報を含めます。";
+
+/* Label for the option to include the user's Google account in the feedback. (50 chars.) */
+"Compose_IncludeGoogleAccountLabel" = "Googleアカウント";
+
+/* Label for the button to view a preview of the feedback. (10 chars.) */
+"Compose_PreviewButtonLabel" = "プレビュー";
+
+/* Description explaining the option to include a screenshot. (80 chars.) */
+"Compose_ScreenshotOptionExplanation" = "最後に表示していたページのスクリーンショットを送信します。";
+
+/* Label to include a screenshot in the feedback. (50 chars.) */
+"Compose_ScreenshotOptionLabel" = "スクリーンショットを含める";
+
+/* Description explaining the option to include system data in the feedback. (80 chars.) */
+"Compose_SystemDataOptionExplanation" = "問題を詳しく診断するため、システムデータをGoogleと共有します。";
+
+/* Label for the option to include the system data in the feedback. (50 chars.) */
+"Compose_SystemDataOptionLabel" = "システムデータを含める";
+
+/* Label for the preview of the general application data sent with feedback reports. (30 chars.) */
+"Preview_ApplicationDataLabel" = "アプリケーションデータ";
+
+/* Label for the preview of the application version number. (30 chars.) */
+"Preview_ApplicationVersionLabel" = "アプリケーションのバージョン";
+
+/* Label for the preview of the general feedback description secion's content. (30 chars.) */
+"Preview_DescriptionLabel" = "説明";
+
+/* Label for the preview of the device model. (30 chars.) */
+"Preview_DeviceModelLabel" = "機種";
+
+/* Label for the preview of the user's Google account information being attached. (50 chars.) */
+"Preview_GoogleAccountLabel" = "Googleアカウント";
+
+/* Title for the screen showing a preview of the user feedback to be sent. (20 chars.) */
+"Preview_HeaderTitle" = "フィードバックの確認";
+
+/* Label for the preview of the OS (Operating System) version number. (30 chars.) */
+"Preview_OSVersionLabel" = "OSのバージョン";
+
+/* Label for the preview of the screenshot being attached. (30 chars.) */
+"Preview_ScreenshotPreviewLabel" = "スクリーンショットのプレビュー";
+
+/* Label for the button send feedback. (10 chars.) */
+"Preview_SendButtonLabel" = "送信";
+
+/* Label for the preview of the system log being attached. (30 chars.) */
+"Preview_SystemLogLabel" = "システムログ";
+
+/* Label for the preview of the date/time of the feedback. (30 chars.) */
+"Preview_TimestampLabel" = "時刻";
+
+/* Title for the screen of the system log being attached. (30 chars.) */
+"SystemLog_HeaderTitle" = "システムログ";

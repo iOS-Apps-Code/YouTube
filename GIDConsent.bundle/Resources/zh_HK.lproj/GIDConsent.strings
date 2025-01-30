@@ -1,0 +1,41 @@
+/* Title for a done button, to return to the previous page. */
+"GIDConsentButtonDone" = "完成";
+
+/* Description for a checkbox specifying that all circles should be included in the pACL. */
+"GIDConsentDescriptionAllCircles" = "包括日後新增的社交圈";
+
+/* Description for a checkbox specifying that all contacts should be included in the pACL. */
+"GIDConsentDescriptionAllContacts" = "包括日後新增的聯絡人";
+
+/* Description at the bottom of a consent view about respecting ToS and private policies. */
+"GIDConsentDescriptionLegal" = "繼續使用，即代表您已同意此應用程式在符合相關使用條款與私隱權政策的情況下，使用您的資料。";
+
+/* Annotation for a user's circle that has people not public on the their profile. */
+"GIDConsentDescriptionNonPublicCircle" = "這個社交圈的成員並未在您的個人檔案中公開";
+
+/* Title for a button specifying that all circles should be included in the pACL. */
+"GIDConsentTitleAllCircles" = "所有社交圈";
+
+/* Title for a button specifying that all contacts should be included in the pACL. */
+"GIDConsentTitleAllContacts" = "所有聯絡人";
+
+/* Title for sharing fACL publicly. */
+"GIDConsentTitleAnyone" = "網絡上的所有人";
+
+/* Title for sharing fACL with extended circles. */
+"GIDConsentTitleExtended" = "您的延伸社交圈";
+
+/* Title of a button that hides all circles for fACL. */
+"GIDConsentTitleHide" = "隱藏所有社交圈";
+
+/* Title of a button for only sharing a post with yourself. */
+"GIDConsentTitleOnlyYou" = "只限自己";
+
+/* Title of a consent view, saying which scopes the app is requesting. App name $1. */
+"GIDConsentTitleScopes" = "「%@」要求以下權限：";
+
+/* Title for sharing fACL with a set of circles. */
+"GIDConsentTitleSelected" = "已選取的社交圈";
+
+/* Title of a button that show all circles for fACL. */
+"GIDConsentTitleShow" = "查看所有社交圈";

@@ -1,0 +1,14 @@
+/* Description of a post that is restricted to a dasher domain, when we can't find a name for that domain. */
+"GPPShareboxDescriptionDomain" = "ドメイン内限定";
+
+/* Description of a post that is shared privately with selected people and/or circles. */
+"GPPShareboxDescriptionPrivate" = "限定公開";
+
+/* Description of a post that is publicly visible. */
+"GPPShareboxDescriptionPublic" = "一般公開";
+
+/* Title for a button to post a comment to a Google+ post. */
+"GPPShareboxTitlePost" = "投稿";
+
+/* Title for a view to add a comment to a Google+ post. */
+"GPPShareboxTitleReply" = "返信";

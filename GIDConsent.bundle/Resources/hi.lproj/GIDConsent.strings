@@ -1,0 +1,41 @@
+/* Title for a done button, to return to the previous page. */
+"GIDConsentButtonDone" = "पूर्ण";
+
+/* Description for a checkbox specifying that all circles should be included in the pACL. */
+"GIDConsentDescriptionAllCircles" = "भविष्य में बनाई गई मंडलियां शामिल होती हैं";
+
+/* Description for a checkbox specifying that all contacts should be included in the pACL. */
+"GIDConsentDescriptionAllContacts" = "भविष्य में बनाए गए संपर्क शामिल होते हैं";
+
+/* Description at the bottom of a consent view about respecting ToS and private policies. */
+"GIDConsentDescriptionLegal" = "जारी रखकर, आप इस ऐप्लिकेशन को और Google को अपनी जानकारी का उपयोग उनकी संबंधित सेवा की शर्तों और गोपनीयता के अनुसार करने की अनुमति देते हैं.";
+
+/* Annotation for a user's circle that has people not public on the their profile. */
+"GIDConsentDescriptionNonPublicCircle" = "इस मंडली में शामिल लोग, आपकी प्रोफ़ाइल पर सार्वजनिक नहीं हैं";
+
+/* Title for a button specifying that all circles should be included in the pACL. */
+"GIDConsentTitleAllCircles" = "सभी मंडलियां";
+
+/* Title for a button specifying that all contacts should be included in the pACL. */
+"GIDConsentTitleAllContacts" = "सभी संपर्क";
+
+/* Title for sharing fACL publicly. */
+"GIDConsentTitleAnyone" = "वेब पर मौजूद कोई भी व्यक्ति";
+
+/* Title for sharing fACL with extended circles. */
+"GIDConsentTitleExtended" = "आपकी विस्तारित मंडलियां";
+
+/* Title of a button that hides all circles for fACL. */
+"GIDConsentTitleHide" = "सभी मंडलियां छुपाएं";
+
+/* Title of a button for only sharing a post with yourself. */
+"GIDConsentTitleOnlyYou" = "केवल आप";
+
+/* Title of a consent view, saying which scopes the app is requesting. App name $1. */
+"GIDConsentTitleScopes" = "%@ यह चाहता है:";
+
+/* Title for sharing fACL with a set of circles. */
+"GIDConsentTitleSelected" = "चयनित मंडलियां";
+
+/* Title of a button that show all circles for fACL. */
+"GIDConsentTitleShow" = "सभी मंडलियां देखें";

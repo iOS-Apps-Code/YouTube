@@ -1,0 +1,11 @@
+/* Label for a button indicating an action should be attempted again. (40 chars.) */
+"TryAgainButton" = "Zkusit znovu";
+
+/* Alert title when no network connection is available. (40 chars). */
+"NoNetworkAlertTitle" = "Chybí připojení k síti.";
+
+/* Alert title when the network connection is available but the server connect be reached. (40 chars). */
+"NoServerAlertTitle" = "Server je nedostupný.";
+
+/* Alert title for the default message. (40 chars). */
+"DefaultErrorTitle" = "Něco se pokazilo. Zkuste to později.";

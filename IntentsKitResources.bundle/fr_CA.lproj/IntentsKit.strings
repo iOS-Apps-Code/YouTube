@@ -1,0 +1,27 @@
+/* The title for the cancel button (20em). */
+"INTENTS_KIT_CANCEL_BUTTON" = "Annuler";
+
+/* The string format for the download button (10em). */
+"INTENTS_KIT_DOWNLOAD_STRING_FORMAT" = "Téléch. %@";
+
+/* The title of an error dialog (Unlimited). */
+"INTENTS_KIT_ERROR_TITLE" = "Erreur";
+
+/* The title for the ok button (Unlimited). */
+"INTENTS_KIT_OK_BUTTON_TITLE" = "OK";
+
+/* The string format for the open in button (10em). */
+"INTENTS_KIT_OPEN_IN_STRING_FORMAT" = "Ouv. dans %@";
+
+/* Explanation of what Google Apps settings does. */
+"INTENTS_KIT_SETTINGS_HEADER" = "Utilisez l'application au lieu du navigateur.";
+
+/* Title to install app in app integration settings view. (12em) */
+"INTENTS_KIT_SETTINGS_INSTALL_BUTTON_TITLE" = "Installer";
+
+/* Title for app integration settings view. (25em) */
+"INTENTS_KIT_SETTINGS_VIEW_TITLE" = "Utiliser Google Apps";
+
+/* The string format for error message when unable to open a url (Unlimited). */
+"INTENTS_KIT_UNABLE_TO_OPEN_URL_STRING_FORMAT" = "Impossible d'ouvrir l'URL : %@.";
+

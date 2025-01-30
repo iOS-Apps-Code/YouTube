@@ -1,0 +1,41 @@
+/* Title for a done button, to return to the previous page. */
+"GIDConsentButtonDone" = "Tamam";
+
+/* Description for a checkbox specifying that all circles should be included in the pACL. */
+"GIDConsentDescriptionAllCircles" = "İleride oluşturulacak çevreleri dahil eder";
+
+/* Description for a checkbox specifying that all contacts should be included in the pACL. */
+"GIDConsentDescriptionAllContacts" = "İleride oluşturulacak kişileri dahil eder";
+
+/* Description at the bottom of a consent view about respecting ToS and private policies. */
+"GIDConsentDescriptionLegal" = "Devam ederek bu uygulamaya ve Google'a, bilgilerinizi kendi hizmet şartlarına ve gizlilik politikalarına uygun bir şekilde kullanmaları için izin vermiş olursunuz.";
+
+/* Annotation for a user's circle that has people not public on the their profile. */
+"GIDConsentDescriptionNonPublicCircle" = "Bu çevredeki kullanıcılar, profilinizde herkese açık değildir";
+
+/* Title for a button specifying that all circles should be included in the pACL. */
+"GIDConsentTitleAllCircles" = "Tüm çevreler";
+
+/* Title for a button specifying that all contacts should be included in the pACL. */
+"GIDConsentTitleAllContacts" = "Tüm kişiler";
+
+/* Title for sharing fACL publicly. */
+"GIDConsentTitleAnyone" = "Web üzerindeki herkes";
+
+/* Title for sharing fACL with extended circles. */
+"GIDConsentTitleExtended" = "Genişletilmiş çevreleriniz";
+
+/* Title of a button that hides all circles for fACL. */
+"GIDConsentTitleHide" = "Tüm çevreleri gizle";
+
+/* Title of a button for only sharing a post with yourself. */
+"GIDConsentTitleOnlyYou" = "Yalnızca siz";
+
+/* Title of a consent view, saying which scopes the app is requesting. App name $1. */
+"GIDConsentTitleScopes" = "%@ şunu yapmak istiyor:";
+
+/* Title for sharing fACL with a set of circles. */
+"GIDConsentTitleSelected" = "Seçili çevreler";
+
+/* Title of a button that show all circles for fACL. */
+"GIDConsentTitleShow" = "Tüm çevreleri göster";

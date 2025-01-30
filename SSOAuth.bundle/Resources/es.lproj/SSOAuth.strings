@@ -1,0 +1,157 @@
+/* Button label for canceling */
+"SSOAuthButtonCancel" = "Cancelar";
+
+/* Button label for disassociating identities from this device. */
+"SSOAuthButtonForgetAllIdentites" = "Olvidar todas las identidades";
+
+/* Button label for user choosing to sign in to an alternative account. */
+"SSOAuthButtonAddAnotherAccount" = "Añadir cuenta";
+
+/* Button label for signing out of an app ($1). (30 chars) */
+"SSOAuthButtonSignOutOfApp" = "Cerrar sesión de %@";
+
+/* Button label for signing out of an account. (30 chars) */
+"SSOAuthButtonSignOut" = "Cerrar sesión";
+
+/* Internal logic error occurred, unable to proceed. */
+"SSOAuthErrorInternal" = "Se ha producido un error interno.";
+
+/* Error writing and reading to device. */
+"SSOAuthErrorKeychain" = "No es posible guardar elementos en el almacenamiento seguro ni leerlos.";
+
+/* Inputted email does not match what was expected. Inputted address $1. Expected addresses $2. */
+"SSOAuthErrorMismatchedEmail" = "La dirección de correo electrónico especificada (%1$@) no coincide con la dirección original esperada (%2$@).";
+
+/* Generic server error */
+"SSOAuthErrorServer" = "Error del servidor";
+
+/* Error message displayed to user. */
+"SSOAuthErrorUnexpectedResponse" = "Se ha recibido una respuesta inesperada del servidor.";
+
+/* Google's brand name. */
+"SSOAuthGoogle" = "Google";
+
+/* Navigation title when selecting accounts. */
+"SSOAuthSelectAccount" = "Seleccionar cuenta";
+
+/* Alternate shorter navigation title when selecting accounts. */
+"SSOAuthSelect" = "Seleccionar";
+
+/* Header title for the sign in screen. */
+"SSOAuthTitleSignIn" = "Iniciar sesión";
+
+/* Placeholder for when an account has no name. */
+"SSOAuthUnnamedAccount" = "Cuenta sin nombre";
+
+/* Button label for removing an account. */
+"SSOAuthRemoveAccount" = "Eliminar";
+
+/* Title of the account removal prompt. */
+"SSOAuthRemoveAccountConfirmationTitle" = "¿Eliminar esta cuenta?";
+
+/* Content of the account removal confirmation message. */
+"SSOAuthRemoveAccountConfirmationMessage" = "Si eliminas esta cuenta, saldrás de todas las aplicaciones de Google instaladas.";
+
+/* Button title for switching accounts. */
+"SSOAuthButtonSwitchAccount" = "Cambiar de cuenta";
+
+/* Button title for managing accounts. */
+"SSOAuthButtonManageAccount" = "Administrar cuenta";
+
+/* Button title for managing accounts. */
+"SSOAuthButtonManageAccounts" = "Gestionar cuentas";
+
+/* Button title for managing Google accounts. */
+"SSOAuthButtonManageGoogleAccount" = "Administrar cuenta de Google";
+
+/* Button title for signing in to a Google account. */
+"SSOAuthButtonSignIn" = "Iniciar sesión";
+
+/* Error message displayed when there's an unknown account error. */
+"SSOAuthErrorAccountUnknownError" = "No se puede iniciar sesión en esta cuenta.";
+
+/* Error message displayed when there is a server error. */
+"SSOAuthErrorServerError" = "Servidor no disponible";
+
+/* Error message displayed when there is a network error. */
+"SSOAuthErrorNetworkError" = "Red no disponible";
+
+/* Error message displayed when we are unable to sign out a user. */
+"SSOAuthErrorUnableToSignOut" = "Error al cerrar sesión";
+
+/* Error message displayed when we are unable to add a new user */
+"SSOAuthErrorUnableToAddAcount" = "No se puede añadir otra cuenta";
+
+/* Button title for "Done" when hitting Sign Out. */
+"SSOAuthButtonDone" = "Listo";
+
+/* Identity title for "Guest" account. */
+"SSOAuthIdentityGuest" = "Invitado";
+
+/* Button label for managing a list of accounts. (12 chars) */
+"SSOAuthButtonManage" = "Administrar";
+
+/* Button label for removing an account. (20 chars) */
+"SSOAuthButtonRemove" = "Eliminar cuenta";
+
+/* Dialog message to emphasize the effects of removing an account. $1 is an application name. */
+"SSOAuthRemoveAccountConfirmationMessageAlt" = "Esta cuenta se eliminará de %@ y de otras aplicaciones de Google en este dispositivo.";
+
+/* Dialog message link for learning more. (20 chars) */
+"SSOAuthLinkLabelLearnMore" = "Más información";
+
+/* Loading message displayed when removing account for the list of accounts. (20 chars) */
+"SSOAuthMessageRemovingAccount" = "Eliminando cuenta";
+
+/* Explanation of Guest Mode. $1 is an application name. (30 chars) */
+"SSOAuthGuestModeSubtitleFormat" = "Usar %@ sin una cuenta de Google";
+
+/* Label for the Guest Mode button. (30 chars) */
+"SSOAuthGuestModeButtonLabel" = "Usar sin cuenta de Google";
+
+/* Dialog message to emphasize the effects of removing an account. $1 is an application name. */
+"SSOAuthRemoveAccountConfirmationMessageV3" = "Esta cuenta y los datos no guardados se retirarán de %@ y de otras aplicaciones de Google en este dispositivo.";
+
+/* Placeholder text when there are no accounts. */
+"SSOAuthNoAccountsMessageShort" = "No hay cuentas de Google disponibles.";
+
+/* Button label for adding another account to a list. */
+"SSOAuthAddAnotherAccount" = "Añadir otra cuenta";
+
+/* Guest account switch message. */
+"SSOAuthGuestAccountSwitchMessage" = "Para volver a iniciar sesión, solo tienes que seleccionar una de las cuentas de Google que has guardado en este dispositivo. \n \n Para eliminar una cuenta guardada, toca Iniciar sesión > Administrar > Eliminar.";
+
+/* Button title for "OK" when showing a message in dialog box. */
+"SSOAuthButtonOK" = "Aceptar";
+
+/* Title for dialog box when showing alert related to "Device Policy". This error comes when the
+ device is not complient with the policy set by the IT administrator of the organization. */
+"SSOAuthMDMError" = "Alerta de política de dispositivos";
+
+/* Error message displayed to user when there is no error message avaiable from the server. */
+"SSOAuthUnknownError" = "Error desconocido";
+
+/* Text in the express sign-in view that, when clicked, allows the user to choose a different account to sign in with. */
+"SSOAuthButtonChooseAnotherAccount" = "Seleccionar otra cuenta";
+
+/* Text in the express sign-in view that, when clicked, signs the user into their default account. $1 is the full name of the user. */
+"SSOAuthButtonContinueSignInFullName" = "Continuar como %@";
+
+/* When we can't get the user's full name, text in the express sign-in view that, when clicked, signs the user into their default account. */
+"SSOAuthButtonContinueSignInDefault" = "Continuar";
+
+/* Title of the alert view when the remove account button is clicked. */
+"SSOAuthRemoveAccountAlertTitle" = "Eliminar cuenta \"%@\"";
+
+/* Accessibility label for button that removes an account from the device. The phrase is the action that the button will take and the argument will be the profile information including account name and email address. */
+"SSOAuthRemoveAccountLabelFormat" = "Eliminar cuenta: %@";
+
+/* Title of account selector view when mulitple selection is enabled. */
+"SSOAuthAccountSelectorMutlipleSelectionTitle" = "Cuentas";
+
+/* Button title to enter edit mode on account selector view. */
+"SSOAuthButtonEdit" = "Editar";
+
+/* Table header explaining account selection.  $1 is app name */
+"SSOAuthAccountMultipleSelectionHeader" = "Usar estas cuentas en %@";
+

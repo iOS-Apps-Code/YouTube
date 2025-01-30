@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:yt="http://gdata.youtube.com/schemas/2007"
+  xmlns:georss="http://www.georss.org/georss"
+  xmlns:gml="http://www.opengis.net/gml">
+  <media:group>
+    <media:title type="plain">__$TITLE__</media:title>
+    <media:description type="plain">__$DESCRIPTION__</media:description>
+    <media:keywords>__$KEYWORDS__</media:keywords>
+    <media:license>__$LICENSE__</media:license>
+    <media:category
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      __$CATEGORY__
+    </media:category>
+    __$DEVELOPER_TAGS__
+    __$PRIVACY__
+  </media:group>
+  <yt:accessControl action="list" permission="__$LISTED__"/>
+  __$LOCATION__
+</entry>

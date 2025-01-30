@@ -1,0 +1,157 @@
+/* Button label for canceling */
+"SSOAuthButtonCancel" = "Peruuta";
+
+/* Button label for disassociating identities from this device. */
+"SSOAuthButtonForgetAllIdentites" = "Unohda kaikki identiteetit";
+
+/* Button label for user choosing to sign in to an alternative account. */
+"SSOAuthButtonAddAnotherAccount" = "Lisää tili";
+
+/* Button label for signing out of an app ($1). (30 chars) */
+"SSOAuthButtonSignOutOfApp" = "Kirjaudu ulos sovelluksesta %@";
+
+/* Button label for signing out of an account. (30 chars) */
+"SSOAuthButtonSignOut" = "Kirjaudu ulos";
+
+/* Internal logic error occurred, unable to proceed. */
+"SSOAuthErrorInternal" = "Sisäinen virhe.";
+
+/* Error writing and reading to device. */
+"SSOAuthErrorKeychain" = "Kohteita ei voitu tallentaa turvalliseen tallennustilaan tai lukea niitä sieltä.";
+
+/* Inputted email does not match what was expected. Inputted address $1. Expected addresses $2. */
+"SSOAuthErrorMismatchedEmail" = "Annettu sähköpostiosoite (%1$@) ei vastaa odotusarvoista alkuperäistä sähköpostiosoitetta (%2$@).";
+
+/* Generic server error */
+"SSOAuthErrorServer" = "Palvelinvirhe";
+
+/* Error message displayed to user. */
+"SSOAuthErrorUnexpectedResponse" = "Odottamaton vastaus palvelimelta.";
+
+/* Google's brand name. */
+"SSOAuthGoogle" = "Google";
+
+/* Navigation title when selecting accounts. */
+"SSOAuthSelectAccount" = "Valitse tili";
+
+/* Alternate shorter navigation title when selecting accounts. */
+"SSOAuthSelect" = "Valitse";
+
+/* Header title for the sign in screen. */
+"SSOAuthTitleSignIn" = "Kirjaudu sisään";
+
+/* Placeholder for when an account has no name. */
+"SSOAuthUnnamedAccount" = "Nimetön tili";
+
+/* Button label for removing an account. */
+"SSOAuthRemoveAccount" = "Poista";
+
+/* Title of the account removal prompt. */
+"SSOAuthRemoveAccountConfirmationTitle" = "Poistetaanko tämä tili?";
+
+/* Content of the account removal confirmation message. */
+"SSOAuthRemoveAccountConfirmationMessage" = "Kun tili poistetaan, kirjaudutaan ulos myös kaikista Google-sovelluksista.";
+
+/* Button title for switching accounts. */
+"SSOAuthButtonSwitchAccount" = "Vaihda tiliä";
+
+/* Button title for managing accounts. */
+"SSOAuthButtonManageAccount" = "Hallinnoi tiliä";
+
+/* Button title for managing accounts. */
+"SSOAuthButtonManageAccounts" = "Hallinnoi tilejä";
+
+/* Button title for managing Google accounts. */
+"SSOAuthButtonManageGoogleAccount" = "Hallinnoi Google-tiliä";
+
+/* Button title for signing in to a Google account. */
+"SSOAuthButtonSignIn" = "Kirjaudu sisään";
+
+/* Error message displayed when there's an unknown account error. */
+"SSOAuthErrorAccountUnknownError" = "Tiliin kirjautuminen epäonnistui.";
+
+/* Error message displayed when there is a server error. */
+"SSOAuthErrorServerError" = "Palvelin ei ole käytettävissä";
+
+/* Error message displayed when there is a network error. */
+"SSOAuthErrorNetworkError" = "Verkko ei ole käytettävissä";
+
+/* Error message displayed when we are unable to sign out a user. */
+"SSOAuthErrorUnableToSignOut" = "Uloskirjautuminen epäonnistui";
+
+/* Error message displayed when we are unable to add a new user */
+"SSOAuthErrorUnableToAddAcount" = "Toista tiliä ei voitu lisätä";
+
+/* Button title for "Done" when hitting Sign Out. */
+"SSOAuthButtonDone" = "Valmis";
+
+/* Identity title for "Guest" account. */
+"SSOAuthIdentityGuest" = "Vieras";
+
+/* Button label for managing a list of accounts. (12 chars) */
+"SSOAuthButtonManage" = "Ylläpidä";
+
+/* Button label for removing an account. (20 chars) */
+"SSOAuthButtonRemove" = "Poista tili";
+
+/* Dialog message to emphasize the effects of removing an account. $1 is an application name. */
+"SSOAuthRemoveAccountConfirmationMessageAlt" = "Tämä tili poistetaan sovelluksesta %@ ja muista Google-sovelluksista tässä laitteessa.";
+
+/* Dialog message link for learning more. (20 chars) */
+"SSOAuthLinkLabelLearnMore" = "Lisätietoja.";
+
+/* Loading message displayed when removing account for the list of accounts. (20 chars) */
+"SSOAuthMessageRemovingAccount" = "Tiliä poistetaan";
+
+/* Explanation of Guest Mode. $1 is an application name. (30 chars) */
+"SSOAuthGuestModeSubtitleFormat" = "Käytä sovellusta %@ ilman Google-tiliä";
+
+/* Label for the Guest Mode button. (30 chars) */
+"SSOAuthGuestModeButtonLabel" = "Käytä ilman Google-tiliä";
+
+/* Dialog message to emphasize the effects of removing an account. $1 is an application name. */
+"SSOAuthRemoveAccountConfirmationMessageV3" = "Tämä tili ja kaikki tallentamattomat tiedot poistetaan sovelluksesta %@ ja muista tämän laitteen Google-sovelluksista.";
+
+/* Placeholder text when there are no accounts. */
+"SSOAuthNoAccountsMessageShort" = "Google-tilejä ei ole saatavilla.";
+
+/* Button label for adding another account to a list. */
+"SSOAuthAddAnotherAccount" = "Lisää toinen tili";
+
+/* Guest account switch message. */
+"SSOAuthGuestAccountSwitchMessage" = "Voit kirjautua sisään valitsemalla jonkin tähän laitteeseen tallennetuista Google-tileistä. \n \n Voit poistaa tallennetun tilin napauttamalla Kirjaudu sisään > Hallinnoi > Poista.";
+
+/* Button title for "OK" when showing a message in dialog box. */
+"SSOAuthButtonOK" = "OK";
+
+/* Title for dialog box when showing alert related to "Device Policy". This error comes when the
+ device is not complient with the policy set by the IT administrator of the organization. */
+"SSOAuthMDMError" = "Laitekäytäntöilmoitus";
+
+/* Error message displayed to user when there is no error message avaiable from the server. */
+"SSOAuthUnknownError" = "Tuntematon virhe";
+
+/* Text in the express sign-in view that, when clicked, allows the user to choose a different account to sign in with. */
+"SSOAuthButtonChooseAnotherAccount" = "Valitse toinen tili";
+
+/* Text in the express sign-in view that, when clicked, signs the user into their default account. $1 is the full name of the user. */
+"SSOAuthButtonContinueSignInFullName" = "Jatka käyttäjänä %@";
+
+/* When we can't get the user's full name, text in the express sign-in view that, when clicked, signs the user into their default account. */
+"SSOAuthButtonContinueSignInDefault" = "Jatka";
+
+/* Title of the alert view when the remove account button is clicked. */
+"SSOAuthRemoveAccountAlertTitle" = "Poista tili %@";
+
+/* Accessibility label for button that removes an account from the device. The phrase is the action that the button will take and the argument will be the profile information including account name and email address. */
+"SSOAuthRemoveAccountLabelFormat" = "Poista tili %@";
+
+/* Title of account selector view when mulitple selection is enabled. */
+"SSOAuthAccountSelectorMutlipleSelectionTitle" = "Tilit";
+
+/* Button title to enter edit mode on account selector view. */
+"SSOAuthButtonEdit" = "Muokkaa";
+
+/* Table header explaining account selection.  $1 is app name */
+"SSOAuthAccountMultipleSelectionHeader" = "Käytä näitä tilejä sovelluksessa %@";
+
