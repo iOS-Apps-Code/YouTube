@@ -1,0 +1,139 @@
+/* Button label for canceling */
+"SSOAuthButtonCancel" = "Hủy";
+
+/* Button label for disassociating identities from this device. */
+"SSOAuthButtonForgetAllIdentites" = "Bỏ qua tất cả danh tính";
+
+/* Button label for user choosing to sign in to an alternative account. */
+"SSOAuthButtonAddAnotherAccount" = "Thêm tài khoản";
+
+/* Button label for signing out of an app ($1). (30 chars) */
+"SSOAuthButtonSignOutOfApp" = "Đăng xuất khỏi %@";
+
+/* Button label for signing out of an account. (30 chars) */
+"SSOAuthButtonSignOut" = "Đăng xuất";
+
+/* Internal logic error occurred, unable to proceed. */
+"SSOAuthErrorInternal" = "Đã xảy ra lỗi nội bộ.";
+
+/* Error writing and reading to device. */
+"SSOAuthErrorKeychain" = "Không thể lưu trữ hoặc đọc các mục từ bộ nhớ an toàn.";
+
+/* Inputted email does not match what was expected. Inputted address $1. Expected addresses $2. */
+"SSOAuthErrorMismatchedEmail" = "Địa chỉ email được cung cấp (%1$@) không khớp với địa chỉ email mong muốn ban đầu (%2$@).";
+
+/* Generic server error */
+"SSOAuthErrorServer" = "Lỗi máy chủ";
+
+/* Error message displayed to user. */
+"SSOAuthErrorUnexpectedResponse" = "Phản hồi không mong muốn từ máy chủ.";
+
+/* Google's brand name. */
+"SSOAuthGoogle" = "Google";
+
+/* Navigation title when selecting accounts. */
+"SSOAuthSelectAccount" = "Chọn tài khoản";
+
+/* Alternate shorter navigation title when selecting accounts. */
+"SSOAuthSelect" = "Chọn";
+
+/* Header title for the sign in screen. */
+"SSOAuthTitleSignIn" = "Đăng nhập";
+
+/* Placeholder for when an account has no name. */
+"SSOAuthUnnamedAccount" = "Tài khoản chưa đặt tên";
+
+/* Button label for removing an account. */
+"SSOAuthRemoveAccount" = "Xóa";
+
+/* Title of the account removal prompt. */
+"SSOAuthRemoveAccountConfirmationTitle" = "Xóa tài khoản này?";
+
+/* Content of the account removal confirmation message. */
+"SSOAuthRemoveAccountConfirmationMessage" = "Xóa tài khoản này sẽ đăng xuất khỏi tất cả ứng dụng của Google đã cài đặt.";
+
+/* Button title for switching accounts. */
+"SSOAuthButtonSwitchAccount" = "Chuyển đổi tài khoản";
+
+/* Button title for managing accounts. */
+"SSOAuthButtonManageAccount" = "Quản lý tài khoản";
+
+/* Button title for managing Google accounts. */
+"SSOAuthButtonManageGoogleAccount" = "Quản lý tài khoản Google";
+
+/* Button title for signing in to a Google account. */
+"SSOAuthButtonSignIn" = "Đăng nhập";
+
+/* Error message displayed when there's an unknown account error. */
+"SSOAuthErrorAccountUnknownError" = "Không thể đăng nhập vào tài khoản này.";
+
+/* Error message displayed when there is a server error. */
+"SSOAuthErrorServerError" = "Máy chủ không khả dụng";
+
+/* Error message displayed when there is a network error. */
+"SSOAuthErrorNetworkError" = "Mạng không khả dụng";
+
+/* Error message displayed when we are unable to sign out a user. */
+"SSOAuthErrorUnableToSignOut" = "Không thể đăng xuất";
+
+/* Error message displayed when we are unable to add a new user */
+"SSOAuthErrorUnableToAddAcount" = "Không thể thêm tài khoản khác";
+
+/* Button title for "Done" when hitting Sign Out. */
+"SSOAuthButtonDone" = "Xong";
+
+/* Identity title for "Guest" account. */
+"SSOAuthIdentityGuest" = "Khách";
+
+/* Button label for managing a list of accounts. (12 chars) */
+"SSOAuthButtonManage" = "Quản lý";
+
+/* Button label for removing an account. (20 chars) */
+"SSOAuthButtonRemove" = "Xóa tài khoản";
+
+/* Dialog message to emphasize the effects of removing an account. $1 is an application name. */
+"SSOAuthRemoveAccountConfirmationMessageAlt" = "Tài khoản này sẽ bị xóa khỏi %@ và các ứng dụng của Google khác trên thiết bị này.";
+
+/* Dialog message link for learning more. (20 chars) */
+"SSOAuthLinkLabelLearnMore" = "Tìm hiểu thêm.";
+
+/* Loading message displayed when removing account for the list of accounts. (20 chars) */
+"SSOAuthMessageRemovingAccount" = "Xóa tài khoản";
+
+/* Explanation of Guest Mode. $1 is an application name. (30 chars) */
+"SSOAuthGuestModeSubtitleFormat" = "Dùng %@ mà ko cần TK Google";
+
+/* Label for the Guest Mode button. (30 chars) */
+"SSOAuthGuestModeButtonLabel" = "Sử dụng ứng dụng này mà ko cần Tài khoản Google";
+
+/* Dialog message to emphasize the effects of removing an account. $1 is an application name. */
+"SSOAuthRemoveAccountConfirmationMessageV3" = "Tài khoản này và bất kỳ dữ liệu nào chưa được lưu sẽ bị xóa khỏi %@ và các ứng dụng Google khác trên thiết bị này.";
+
+/* Placeholder text when there are no accounts. */
+"SSOAuthNoAccountsMessageShort" = "Không có Tài khoản Google nào khả dụng.";
+
+/* Button label for adding another account to a list. */
+"SSOAuthAddAnotherAccount" = "Thêm tài khoản khác";
+
+/* Guest account switch message. */
+"SSOAuthGuestAccountSwitchMessage" = "Để đăng nhập lại, chỉ cần chọn một trong các tài khoản Google được lưu trên thiết bị này của bạn. \n \n Để Xóa một tài khoản được lưu, hãy nhấn vào \"Đăng nhập\" > \"Quản lý\" > \"Xóa\".";
+
+/* Button title for "OK" when showing a message in dialog box. */
+"SSOAuthButtonOK" = "OK";
+
+/* Title for dialog box when showing error related to "Device Policy". This error comes when the
+ device is not complient with the policy set by the IT administrator of the organization. */
+"SSOAuthMDMError" = "Lỗi chính sách thiết bị";
+
+/* Error message displayed to user when there is no error message avaiable from the server. */
+"SSOAuthUnknownError" = "Lỗi không xác định";
+
+/* Text in the express sign-in view that, when clicked, allows the user to choose a different account to sign in with. */
+"SSOAuthButtonChooseAnotherAccount" = "Chọn tài khoản khác";
+
+/* Text in the express sign-in view that, when clicked, signs the user into their default account. $1 is the full name of the user. */
+"SSOAuthButtonContinueSignInFullName" = "Tiếp tục với tên %@";
+
+/* When we can't get the user's full name, text in the express sign-in view that, when clicked, signs the user into their default account. */
+"SSOAuthButtonContinueSignInDefault" = "Tiếp tục";
+

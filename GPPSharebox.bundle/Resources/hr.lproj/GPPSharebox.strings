@@ -1,0 +1,14 @@
+/* Description of a post that is restricted to a dasher domain, when we can't find a name for that domain. */
+"GPPShareboxDescriptionDomain" = "Ograničeno na domenu";
+
+/* Description of a post that is shared privately with selected people and/or circles. */
+"GPPShareboxDescriptionPrivate" = "Privatno vidljivo";
+
+/* Description of a post that is publicly visible. */
+"GPPShareboxDescriptionPublic" = "Javno";
+
+/* Title for a button to post a comment to a Google+ post. */
+"GPPShareboxTitlePost" = "Objavi";
+
+/* Title for a view to add a comment to a Google+ post. */
+"GPPShareboxTitleReply" = "Odgovori";

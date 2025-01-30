@@ -1,0 +1,11 @@
+/* Label for a button indicating an action should be attempted again. (40 chars.) */
+"TryAgainButton" = "Thử lại";
+
+/* Alert title when no network connection is available. (40 chars). */
+"NoNetworkAlertTitle" = "Không có kết nối mạng";
+
+/* Alert title when the network connection is available but the server connect be reached. (40 chars). */
+"NoServerAlertTitle" = "Không thể kết nối với máy chủ";
+
+/* Alert title for the default message. (40 chars). */
+"DefaultErrorTitle" = "Đã xảy ra lỗi. Vui lòng thử lại sau.";

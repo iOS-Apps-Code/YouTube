@@ -1,0 +1,139 @@
+/* Button label for canceling */
+"SSOAuthButtonCancel" = "Скасувати";
+
+/* Button label for disassociating identities from this device. */
+"SSOAuthButtonForgetAllIdentites" = "Видалити всі облікові дані";
+
+/* Button label for user choosing to sign in to an alternative account. */
+"SSOAuthButtonAddAnotherAccount" = "Додати обліковий запис";
+
+/* Button label for signing out of an app ($1). (30 chars) */
+"SSOAuthButtonSignOutOfApp" = "Вийти з %@";
+
+/* Button label for signing out of an account. (30 chars) */
+"SSOAuthButtonSignOut" = "Вийти";
+
+/* Internal logic error occurred, unable to proceed. */
+"SSOAuthErrorInternal" = "Сталася внутрішня помилка.";
+
+/* Error writing and reading to device. */
+"SSOAuthErrorKeychain" = "Помилка зв’язку із захищеним сховищем.";
+
+/* Inputted email does not match what was expected. Inputted address $1. Expected addresses $2. */
+"SSOAuthErrorMismatchedEmail" = "Указана електронна адреса (%1$@) відрізняється від очікуваної (%2$@).";
+
+/* Generic server error */
+"SSOAuthErrorServer" = "Помилка сервера";
+
+/* Error message displayed to user. */
+"SSOAuthErrorUnexpectedResponse" = "Неочікувана відповідь сервера.";
+
+/* Google's brand name. */
+"SSOAuthGoogle" = "Google";
+
+/* Navigation title when selecting accounts. */
+"SSOAuthSelectAccount" = "Виберіть обліковий запис";
+
+/* Alternate shorter navigation title when selecting accounts. */
+"SSOAuthSelect" = "Виберіть";
+
+/* Header title for the sign in screen. */
+"SSOAuthTitleSignIn" = "Вхід";
+
+/* Placeholder for when an account has no name. */
+"SSOAuthUnnamedAccount" = "Без імені";
+
+/* Button label for removing an account. */
+"SSOAuthRemoveAccount" = "Видалити";
+
+/* Title of the account removal prompt. */
+"SSOAuthRemoveAccountConfirmationTitle" = "Видалити цей обліковий запис?";
+
+/* Content of the account removal confirmation message. */
+"SSOAuthRemoveAccountConfirmationMessage" = "Якщо видалити цей обліковий запис, ви вийдете з усіх установлених програм Google.";
+
+/* Button title for switching accounts. */
+"SSOAuthButtonSwitchAccount" = "Змінити обліковий запис";
+
+/* Button title for managing accounts. */
+"SSOAuthButtonManageAccount" = "Керувати обліковим записом";
+
+/* Button title for managing Google accounts. */
+"SSOAuthButtonManageGoogleAccount" = "Керувати обліковим записом Google";
+
+/* Button title for signing in to a Google account. */
+"SSOAuthButtonSignIn" = "Увійти";
+
+/* Error message displayed when there's an unknown account error. */
+"SSOAuthErrorAccountUnknownError" = "Помилка входу в обліковий запис.";
+
+/* Error message displayed when there is a server error. */
+"SSOAuthErrorServerError" = "Сервер недоступний";
+
+/* Error message displayed when there is a network error. */
+"SSOAuthErrorNetworkError" = "Немає підключення до мережі";
+
+/* Error message displayed when we are unable to sign out a user. */
+"SSOAuthErrorUnableToSignOut" = "Помилка виходу";
+
+/* Error message displayed when we are unable to add a new user */
+"SSOAuthErrorUnableToAddAcount" = "Не вдалося додати обліковий запис";
+
+/* Button title for "Done" when hitting Sign Out. */
+"SSOAuthButtonDone" = "Готово";
+
+/* Identity title for "Guest" account. */
+"SSOAuthIdentityGuest" = "Гість";
+
+/* Button label for managing a list of accounts. (12 chars) */
+"SSOAuthButtonManage" = "Упорядкувати";
+
+/* Button label for removing an account. (20 chars) */
+"SSOAuthButtonRemove" = "Видалити обл. запис";
+
+/* Dialog message to emphasize the effects of removing an account. $1 is an application name. */
+"SSOAuthRemoveAccountConfirmationMessageAlt" = "Цей обліковий запис буде видалено з усіх програм Google на цьому пристрої, включаючи %@.";
+
+/* Dialog message link for learning more. (20 chars) */
+"SSOAuthLinkLabelLearnMore" = "Докладніше.";
+
+/* Loading message displayed when removing account for the list of accounts. (20 chars) */
+"SSOAuthMessageRemovingAccount" = "Видалення обл. запису";
+
+/* Explanation of Guest Mode. $1 is an application name. (30 chars) */
+"SSOAuthGuestModeSubtitleFormat" = "Відкрити %@ без обл. запису";
+
+/* Label for the Guest Mode button. (30 chars) */
+"SSOAuthGuestModeButtonLabel" = "Відкрити цю програму без обл. запису";
+
+/* Dialog message to emphasize the effects of removing an account. $1 is an application name. */
+"SSOAuthRemoveAccountConfirmationMessageV3" = "Цей обліковий запис і всі незбережені дані буде видалено з усіх програм Google на цьому пристрої, включаючи %@.";
+
+/* Placeholder text when there are no accounts. */
+"SSOAuthNoAccountsMessageShort" = "Немає облікових записів Google.";
+
+/* Button label for adding another account to a list. */
+"SSOAuthAddAnotherAccount" = "Додати інший обліковий запис";
+
+/* Guest account switch message. */
+"SSOAuthGuestAccountSwitchMessage" = "Щоб увійти в програму знову, просто виберіть будь-який обліковий запис, збережений на цьому пристрої. \n \n Щоб видалити збережений обліковий запис, натисніть \"Увійти > Упорядкувати > Видалити\".";
+
+/* Button title for "OK" when showing a message in dialog box. */
+"SSOAuthButtonOK" = "ОК";
+
+/* Title for dialog box when showing error related to "Device Policy". This error comes when the
+ device is not complient with the policy set by the IT administrator of the organization. */
+"SSOAuthMDMError" = "Невідповідність політиці пристрою";
+
+/* Error message displayed to user when there is no error message avaiable from the server. */
+"SSOAuthUnknownError" = "Невідома помилка";
+
+/* Text in the express sign-in view that, when clicked, allows the user to choose a different account to sign in with. */
+"SSOAuthButtonChooseAnotherAccount" = "Вибрати інший обліковий запис";
+
+/* Text in the express sign-in view that, when clicked, signs the user into their default account. $1 is the full name of the user. */
+"SSOAuthButtonContinueSignInFullName" = "Продовжити як %@";
+
+/* When we can't get the user's full name, text in the express sign-in view that, when clicked, signs the user into their default account. */
+"SSOAuthButtonContinueSignInDefault" = "Продовжити";
+

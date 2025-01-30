@@ -1,0 +1,139 @@
+/* Button label for canceling */
+"SSOAuthButtonCancel" = "Avbryt";
+
+/* Button label for disassociating identities from this device. */
+"SSOAuthButtonForgetAllIdentites" = "Glem alle identiteter";
+
+/* Button label for user choosing to sign in to an alternative account. */
+"SSOAuthButtonAddAnotherAccount" = "Legg til konto";
+
+/* Button label for signing out of an app ($1). (30 chars) */
+"SSOAuthButtonSignOutOfApp" = "Logg av %@";
+
+/* Button label for signing out of an account. (30 chars) */
+"SSOAuthButtonSignOut" = "Logg av";
+
+/* Internal logic error occurred, unable to proceed. */
+"SSOAuthErrorInternal" = "Det oppsto en intern feil.";
+
+/* Error writing and reading to device. */
+"SSOAuthErrorKeychain" = "Kunne ikke lagre eller lese elementer fra sikker lagringsplass.";
+
+/* Inputted email does not match what was expected. Inputted address $1. Expected addresses $2. */
+"SSOAuthErrorMismatchedEmail" = "Den oppgitte e-postadressen (%1$@) stemmer ikke med den forventede opprinnelige e-postadressen (%2$@).";
+
+/* Generic server error */
+"SSOAuthErrorServer" = "Feil på tjeneren";
+
+/* Error message displayed to user. */
+"SSOAuthErrorUnexpectedResponse" = "Uventet respons fra tjeneren.";
+
+/* Google's brand name. */
+"SSOAuthGoogle" = "Google";
+
+/* Navigation title when selecting accounts. */
+"SSOAuthSelectAccount" = "Velg konto";
+
+/* Alternate shorter navigation title when selecting accounts. */
+"SSOAuthSelect" = "Velg";
+
+/* Header title for the sign in screen. */
+"SSOAuthTitleSignIn" = "Logg på";
+
+/* Placeholder for when an account has no name. */
+"SSOAuthUnnamedAccount" = "Ikke navngitt konto";
+
+/* Button label for removing an account. */
+"SSOAuthRemoveAccount" = "Fjern";
+
+/* Title of the account removal prompt. */
+"SSOAuthRemoveAccountConfirmationTitle" = "Fjerne denne kontoen?";
+
+/* Content of the account removal confirmation message. */
+"SSOAuthRemoveAccountConfirmationMessage" = "Hvis du fjerner denne kontoen, logges du av alle installerte Google-apper.";
+
+/* Button title for switching accounts. */
+"SSOAuthButtonSwitchAccount" = "Bytt konto";
+
+/* Button title for managing accounts. */
+"SSOAuthButtonManageAccount" = "Administrer konto";
+
+/* Button title for managing Google accounts. */
+"SSOAuthButtonManageGoogleAccount" = "Administrer Google-konto";
+
+/* Button title for signing in to a Google account. */
+"SSOAuthButtonSignIn" = "Logg på";
+
+/* Error message displayed when there's an unknown account error. */
+"SSOAuthErrorAccountUnknownError" = "Kan ikke logge på denne kontoen.";
+
+/* Error message displayed when there is a server error. */
+"SSOAuthErrorServerError" = "Serveren er utilgjengelig";
+
+/* Error message displayed when there is a network error. */
+"SSOAuthErrorNetworkError" = "Nettverket er utilgjengelig";
+
+/* Error message displayed when we are unable to sign out a user. */
+"SSOAuthErrorUnableToSignOut" = "Kan ikke logge av";
+
+/* Error message displayed when we are unable to add a new user */
+"SSOAuthErrorUnableToAddAcount" = "Kan ikke legge til enda en konto";
+
+/* Button title for "Done" when hitting Sign Out. */
+"SSOAuthButtonDone" = "Ferdig";
+
+/* Identity title for "Guest" account. */
+"SSOAuthIdentityGuest" = "Gjest";
+
+/* Button label for managing a list of accounts. (12 chars) */
+"SSOAuthButtonManage" = "Administrer";
+
+/* Button label for removing an account. (20 chars) */
+"SSOAuthButtonRemove" = "Fjern konto";
+
+/* Dialog message to emphasize the effects of removing an account. $1 is an application name. */
+"SSOAuthRemoveAccountConfirmationMessageAlt" = "Denne kontoen blir fjernet fra %@ og andre Google-apper på denne enheten.";
+
+/* Dialog message link for learning more. (20 chars) */
+"SSOAuthLinkLabelLearnMore" = "Mer informasjon.";
+
+/* Loading message displayed when removing account for the list of accounts. (20 chars) */
+"SSOAuthMessageRemovingAccount" = "Fjerner kontoen";
+
+/* Explanation of Guest Mode. $1 is an application name. (30 chars) */
+"SSOAuthGuestModeSubtitleFormat" = "Bruk %@ uten Google-konto";
+
+/* Label for the Guest Mode button. (30 chars) */
+"SSOAuthGuestModeButtonLabel" = "Bruk appen uten Google-konto";
+
+/* Dialog message to emphasize the effects of removing an account. $1 is an application name. */
+"SSOAuthRemoveAccountConfirmationMessageV3" = "Denne kontoen og alle ulagrede data blir fjernet fra %@ og andre Google-apper på denne enheten.";
+
+/* Placeholder text when there are no accounts. */
+"SSOAuthNoAccountsMessageShort" = "Ingen Google-kontoer er tilgjengelige.";
+
+/* Button label for adding another account to a list. */
+"SSOAuthAddAnotherAccount" = "Legg til en ny konto";
+
+/* Guest account switch message. */
+"SSOAuthGuestAccountSwitchMessage" = "Du kan logge på igjen ved å velge en av Google-kontoene dine som er lagret på denne enheten. \n \n Hvis du vil fjerne en lagret konto, trykker du på «Logg på» > «Administrer» > «Fjern».";
+
+/* Button title for "OK" when showing a message in dialog box. */
+"SSOAuthButtonOK" = "OK";
+
+/* Title for dialog box when showing error related to "Device Policy". This error comes when the
+ device is not complient with the policy set by the IT administrator of the organization. */
+"SSOAuthMDMError" = "Feil i retningslinjene for enheten";
+
+/* Error message displayed to user when there is no error message avaiable from the server. */
+"SSOAuthUnknownError" = "Ukjent feil";
+
+/* Text in the express sign-in view that, when clicked, allows the user to choose a different account to sign in with. */
+"SSOAuthButtonChooseAnotherAccount" = "Velg en annen konto";
+
+/* Text in the express sign-in view that, when clicked, signs the user into their default account. $1 is the full name of the user. */
+"SSOAuthButtonContinueSignInFullName" = "Fortsett som %@";
+
+/* When we can't get the user's full name, text in the express sign-in view that, when clicked, signs the user into their default account. */
+"SSOAuthButtonContinueSignInDefault" = "Fortsett";
+

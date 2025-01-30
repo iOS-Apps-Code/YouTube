@@ -1,0 +1,62 @@
+/* Placeholder/hint text for the feedback compose form's text field. (50 chars.) */
+"Compose_DescriptionPlaceholder" = "Write your feedback";
+
+/* Title for screen to send feedback. (40 chars.) */
+"Compose_HeaderTitle" = "Send feedback";
+
+/* Description explaining what it means to include your Google account in the feedback. (80 chars.) */
+"Compose_IncludeGoogleAccountExplanation" = "Include your Google Account information";
+
+/* Label for the option to include the user's Google account in the feedback. (50 chars.) */
+"Compose_IncludeGoogleAccountLabel" = "Google Account";
+
+/* Label for the button to view a preview of the feedback. (10 chars.) */
+"Compose_PreviewButtonLabel" = "Preview";
+
+/* Description explaining the option to include a screenshot. (80 chars.) */
+"Compose_ScreenshotOptionExplanation" = "Send screenshot of the last page that you were on.";
+
+/* Label to include a screenshot in the feedback. (50 chars.) */
+"Compose_ScreenshotOptionLabel" = "Include screenshot";
+
+/* Description explaining the option to include system data in the feedback. (80 chars.) */
+"Compose_SystemDataOptionExplanation" = "Share system data with Google to better diagnose the problem.";
+
+/* Label for the option to include the system data in the feedback. (50 chars.) */
+"Compose_SystemDataOptionLabel" = "Include system data";
+
+/* Label for the preview of the general application data sent with feedback reports. (30 chars.) */
+"Preview_ApplicationDataLabel" = "Application data";
+
+/* Label for the preview of the application version number. (30 chars.) */
+"Preview_ApplicationVersionLabel" = "Application version";
+
+/* Label for the preview of the general feedback description secion's content. (30 chars.) */
+"Preview_DescriptionLabel" = "Description";
+
+/* Label for the preview of the device model. (30 chars.) */
+"Preview_DeviceModelLabel" = "Device model";
+
+/* Label for the preview of the user's Google account information being attached. (50 chars.) */
+"Preview_GoogleAccountLabel" = "Google Account";
+
+/* Title for the screen showing a preview of the user feedback to be sent. (20 chars.) */
+"Preview_HeaderTitle" = "Preview feedback";
+
+/* Label for the preview of the OS (Operating System) version number. (30 chars.) */
+"Preview_OSVersionLabel" = "OS version";
+
+/* Label for the preview of the screenshot being attached. (30 chars.) */
+"Preview_ScreenshotPreviewLabel" = "Screenshot preview";
+
+/* Label for the button send feedback. (10 chars.) */
+"Preview_SendButtonLabel" = "Send";
+
+/* Label for the preview of the system log being attached. (30 chars.) */
+"Preview_SystemLogLabel" = "System log";
+
+/* Label for the preview of the date/time of the feedback. (30 chars.) */
+"Preview_TimestampLabel" = "Time";
+
+/* Title for the screen of the system log being attached. (30 chars.) */
+"SystemLog_HeaderTitle" = "System log";
