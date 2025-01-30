@@ -1,0 +1,11 @@
+/* Label for a button indicating an action should be attempted again. (40 chars.) */
+"TryAgainButton" = "Pokušaj ponovo";
+
+/* Alert title when no network connection is available. (40 chars). */
+"NoNetworkAlertTitle" = "Nema mrežne veze";
+
+/* Alert title when the network connection is available but the server connect be reached. (40 chars). */
+"NoServerAlertTitle" = "Nije moguće doseći poslužitelj";
+
+/* Alert title for the default message. (40 chars). */
+"DefaultErrorTitle" = "Nešto je pošlo po zlu. Pokušajte ponovo.";

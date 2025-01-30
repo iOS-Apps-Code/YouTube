@@ -1,0 +1,11 @@
+/* Label for a button indicating an action should be attempted again. (40 chars.) */
+"TryAgainButton" = "Try again";
+
+/* Alert title when no network connection is available. (40 chars). */
+"NoNetworkAlertTitle" = "No network connection";
+
+/* Alert title when the network connection is available but the server connect be reached. (40 chars). */
+"NoServerAlertTitle" = "Cannot reach server";
+
+/* Alert title for the default message. (40 chars). */
+"DefaultErrorTitle" = "Oops, something went wrong. Please try again.";

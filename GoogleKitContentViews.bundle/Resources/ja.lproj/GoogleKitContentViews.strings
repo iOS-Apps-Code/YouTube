@@ -1,0 +1,11 @@
+/* Label for a button indicating an action should be attempted again. (40 chars.) */
+"TryAgainButton" = "再試行";
+
+/* Alert title when no network connection is available. (40 chars). */
+"NoNetworkAlertTitle" = "ネットワークに接続できません";
+
+/* Alert title when the network connection is available but the server connect be reached. (40 chars). */
+"NoServerAlertTitle" = "サーバーに接続できません";
+
+/* Alert title for the default message. (40 chars). */
+"DefaultErrorTitle" = "エラー: もう一度お試しください。";

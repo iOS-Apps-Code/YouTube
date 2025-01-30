@@ -1,0 +1,11 @@
+/* Label for a button indicating an action should be attempted again. (40 chars.) */
+"TryAgainButton" = "Δοκιμάστε ξανά";
+
+/* Alert title when no network connection is available. (40 chars). */
+"NoNetworkAlertTitle" = "Δεν υπάρχει σύνδεση δικτύου";
+
+/* Alert title when the network connection is available but the server connect be reached. (40 chars). */
+"NoServerAlertTitle" = "Δεν είναι δυνατή η σύνδεση με το διακομιστή";
+
+/* Alert title for the default message. (40 chars). */
+"DefaultErrorTitle" = "Ωχ… Κάτι δεν πήγε καλά. Δοκιμάστε ξανά αργότερα.";

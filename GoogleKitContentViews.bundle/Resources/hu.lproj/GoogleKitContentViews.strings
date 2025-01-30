@@ -1,0 +1,11 @@
+/* Label for a button indicating an action should be attempted again. (40 chars.) */
+"TryAgainButton" = "Újrapróbálkozás";
+
+/* Alert title when no network connection is available. (40 chars). */
+"NoNetworkAlertTitle" = "Nincs hálózati kapcsolat";
+
+/* Alert title when the network connection is available but the server connect be reached. (40 chars). */
+"NoServerAlertTitle" = "Nem érhető el a szerver";
+
+/* Alert title for the default message. (40 chars). */
+"DefaultErrorTitle" = "Hiba történt. Próbálja újra később.";

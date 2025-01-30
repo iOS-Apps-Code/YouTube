@@ -1,0 +1,11 @@
+/* Google+ brand name. */
+"GPPCommonTitle" = "Google+";
+
+/* Title for a fACL picker. */
+"GPPCommonTitleFACL" = "Koho aplikace uvidí";
+
+/* Message for when a user has a suspended profile. */
+"GPPCommonMessageSuspendedProfile" = "Došlo k potížím s vaším profilem. Přejděte prosím v počítači nebo notebooku na adresu http://plus.google.com/ a problém vyřešte.";
+
+/* Title for an error about having a suspended profile. */
+"GPPCommonTitleSuspendedProfile" = "Problém s profilem";

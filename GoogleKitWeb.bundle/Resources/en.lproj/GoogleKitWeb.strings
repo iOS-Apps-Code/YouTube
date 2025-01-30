@@ -1,0 +1,12 @@
+/* Message displayed when a web page is loading. */
+"GoogleKitWebLoading" = "Loading...";
+
+/* Accessibility label for the back button. */
+"GoogleKitWebBackA11yLabel" = "Back";
+
+/* Accessibility label for the forward button. */
+"GoogleKitWebForwardA11yLabel" = "Forward";
+
+/* Accessibility label for the reload button. */
+"GoogleKitWebReloadA11yLabel" = "Reload";
+
