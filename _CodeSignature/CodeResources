@@ -6,31 +6,31 @@
 	<dict>
 		<key>FeedbackResources.bundle/FeedbackResources</key>
 		<data>
-		+40M22zpgHe9g0r1km6MFgjIIh0=
+		VuOHjE8pSVmMpgIu+W3kP78MwnE=
 		</data>
 		<key>FeedbackResources.bundle/GIPFeedbackLogViewer.nib</key>
 		<data>
-		1lBtGWg9RZi0Ol2MEqH/wPCRigc=
+		4ra6Yl5v6OteTyD9m94HaT9YNQA=
 		</data>
 		<key>FeedbackResources.bundle/GIPFeedbackMainCells.nib</key>
 		<data>
-		laj1WviWL5kruEtGc0Ds3MWCgpQ=
+		ozRAlbjvVJrERQlkf9AgceE8IU0=
 		</data>
 		<key>FeedbackResources.bundle/GIPFeedbackMainController.nib</key>
 		<data>
-		Xv25FjtkeMgOGmFlf3VFBHh9Rl0=
+		xobL5J7ZyvrwJ7MKWjnbrMP40Wc=
 		</data>
 		<key>FeedbackResources.bundle/GIPFeedbackPreviewViewController.nib</key>
 		<data>
-		kKYfJn6XwsLxyDcYhYenoPkB0Z8=
+		KbWgopsYwJyxlod9ud93RvidNGc=
 		</data>
 		<key>FeedbackResources.bundle/GIPFeedbackSampleViewController.nib</key>
 		<data>
-		z1/IVaeYCDGUfhtK3jsH2LAkDEo=
+		XzidjqcAthUCpUv0KkUS2iUUyfI=
 		</data>
 		<key>FeedbackResources.bundle/GIPFeedbackScreenshotCell.nib</key>
 		<data>
-		w3NhuyPos1HS0vUIkqyY7hfjmfo=
+		8TOxPfYTkZOSd4ZhDVys7T0OM28=
 		</data>
 		<key>FeedbackResources.bundle/ar.lproj/GIPFeedback.strings</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>FeedbackResources.bundle/cs.lproj/GIPFeedback.strings</key>
 		<data>
-		1sSWnY8jjc/qv38fvRollIm37jg=
+		lN5r8qYGtyjHg9G22qCP+RMoE3o=
 		</data>
 		<key>FeedbackResources.bundle/da.lproj/GIPFeedback.strings</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>FeedbackResources.bundle/de.lproj/GIPFeedback.strings</key>
 		<data>
-		oTX4Sjo3QGx7eULQzHb03CoO7nM=
+		UZOK43QezTSDAcoCPOasZMBT0zc=
 		</data>
 		<key>FeedbackResources.bundle/el.lproj/GIPFeedback.strings</key>
 		<data>
@@ -202,7 +202,7 @@
 		</data>
 		<key>GIPKeyboardTogglerResources.bundle/GIPKeyboardTogglerResources</key>
 		<data>
-		pnQqdUh2GQb2FG2w5wvFLpzoWY0=
+		xbPBRznefKVUz3mmOySm/waA1TM=
 		</data>
 		<key>GIPKeyboardTogglerResources.bundle/keyboard.png</key>
 		<data>
@@ -236,110 +236,6 @@
 		<data>
 		1IUWAjngH4esJzH2GBmBIBdkUe4=
 		</data>
-		<key>GIPSearchBarResources.bundle/GIPSearchBarResources</key>
-		<data>
-		fzqFaDnHR0Rne/ZXy3wxSPt4XDs=
-		</data>
-		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-clear-text-field-pressed.png</key>
-		<data>
-		tkSlVlvozLdoaSjdkQ9SpWQbSL0=
-		</data>
-		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-clear-text-field-pressed@2x.png</key>
-		<data>
-		xmuq/XYkaZkUEVfpA/Mrk7GBCY8=
-		</data>
-		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-clear-text-field.png</key>
-		<data>
-		3d4RSGndzVL8ZR0pod7E3QX7RSM=
-		</data>
-		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-clear-text-field@2x.png</key>
-		<data>
-		Hh8tWHIqZZXHWJTZ7UznY9/DQ+8=
-		</data>
-		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-icon-goggles.png</key>
-		<data>
-		mKkjAmoucWOqhjyMkh/Twd0CR6g=
-		</data>
-		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-icon-goggles@2x.png</key>
-		<data>
-		lOBa7bDBCCznc49FwUktOyScmxM=
-		</data>
-		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-icon-voice.png</key>
-		<data>
-		5VtfsJG9UUpefnqfE8ufzure8uE=
-		</data>
-		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-icon-voice@2x.png</key>
-		<data>
-		6wfNTvR04yLXWHSrif2cNdpAc2A=
-		</data>
-		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-searchbox.png</key>
-		<data>
-		/K5Csw1zg7+K9UAjlx/u8CLm958=
-		</data>
-		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-searchbox@2x.png</key>
-		<data>
-		12O0xJViJRK3UL+Cm7RnHMqz+Ss=
-		</data>
-		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-searchtop-separator.png</key>
-		<data>
-		TDPFXLSoGyh/ArbWpLmnK1tSDFA=
-		</data>
-		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-searchtop-separator@2x.png</key>
-		<data>
-		5N4sucMqf1Z3jxxTrJ2TxViq6Bk=
-		</data>
-		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-searchtop-tools-pressed.png</key>
-		<data>
-		5/r7rYeHPI8aMOx9dnKc7Kfgugs=
-		</data>
-		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-searchtop-tools-pressed@2x.png</key>
-		<data>
-		JwVzlL+c97Hq0AQxiFnaMVmlWlU=
-		</data>
-		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-toolbar-background.png</key>
-		<data>
-		aXa01e4YU7Gp3Gr5jwJbmQpnAyA=
-		</data>
-		<key>GIPSearchBarResources.bundle/gip-ui-searchbar-toolbar-background@2x.png</key>
-		<data>
-		LGaCQ3wIYXuBwfFLDXp7hKo6ZNw=
-		</data>
-		<key>GIPSearchBarResources.bundle/goggles-text-token-pressed.png</key>
-		<data>
-		omJQ3FelgQaMHrtuPr05H7soQPE=
-		</data>
-		<key>GIPSearchBarResources.bundle/goggles-text-token-pressed@2x.png</key>
-		<data>
-		BqwvGnTrZAnT1dBn7QkKpQBLSI0=
-		</data>
-		<key>GIPSearchBarResources.bundle/goggles-text-token.png</key>
-		<data>
-		EcDD5y/yqxuFIvsdQSucBa1YItM=
-		</data>
-		<key>GIPSearchBarResources.bundle/goggles-text-token@2x.png</key>
-		<data>
-		BZccx7sOJNYLOc41tVnb5Thai+g=
-		</data>
-		<key>GIPSearchBarResources.bundle/vs-text-token-pressed.png</key>
-		<data>
-		+StlTh0UPS0Lnmv/QJ0KrLrbEx8=
-		</data>
-		<key>GIPSearchBarResources.bundle/vs-text-token-pressed@2x.png</key>
-		<data>
-		ekWIAy3I78H/zckshO29Q6m//Xg=
-		</data>
-		<key>GIPSearchBarResources.bundle/vs-text-token.png</key>
-		<data>
-		GeMPOK1Yy0acEK8Cp0nVtu5mtMU=
-		</data>
-		<key>GIPSearchBarResources.bundle/vs-text-token@2x.png</key>
-		<data>
-		jn3WgSxaU3++shXId+6IzobfjyU=
-		</data>
-		<key>GIPSuperWebViewInit.js</key>
-		<data>
-		mK8x0d4+IPfb74u7e6+w9HRFQik=
-		</data>
 		<key>GIPSuperWebViewResources.bundle/GIPSuperWebViewActionMenu.js</key>
 		<data>
 		vZak2KeQmPCHdj5upQl3kXbCJLc=
@@ -370,7 +266,7 @@
 		</data>
 		<key>GIPSuperWebViewResources.bundle/GIPSuperWebViewResources</key>
 		<data>
-		7S0MGcQ97uVzdDmBC8PZ+FnBtUE=
+		07PkzfREix6T25msT1yQXFIUbgw=
 		</data>
 		<key>GIPSuperWebViewResources.bundle/GIPSuperWebViewRpc.js</key>
 		<data>
@@ -386,7 +282,7 @@
 		</data>
 		<key>GIPWebViewResources.bundle/GIPWebViewResources</key>
 		<data>
-		Equ6hi19Flf1KGXPlpUh8bx72rM=
+		nUeXcy2Glz++K8G2fYMP1ft1DrY=
 		</data>
 		<key>GIPWebViewResources.bundle/ar.lproj/GIPWebView.strings</key>
 		<data>
@@ -590,17 +486,89 @@
 		</data>
 		<key>GTMOAuth2ViewTouch.nib</key>
 		<data>
-		un4/dMcJERnMYoolyen9n+5+TIk=
+		mapT2ZnwJFovN2MDuExCMbogd+M=
+		</data>
+		<key>GooglePlusResources.bundle/GooglePlusResources</key>
+		<data>
+		Pg4x3t9YDqsI5bflNH2ZRaIkMAs=
+		</data>
+		<key>GooglePlusResources.bundle/Google_Logo.png</key>
+		<data>
+		CRdGQ5gZt4Rxr0VG2mJPp/A5FpY=
+		</data>
+		<key>GooglePlusResources.bundle/Google_Logo@2x.png</key>
+		<data>
+		svg91vIyon0U+uHqsL+v9tHAT8Q=
+		</data>
+		<key>GooglePlusResources.bundle/SuperWebView.js</key>
+		<data>
+		Z9eDdIE7bSWOqsJfQMLL21KWCvQ=
+		</data>
+		<key>GooglePlusResources.bundle/accept.png</key>
+		<data>
+		n9FPwtkKHHtlhzoIUEwnB0+YlNU=
+		</data>
+		<key>GooglePlusResources.bundle/accept@2x.png</key>
+		<data>
+		UGDtr3ZvCTlXg0WNL929qaPkRkM=
+		</data>
+		<key>GooglePlusResources.bundle/acl_circles.png</key>
+		<data>
+		FSEBX/BPoxqvtP/FgbO/vu4objY=
+		</data>
+		<key>GooglePlusResources.bundle/acl_circles@2x.png</key>
+		<data>
+		CQQbiYQ96BSCDCr3SvyrHuoQA3A=
+		</data>
+		<key>GooglePlusResources.bundle/acl_domain.png</key>
+		<data>
+		w8nUMyjhBEt7aFHTsti/tYSOj0Y=
+		</data>
+		<key>GooglePlusResources.bundle/acl_domain@2x.png</key>
+		<data>
+		XAlctA0bKd+5i5SczUx/9VhGxPo=
+		</data>
+		<key>GooglePlusResources.bundle/acl_extended.png</key>
+		<data>
+		7SZ/YCy2s+vBsQQjCSU2dmhk66U=
+		</data>
+		<key>GooglePlusResources.bundle/acl_extended@2x.png</key>
+		<data>
+		GW7qdUtkmrojccIEoDKp3wrrC0Q=
+		</data>
+		<key>GooglePlusResources.bundle/acl_locked.png</key>
+		<data>
+		0isE7B/RVMV4hqV9siv5rZU4Cvw=
+		</data>
+		<key>GooglePlusResources.bundle/acl_locked@2x.png</key>
+		<data>
+		vkv3maqRcMxm/fgiWqtCR5q0nuw=
+		</data>
+		<key>GooglePlusResources.bundle/acl_person.png</key>
+		<data>
+		0pjXyV9BuxxDEioJ7XBM1kM7POo=
+		</data>
+		<key>GooglePlusResources.bundle/acl_person@2x.png</key>
+		<data>
+		wfF9lraYpR3wFmQyZ1atnIwasgk=
+		</data>
+		<key>GooglePlusResources.bundle/acl_public.png</key>
+		<data>
+		yRq3IhFpBQHrLfdekaBHBm1STnY=
+		</data>
+		<key>GooglePlusResources.bundle/acl_public@2x.png</key>
+		<data>
+		e98Po+yxVGS4a52KMakqPhzKG2A=
+		</data>
+		<key>GooglePlusResources.bundle/ar.lproj/GooglePlus.strings</key>
+		<data>
+		1PjKw6NfHikRw/3XnK+xJnEXgOI=
 		</data>
 		<key>GooglePlusResources.bundle/btn_acl_blue,20,21,.png</key>
 		<data>
 		pbZM2bHQVCclh4jS8bUtUxQFmZA=
 		</data>
 		<key>GooglePlusResources.bundle/btn_acl_blue,20,21,@2x.png</key>
-		<data>
-		HRV3xliP81Bnw8/Hvm67QxdZKZ0=
-		</data>
-		<key>GooglePlusResources.bundle/btn_acl_blue,20,21,_2x.png</key>
 		<data>
 		w3HqbC2dJfPF40YmoAkDQbGinTY=
 		</data>
@@ -610,10 +578,6 @@
 		</data>
 		<key>GooglePlusResources.bundle/btn_acl_gray,20,21,@2x.png</key>
 		<data>
-		eDY0OQo8KBwrUUEwYDe3oiE2Cyo=
-		</data>
-		<key>GooglePlusResources.bundle/btn_acl_gray,20,21,_2x.png</key>
-		<data>
 		amOYhc5MAAsdTu0pBpLgBYlxFlM=
 		</data>
 		<key>GooglePlusResources.bundle/btn_acl_green,20,21,.png</key>
@@ -621,10 +585,6 @@
 		gsp7OayiopeRSFAXNaWCQUMEpxI=
 		</data>
 		<key>GooglePlusResources.bundle/btn_acl_green,20,21,@2x.png</key>
-		<data>
-		M4zwnWWAoQybs7ACEte1pTE4vb8=
-		</data>
-		<key>GooglePlusResources.bundle/btn_acl_green,20,21,_2x.png</key>
 		<data>
 		8g6zVJOZuuA3EX03ihzT8499CCA=
 		</data>
@@ -634,10 +594,6 @@
 		</data>
 		<key>GooglePlusResources.bundle/btn_default_gray,10,10,@2x.png</key>
 		<data>
-		iUq6cbRxWE5UZbLQDAa41iy9Nzs=
-		</data>
-		<key>GooglePlusResources.bundle/btn_default_gray,10,10,_2x.png</key>
-		<data>
 		qffkIqpdFMvELZrbpJ36VkGPOgE=
 		</data>
 		<key>GooglePlusResources.bundle/btn_default_gray_pressed,10,10,.png</key>
@@ -646,21 +602,21 @@
 		</data>
 		<key>GooglePlusResources.bundle/btn_default_gray_pressed,10,10,@2x.png</key>
 		<data>
-		I52wnRhSVrCv15SYVvrky/eyqb8=
-		</data>
-		<key>GooglePlusResources.bundle/btn_default_gray_pressed,10,10,_2x.png</key>
-		<data>
 		afgABQGy7OyM92P97yFt7qHgS2U=
+		</data>
+		<key>GooglePlusResources.bundle/btn_hide_keyboard.png</key>
+		<data>
+		QjDgRAyLXhxx76+R053U1c+HoK0=
+		</data>
+		<key>GooglePlusResources.bundle/btn_hide_keyboard@2x.png</key>
+		<data>
+		T+KbizWR9UvcQX6hq8CXNLoGKuM=
 		</data>
 		<key>GooglePlusResources.bundle/btn_navbar_blue,12,14,.png</key>
 		<data>
 		Hz7Jpkyoh4pq/kU+SN//y6Eyafc=
 		</data>
 		<key>GooglePlusResources.bundle/btn_navbar_blue,12,14,@2x.png</key>
-		<data>
-		2X1s5UH2nA0aFLmjadcoZXUPbdY=
-		</data>
-		<key>GooglePlusResources.bundle/btn_navbar_blue,12,14,_2x.png</key>
 		<data>
 		bui9aQzJFEnIXd1yuvmO3RggugM=
 		</data>
@@ -670,10 +626,6 @@
 		</data>
 		<key>GooglePlusResources.bundle/btn_navbar_blue_pressed,12,14,@2x.png</key>
 		<data>
-		cTGqzrUt27PEf8PDyTcEMlKC7gQ=
-		</data>
-		<key>GooglePlusResources.bundle/btn_navbar_blue_pressed,12,14,_2x.png</key>
-		<data>
 		NZDamheiUgZcc6CHf/WVH+RwasQ=
 		</data>
 		<key>GooglePlusResources.bundle/btn_navbar_gray,12,14,.png</key>
@@ -681,10 +633,6 @@
 		B8C9F9W26nISkj8xd3hoJLv1N0c=
 		</data>
 		<key>GooglePlusResources.bundle/btn_navbar_gray,12,14,@2x.png</key>
-		<data>
-		s4l/JlN8bzsyQKedvWKGuIGl7kc=
-		</data>
-		<key>GooglePlusResources.bundle/btn_navbar_gray,12,14,_2x.png</key>
 		<data>
 		BxQCGIa/ZMQ3RdijlrWaUggfsmk=
 		</data>
@@ -694,21 +642,129 @@
 		</data>
 		<key>GooglePlusResources.bundle/btn_navbar_gray_pressed,12,14,@2x.png</key>
 		<data>
-		aWExh3GV2wSzr2L4tKPPzESjhlQ=
-		</data>
-		<key>GooglePlusResources.bundle/btn_navbar_gray_pressed,12,14,_2x.png</key>
-		<data>
 		/7I+1CBCr51Qb4DLnYO6N9VtAsw=
+		</data>
+		<key>GooglePlusResources.bundle/ca.lproj/GooglePlus.strings</key>
+		<data>
+		fgSmQAM6JDpbN44mD5xHpaHgg6s=
+		</data>
+		<key>GooglePlusResources.bundle/cancel.png</key>
+		<data>
+		+ArTWF2TjU6P88qLVxcugSLIHMA=
+		</data>
+		<key>GooglePlusResources.bundle/cancel@2x.png</key>
+		<data>
+		sU6Boyqn1cgQm1zjsrpfrDdYWRM=
+		</data>
+		<key>GooglePlusResources.bundle/chevron.png</key>
+		<data>
+		TZdVxZhlMacfwlx27YZIIBWlU3o=
+		</data>
+		<key>GooglePlusResources.bundle/chevron@2x.png</key>
+		<data>
+		17CoJqj5BMy6lMXaz5Gy94XkKrE=
+		</data>
+		<key>GooglePlusResources.bundle/circles.png</key>
+		<data>
+		9Yud+gsVKzte7u1qct7yFj63SVo=
+		</data>
+		<key>GooglePlusResources.bundle/circles@2x.png</key>
+		<data>
+		77nl0b3y3JYIaJ6CD/Ohb7OK0T0=
+		</data>
+		<key>GooglePlusResources.bundle/collapse-blue.png</key>
+		<data>
+		plFwi+khPqWvQlJ2vd1ZGU1VtlM=
+		</data>
+		<key>GooglePlusResources.bundle/collapse-blue@2x.png</key>
+		<data>
+		I+byc7l1mxJ3wDp42Yle9eNksq4=
+		</data>
+		<key>GooglePlusResources.bundle/cs.lproj/GooglePlus.strings</key>
+		<data>
+		FjFy5DgAbutc3ND4MyycktjoElo=
+		</data>
+		<key>GooglePlusResources.bundle/da.lproj/GooglePlus.strings</key>
+		<data>
+		fTPmrolj8P5et3PadzYL/GbwFRI=
+		</data>
+		<key>GooglePlusResources.bundle/de.lproj/GooglePlus.strings</key>
+		<data>
+		DYBIkz308wWWCJ45L5sqAKII1vo=
+		</data>
+		<key>GooglePlusResources.bundle/domain.png</key>
+		<data>
+		RR7KVwFidJX6D+3KNAqUkYw56+w=
+		</data>
+		<key>GooglePlusResources.bundle/domain@2x.png</key>
+		<data>
+		UpqXJzKOROG5/d2oynkPZFNhhxc=
+		</data>
+		<key>GooglePlusResources.bundle/edit_circle.png</key>
+		<data>
+		cok/cYKy/q5LIL3wJwOHBxg4638=
+		</data>
+		<key>GooglePlusResources.bundle/edit_circle@2x.png</key>
+		<data>
+		EPbVbNx55G7Bnj6WA3RkiPyXyp4=
+		</data>
+		<key>GooglePlusResources.bundle/el.lproj/GooglePlus.strings</key>
+		<data>
+		LEDG6mpTbI7k7N6eHXU+DHknApk=
+		</data>
+		<key>GooglePlusResources.bundle/en.lproj/GooglePlus.strings</key>
+		<data>
+		6esbTgkDzRSHEZGhpKNAvIqUa18=
+		</data>
+		<key>GooglePlusResources.bundle/en_GB.lproj/GooglePlus.strings</key>
+		<data>
+		bDefKIV+1FiP2zqNjFQ8rsMzksk=
+		</data>
+		<key>GooglePlusResources.bundle/es.lproj/GooglePlus.strings</key>
+		<data>
+		HRh+Zg+o52Z6dZsjGLdlCbe6gwI=
+		</data>
+		<key>GooglePlusResources.bundle/expand-blue.png</key>
+		<data>
+		JbqvQaUhdUUmm20Ur1z53SlIPYs=
+		</data>
+		<key>GooglePlusResources.bundle/expand-blue@2x.png</key>
+		<data>
+		lHGCRmG4/HPXUSdoXBY/o4ngyOs=
+		</data>
+		<key>GooglePlusResources.bundle/extended.png</key>
+		<data>
+		7SZ/YCy2s+vBsQQjCSU2dmhk66U=
+		</data>
+		<key>GooglePlusResources.bundle/extended@2x.png</key>
+		<data>
+		GW7qdUtkmrojccIEoDKp3wrrC0Q=
+		</data>
+		<key>GooglePlusResources.bundle/fi.lproj/GooglePlus.strings</key>
+		<data>
+		IfK1zU4Aiq7YCK9H4MbkgFjeeOU=
+		</data>
+		<key>GooglePlusResources.bundle/fr.lproj/GooglePlus.strings</key>
+		<data>
+		MCH5L/n9JUny/DVCR2/J9tlIeV0=
+		</data>
+		<key>GooglePlusResources.bundle/he.lproj/GooglePlus.strings</key>
+		<data>
+		32/f3n1L2jVI6sIybCmVUL3Mip4=
+		</data>
+		<key>GooglePlusResources.bundle/hr.lproj/GooglePlus.strings</key>
+		<data>
+		rSojl5r9ZH0yMJQyyxDkVxWhFBY=
+		</data>
+		<key>GooglePlusResources.bundle/hu.lproj/GooglePlus.strings</key>
+		<data>
+		ATjzfATNWBEiBZ3ghUoBP6ufBpo=
 		</data>
 		<key>GooglePlusResources.bundle/ic_add_circle.png</key>
 		<data>
 		sMcKTX7QlP1PqVWE0McMuGMkHSU=
 		</data>
 		<key>GooglePlusResources.bundle/ic_add_circle@2x.png</key>
-		<data>
-		BoJN0n/PlKxHgxM+eG1/oNNw6VA=
-		</data>
-		<key>GooglePlusResources.bundle/ic_add_circle_2x.png</key>
 		<data>
 		OS7VpA80gST/rMw3Yb6oa1P8Ztk=
 		</data>
@@ -718,10 +774,6 @@
 		</data>
 		<key>GooglePlusResources.bundle/ic_add_location@2x.png</key>
 		<data>
-		aRnmMZPcb+gB2WPcB+sCeApj9nY=
-		</data>
-		<key>GooglePlusResources.bundle/ic_add_location_2x.png</key>
-		<data>
 		X4cPZrfsyzV4J3RXGTIrFX6OQGc=
 		</data>
 		<key>GooglePlusResources.bundle/ic_add_photo.png</key>
@@ -729,10 +781,6 @@
 		clhUbuH3y/i9fn1ymKXMh+AM8/4=
 		</data>
 		<key>GooglePlusResources.bundle/ic_add_photo@2x.png</key>
-		<data>
-		HlDa2heI6DUsznv1nXOBUAWkbaI=
-		</data>
-		<key>GooglePlusResources.bundle/ic_add_photo_2x.png</key>
 		<data>
 		jO3SIqGh/xYHZk/xLsk4QVZqPJo=
 		</data>
@@ -742,10 +790,6 @@
 		</data>
 		<key>GooglePlusResources.bundle/ic_check_grey@2x.png</key>
 		<data>
-		ZH3OHIZVv4G8AQ+wwJSmEtGRhwE=
-		</data>
-		<key>GooglePlusResources.bundle/ic_check_grey_2x.png</key>
-		<data>
 		Sfgb+zMGjw846M+VDtgWoq4uyIo=
 		</data>
 		<key>GooglePlusResources.bundle/ic_circles.png</key>
@@ -753,10 +797,6 @@
 		OlCQ0/6p0bOL2gYxXawqabVrX3w=
 		</data>
 		<key>GooglePlusResources.bundle/ic_circles@2x.png</key>
-		<data>
-		5xmV/igjS9cI0ve/m340al7Z8/0=
-		</data>
-		<key>GooglePlusResources.bundle/ic_circles_2x.png</key>
 		<data>
 		B/cG8nglIjehWGXCLuQXVpaioWk=
 		</data>
@@ -766,10 +806,6 @@
 		</data>
 		<key>GooglePlusResources.bundle/ic_circles_grey@2x.png</key>
 		<data>
-		ePEDhPJl1FR7WAu6ylh+p6DKiIA=
-		</data>
-		<key>GooglePlusResources.bundle/ic_circles_grey_2x.png</key>
-		<data>
 		F3XyVf1JEFz7Bj6VvGxiaMtagNw=
 		</data>
 		<key>GooglePlusResources.bundle/ic_extended.png</key>
@@ -777,10 +813,6 @@
 		HO0HNhALe9gbOtc6tLcl/e6DBYc=
 		</data>
 		<key>GooglePlusResources.bundle/ic_extended@2x.png</key>
-		<data>
-		z8NK7oGe3M/giFLlJ/rKqjV6Mmo=
-		</data>
-		<key>GooglePlusResources.bundle/ic_extended_2x.png</key>
 		<data>
 		CWhKKujWGVU45gIywYmmEuBwerE=
 		</data>
@@ -790,10 +822,6 @@
 		</data>
 		<key>GooglePlusResources.bundle/ic_extended_grey@2x.png</key>
 		<data>
-		0AmiDAb99Np989F4AfMMF0xwXi8=
-		</data>
-		<key>GooglePlusResources.bundle/ic_extended_grey_2x.png</key>
-		<data>
 		3Rw5uYz9AgLkXzup+2nQU3vO1J8=
 		</data>
 		<key>GooglePlusResources.bundle/ic_public.png</key>
@@ -801,10 +829,6 @@
 		sQ4DpYz17wGM0plNR9uTJrhmupY=
 		</data>
 		<key>GooglePlusResources.bundle/ic_public@2x.png</key>
-		<data>
-		lAY1WT7QS0RqTOrfku2Yr/QJHtw=
-		</data>
-		<key>GooglePlusResources.bundle/ic_public_2x.png</key>
 		<data>
 		txwj0F+l0o/xwfJXbhT7b+wOimM=
 		</data>
@@ -814,10 +838,6 @@
 		</data>
 		<key>GooglePlusResources.bundle/ic_public_grey@2x.png</key>
 		<data>
-		yggANNHSRgAJH4GIgSnaNGnH4FQ=
-		</data>
-		<key>GooglePlusResources.bundle/ic_public_grey_2x.png</key>
-		<data>
 		vAh5zv4HfO30QKJwdpReFfBtVrY=
 		</data>
 		<key>GooglePlusResources.bundle/ic_remove_photo.png</key>
@@ -826,11 +846,327 @@
 		</data>
 		<key>GooglePlusResources.bundle/ic_remove_photo@2x.png</key>
 		<data>
-		q5k7GTN6mMCsNJKWRNpj4CUtGIY=
-		</data>
-		<key>GooglePlusResources.bundle/ic_remove_photo_2x.png</key>
-		<data>
 		jDSc+gPiJPupbzfiw1x5TRcTFAI=
+		</data>
+		<key>GooglePlusResources.bundle/icn_comment.png</key>
+		<data>
+		zuIbht7pXePXF1roa7TYoDvQWpQ=
+		</data>
+		<key>GooglePlusResources.bundle/icn_comment@2x.png</key>
+		<data>
+		KwsEMC6DSJbxQZ2m+oKY+gUw6F0=
+		</data>
+		<key>GooglePlusResources.bundle/id.lproj/GooglePlus.strings</key>
+		<data>
+		xBxfbXCOB+/4u02dmXHMwCAL7/E=
+		</data>
+		<key>GooglePlusResources.bundle/it.lproj/GooglePlus.strings</key>
+		<data>
+		80gG68ULSZHPmTyq7U6yexw1A6k=
+		</data>
+		<key>GooglePlusResources.bundle/ja.lproj/GooglePlus.strings</key>
+		<data>
+		men0BOPXWrO6I78HrLFudLZNi4I=
+		</data>
+		<key>GooglePlusResources.bundle/ko.lproj/GooglePlus.strings</key>
+		<data>
+		lF3FZmHH+DBSko7OY6S8P/pqBFw=
+		</data>
+		<key>GooglePlusResources.bundle/locked.png</key>
+		<data>
+		cPNlY7Fleep4NVcBbdAfylioX50=
+		</data>
+		<key>GooglePlusResources.bundle/locked@2x.png</key>
+		<data>
+		c+TSZqPrFGbnQC8KNgP5QXrU780=
+		</data>
+		<key>GooglePlusResources.bundle/ms.lproj/GooglePlus.strings</key>
+		<data>
+		uAgWKBvc2VRnOx6XhpgCdTxfAhQ=
+		</data>
+		<key>GooglePlusResources.bundle/multiselect.png</key>
+		<data>
+		EJIofSFk1kHXRjGh4/Th+QMlxdw=
+		</data>
+		<key>GooglePlusResources.bundle/multiselect@2x.png</key>
+		<data>
+		X4fi65uGrqi7Cmb2BSchvejvRmk=
+		</data>
+		<key>GooglePlusResources.bundle/multiselect_green.png</key>
+		<data>
+		aVF9nx7a8oa0aLcVIYap5Fyo9h0=
+		</data>
+		<key>GooglePlusResources.bundle/multiselect_green@2x.png</key>
+		<data>
+		PhtSrOQfClEMCCq0fgEH7TAMG58=
+		</data>
+		<key>GooglePlusResources.bundle/nb.lproj/GooglePlus.strings</key>
+		<data>
+		FOHhipJ6Bgoh6YmY6GAzuM1DsRg=
+		</data>
+		<key>GooglePlusResources.bundle/nl.lproj/GooglePlus.strings</key>
+		<data>
+		L+4dK+MaQ/Vwo8GqyafhM32IIH8=
+		</data>
+		<key>GooglePlusResources.bundle/person.png</key>
+		<data>
+		7s99jTN1/bo6DLOz4gBVOlGdNFU=
+		</data>
+		<key>GooglePlusResources.bundle/person@2x.png</key>
+		<data>
+		1DALBmji/uLTkpjlLPnvdMOw+Yc=
+		</data>
+		<key>GooglePlusResources.bundle/pl.lproj/GooglePlus.strings</key>
+		<data>
+		FM6IW//5Mtj8kaHhs+xWlt8ek2g=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-bubble-point.png</key>
+		<data>
+		+74mAbds/bpaQ9/JvsLaAXvlWu4=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-bubble-point@2x.png</key>
+		<data>
+		+z9tgrCnuAxreiP+R0oxPOldIzs=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-bubble.png</key>
+		<data>
+		p2VEuIk2PHZ0m3bjDlpnAKmMB9o=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-bubble@2x.png</key>
+		<data>
+		D36EkDv9umWI/R4ZNRZCs9uHoY0=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-medium-count.png</key>
+		<data>
+		fmWfEbmzUqq3CgicTIMuXWz1Awk=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-medium-count@2x.png</key>
+		<data>
+		XwKz0R+eOIU6MjRFOCCtMPAkrCc=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-medium-disabled.png</key>
+		<data>
+		IYK2EHoWdg/zWg9AiY2QdH08h3Y=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-medium-disabled@2x.png</key>
+		<data>
+		7HuLP+QBcZuj0QdJfYBgvqj3FI0=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-medium-off.png</key>
+		<data>
+		c8kUT4aUCiB/8LAzMHT3xjxtDEA=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-medium-off@2x.png</key>
+		<data>
+		yHsM+eSaxgiR8tI9T26F9m8ZHxQ=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-medium-on.png</key>
+		<data>
+		dAdpDdUhQCyOU3vfVmtdeLMS50s=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-medium-on@2x.png</key>
+		<data>
+		rm/KZoS/SNvSZFnvfmzRsSV/EOU=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-public-acl-icon.png</key>
+		<data>
+		6wMA2uTX2MUG84Oktd3d9U6+SxI=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-public-acl-icon@2x.png</key>
+		<data>
+		H5YfwEKBI3u1B2GRUS2gTkNlZxU=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-small-count.png</key>
+		<data>
+		XWnSJzZ7lBUiUiPJQKyBST/JGkI=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-small-count@2x.png</key>
+		<data>
+		qr8aKFCAyU3NHlT+jXemGpRUf18=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-small-disabled.png</key>
+		<data>
+		sfFYC3ETXi+tgoEVvNxGMJztiKc=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-small-disabled@2x.png</key>
+		<data>
+		2InNN/xjdMGPT7MB8mZjw/ZQXjU=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-small-off.png</key>
+		<data>
+		w8k+heQWCkRv5g06awAF05+VfhM=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-small-off@2x.png</key>
+		<data>
+		D5prVeaWvcSlFCB17Hzl4ALGO30=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-small-on.png</key>
+		<data>
+		re+EBBVrt0z52IUj1EWNMyrA0IQ=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-small-on@2x.png</key>
+		<data>
+		eBsWV4DkUHPsAHW3Tq3XOg7U8Cg=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-standard-count.png</key>
+		<data>
+		KdYjNt0SiwB7HVcUyeRLnewCcLg=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-standard-count@2x.png</key>
+		<data>
+		Kw3B9LZ3z4frs8ab4BJgpCyI4g4=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-standard-disabled.png</key>
+		<data>
+		mY8tqnDdy7Ix66ZLINrw+n2ZkJ0=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-standard-disabled@2x.png</key>
+		<data>
+		Zegii8YN+I0viSEfseHaZRSVqyA=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-standard-off.png</key>
+		<data>
+		slS3pXUVWfrbqzgf+c4IIZhoGhA=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-standard-off@2x.png</key>
+		<data>
+		Y4dSdmDQAsEHXAYN24h8PfEksUM=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-standard-on.png</key>
+		<data>
+		Wf4a4gdiJZhxXzDWii9ge4wfR5k=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-standard-on@2x.png</key>
+		<data>
+		fDwzWKqGuSYOgbWnkELomHQbZaI=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-tall-count.png</key>
+		<data>
+		SGlx6Z6uaR0z8vkz6ASEWRJFDko=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-tall-count@2x.png</key>
+		<data>
+		UsZQEYDFSS7ILDSkjqqxL0rA2eM=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-tall-disabled.png</key>
+		<data>
+		I2X9WNRiIjsvO9ivneBoSNYDHlU=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-tall-disabled@2x.png</key>
+		<data>
+		nnSup19Wdfp8ci1WwWE6QaMJGO8=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-tall-off.png</key>
+		<data>
+		y8yl0/kqshpJX7sIeCKLR4dEczk=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-tall-off@2x.png</key>
+		<data>
+		5fiOhF63QXwaNGIi/S2ygNlBzn0=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-tall-on.png</key>
+		<data>
+		saZ0Zxa4PFxVa4n/dqomOqZpUiY=
+		</data>
+		<key>GooglePlusResources.bundle/plusone-tall-on@2x.png</key>
+		<data>
+		M9OjXLMdZWUj+hkotzI9/WUREPE=
+		</data>
+		<key>GooglePlusResources.bundle/pt.lproj/GooglePlus.strings</key>
+		<data>
+		YuE1vK7FqaOwo9o3dU2Dg1JKpuk=
+		</data>
+		<key>GooglePlusResources.bundle/pt_PT.lproj/GooglePlus.strings</key>
+		<data>
+		rWU2EvyBaiU7ZBJLNlP4YOwS4MA=
+		</data>
+		<key>GooglePlusResources.bundle/public.png</key>
+		<data>
+		DphVAdWxI3YSQYKNWRjm//q/r5M=
+		</data>
+		<key>GooglePlusResources.bundle/public@2x.png</key>
+		<data>
+		k/VxG+t6Cr+pkfxGKrfljfwj7WI=
+		</data>
+		<key>GooglePlusResources.bundle/radio-empty.png</key>
+		<data>
+		71E+T0+9KPg51YFnYjB9u9ByYeU=
+		</data>
+		<key>GooglePlusResources.bundle/radio-empty@2x.png</key>
+		<data>
+		ef9JwemSTkLgx1eQyNV2B0NojiQ=
+		</data>
+		<key>GooglePlusResources.bundle/radio-filled.png</key>
+		<data>
+		SlqHvvYT9p89ApbcZz7sNzyQX7M=
+		</data>
+		<key>GooglePlusResources.bundle/radio-filled@2x.png</key>
+		<data>
+		5zyDlbj4s023Gw6+nVdfcQQCZts=
+		</data>
+		<key>GooglePlusResources.bundle/ro.lproj/GooglePlus.strings</key>
+		<data>
+		cBREf473Q4zRMaFjw1qPTMRTn4E=
+		</data>
+		<key>GooglePlusResources.bundle/ru.lproj/GooglePlus.strings</key>
+		<data>
+		50EfP5/OcrnLzrb/jbkgyiZRz30=
+		</data>
+		<key>GooglePlusResources.bundle/scope-default.png</key>
+		<data>
+		pwo1hc401Q8Z05iR5SaHkSZztFo=
+		</data>
+		<key>GooglePlusResources.bundle/scope-default@2x.png</key>
+		<data>
+		q+rhuBn+0Z2+qO2o4qcnHfYK+Vo=
+		</data>
+		<key>GooglePlusResources.bundle/scope-gplus.png</key>
+		<data>
+		wkIOvYMLcekUkKXTenz3Olrp9rk=
+		</data>
+		<key>GooglePlusResources.bundle/scope-gplus@2x.png</key>
+		<data>
+		bW3I1PY1E1LDSy/YrScgel9eGsQ=
+		</data>
+		<key>GooglePlusResources.bundle/scope-profile.png</key>
+		<data>
+		hejiiNH0wOC3mtoaq5f8ALa0PmY=
+		</data>
+		<key>GooglePlusResources.bundle/scope-profile@2x.png</key>
+		<data>
+		fPElHtdvQg69ddoKHB0EtadC9kg=
+		</data>
+		<key>GooglePlusResources.bundle/sk.lproj/GooglePlus.strings</key>
+		<data>
+		cp3NPdBPXg84H0M5FxRbrL8Y28o=
+		</data>
+		<key>GooglePlusResources.bundle/sv.lproj/GooglePlus.strings</key>
+		<data>
+		cwqMQVBnsH0VtkoN03meHn8d4AI=
+		</data>
+		<key>GooglePlusResources.bundle/th.lproj/GooglePlus.strings</key>
+		<data>
+		wxImSVDjdW6v5m1mQaCZ2KSaSbs=
+		</data>
+		<key>GooglePlusResources.bundle/tr.lproj/GooglePlus.strings</key>
+		<data>
+		h1lJixPBjnpw8xpIW9Kg6rkYHCs=
+		</data>
+		<key>GooglePlusResources.bundle/uk.lproj/GooglePlus.strings</key>
+		<data>
+		d/TJGK8IVV5gk4dXbw5w8lEj8WA=
+		</data>
+		<key>GooglePlusResources.bundle/vi.lproj/GooglePlus.strings</key>
+		<data>
+		8R6Gr8MBESeE3Q3RAbw5fcAy6Wo=
+		</data>
+		<key>GooglePlusResources.bundle/zh_CN.lproj/GooglePlus.strings</key>
+		<data>
+		jbrjHzaKlVad+a7hjCATnFqNiAw=
+		</data>
+		<key>GooglePlusResources.bundle/zh_TW.lproj/GooglePlus.strings</key>
+		<data>
+		of5LEJe4jxx+K3FmNd6QGy1qS3g=
 		</data>
 		<key>Icon-Small-50.png</key>
 		<data>
@@ -866,7 +1202,7 @@
 		</data>
 		<key>IntentsKitResources.bundle/GIPAppsList.plist</key>
 		<data>
-		tgtG+guecz20xliJVpCUv1k40Mw=
+		DUE037J2TG5wqtVCz+gf2Jf0TKM=
 		</data>
 		<key>IntentsKitResources.bundle/GIPTLDsList.plist</key>
 		<data>
@@ -874,7 +1210,7 @@
 		</data>
 		<key>IntentsKitResources.bundle/IntentsKitResources</key>
 		<data>
-		KHmsaf/OZs0g1eDs5PqdRno/3a8=
+		HzQ8kWsoadoMJYOj9Elp6hldHak=
 		</data>
 		<key>IntentsKitResources.bundle/ar.lproj/IntentsKit.strings</key>
 		<data>
@@ -1030,7 +1366,7 @@
 		</data>
 		<key>LaunchImage-568h@2x.png</key>
 		<data>
-		PHOQG+L5MYI/GyY1/eSa4ypJNeo=
+		dgUMFKZvgWBYNJeZXfkC0qs5CMI=
 		</data>
 		<key>LaunchImage-Landscape.png</key>
 		<data>
@@ -1050,15 +1386,19 @@
 		</data>
 		<key>LaunchImage.png</key>
 		<data>
-		D3mVqgRo7fchGh4bc/beDi2qFEQ=
+		NfPKPe2ZZHFbcjlp0N/MYB2BsLw=
 		</data>
 		<key>LaunchImage@2x.png</key>
 		<data>
-		iqYxlo1OBtUVkkFBUPlZtA3T4eY=
+		jsNQGnvV2KgYnoqjRKPfe/a+rRc=
+		</data>
+		<key>MediaLibDataModel.momd/MediaLibDataModel.mom</key>
+		<data>
+		as6qQ8a8yENJa35Dby63xFI5sSw=
 		</data>
 		<key>OpenSourceLicenses.html</key>
 		<data>
-		1TCn25mhwb+8ZTBwoQK7PoJqDhA=
+		ur+6UZSC1o+uKaaPbB1FRgct0KA=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -1066,7 +1406,7 @@
 		</data>
 		<key>PlayerLibResources.bundle/PlayerLibResources</key>
 		<data>
-		6IkoAt1QoYvv9PB90nHheFJS+qk=
+		F/qf7jlmyWJ+BukyB7NV5I9uUBU=
 		</data>
 		<key>PlayerLibResources.bundle/ad_bar_background.png</key>
 		<data>
@@ -1075,6 +1415,46 @@
 		<key>PlayerLibResources.bundle/ad_bar_background@2x.png</key>
 		<data>
 		Gw8G9d5fpkev/TuXdStQ8yIq+7o=
+		</data>
+		<key>PlayerLibResources.bundle/annotations_call_to_action_close.png</key>
+		<data>
+		DM8jNnWfn5FXFrAZ8DQXUEJmPEI=
+		</data>
+		<key>PlayerLibResources.bundle/annotations_call_to_action_close@2x.png</key>
+		<data>
+		43RSlwAjUzWliRPxWn6bnAoHEEc=
+		</data>
+		<key>PlayerLibResources.bundle/annotations_call_to_action_expand_large.png</key>
+		<data>
+		5tIMZHUV/eSGCNCv1NoUrEe/CbU=
+		</data>
+		<key>PlayerLibResources.bundle/annotations_call_to_action_expand_large@2x.png</key>
+		<data>
+		L6yEuVLPZxoBiQ5OFCvwvDaADNY=
+		</data>
+		<key>PlayerLibResources.bundle/annotations_call_to_action_expand_small.png</key>
+		<data>
+		YTJ1o0mTSvWblKABepHtXgou88c=
+		</data>
+		<key>PlayerLibResources.bundle/annotations_call_to_action_expand_small@2x.png</key>
+		<data>
+		TROiqJEx4onsh/g2RHfA83sA0Gs=
+		</data>
+		<key>PlayerLibResources.bundle/annotations_call_to_action_go_external.png</key>
+		<data>
+		klWUMb2Fq4mZHhRldNhP8lQ/xvY=
+		</data>
+		<key>PlayerLibResources.bundle/annotations_call_to_action_go_external@2x.png</key>
+		<data>
+		g0g1fj6lt6SEPgiPKMKhRVWNLGw=
+		</data>
+		<key>PlayerLibResources.bundle/annotations_featured_video_close.png</key>
+		<data>
+		cMyTPTM/1dHlgTSJPuTgxCStYu8=
+		</data>
+		<key>PlayerLibResources.bundle/annotations_featured_video_close@2x.png</key>
+		<data>
+		ft+CfVZvLR2hWv+0fSr7ifwJ9EM=
 		</data>
 		<key>PlayerLibResources.bundle/buffered.png</key>
 		<data>
@@ -1302,11 +1682,11 @@
 		</data>
 		<key>PlayerLibResources.bundle/skip_ad_button_background.png</key>
 		<data>
-		4aAin5Z2LUhX2M+R5DK5swVGMV8=
+		CfZvapvmzRTbTXnWpFdef+vTP1E=
 		</data>
 		<key>PlayerLibResources.bundle/skip_ad_button_background@2x.png</key>
 		<data>
-		h4W8J247/6aTgaYFrh3UVPJWg7E=
+		p0y1piO2ojGSgsbwgMNdNtGE34s=
 		</data>
 		<key>PlayerLibResources.bundle/skip_ad_button_icon.png</key>
 		<data>
@@ -1359,70 +1739,6 @@
 		<key>PlayerLibResources.bundle/transparent_slider_track_ad_minimized@2x.png</key>
 		<data>
 		CbNTE6orpZyn3sjn4gSn5VaFV/Y=
-		</data>
-		<key>ShareKit.bundle/ShareKit</key>
-		<data>
-		qdIqcnMbPgvG03Ad6utoXdRgbic=
-		</data>
-		<key>ShareKit.bundle/cs.lproj/Localizable.strings</key>
-		<data>
-		CcbCOqMUuQ/zM/NyLh0cZvtq6aM=
-		</data>
-		<key>ShareKit.bundle/de.lproj/Localizable.strings</key>
-		<data>
-		x8mZjPEEKEYRPYVhqDO9QU/S3Ww=
-		</data>
-		<key>ShareKit.bundle/en.lproj/Localizable.strings</key>
-		<data>
-		fOEpypRpEzM2iHlzNVifo9ERCQk=
-		</data>
-		<key>ShareKit.bundle/eu.lproj/Localizable.strings</key>
-		<data>
-		VcaMpp3dFZFJFUhGhNc5tf3G0Vk=
-		</data>
-		<key>ShareKit.bundle/fr.lproj/Localizable.strings</key>
-		<data>
-		78DPGP0IO95T8DrX3kzTphWtU8M=
-		</data>
-		<key>ShareKit.bundle/it.lproj/Localizable.strings</key>
-		<data>
-		DJle6Z3WCaLGPGEzWSpSIb4sLv4=
-		</data>
-		<key>ShareKit.bundle/ja.lproj/Localizable.strings</key>
-		<data>
-		qdHuZVkaA892ATif8WXYryN1gvY=
-		</data>
-		<key>ShareKit.bundle/ko.lproj/Localizable.strings</key>
-		<data>
-		vMGovxdWVfwy6OXsQ5yEb4nvdoY=
-		</data>
-		<key>ShareKit.bundle/nl.lproj/Localizable.strings</key>
-		<data>
-		NbNDt+z9Q/js6iMZm5j4IjQgyX0=
-		</data>
-		<key>ShareKit.bundle/no.lproj/Localizable.strings</key>
-		<data>
-		Ba0TMko0+lml2WOjI0b/CYZ/tfA=
-		</data>
-		<key>ShareKit.bundle/ru.lproj/Localizable.strings</key>
-		<data>
-		Ln3KAA/ZjdV+P0Vub8l/JUdY4ek=
-		</data>
-		<key>ShareKit.bundle/sk.lproj/Localizable.strings</key>
-		<data>
-		XN4wQr0TzRpTahNr4c5ANBmwfg0=
-		</data>
-		<key>ShareKit.bundle/sv.lproj/Localizable.strings</key>
-		<data>
-		DdJUj5F8BgativZHSUEXaRd9laE=
-		</data>
-		<key>ShareKit.bundle/vi.lproj/Localizable.strings</key>
-		<data>
-		AfZNX8A64PTWaA6cPdwWnjouVcs=
-		</data>
-		<key>ShareKit.bundle/zh_CN.lproj/Localizable.strings</key>
-		<data>
-		yz2yN1PngGLkkB5IQDrRskrK6LQ=
 		</data>
 		<key>Speech.bundle/cancel.wav</key>
 		<data>
@@ -1588,13 +1904,9 @@
 		<data>
 		mHrlcM1/LAINR9TYTPs+eRlDgWk=
 		</data>
-		<key>SuperWebView.js</key>
-		<data>
-		Z9eDdIE7bSWOqsJfQMLL21KWCvQ=
-		</data>
 		<key>UILibResources.bundle/UILibResources</key>
 		<data>
-		WrEh6Me00eEjCy35+72qL/tQnqw=
+		PQ1an+41g5scotljUrCvNDkhlqs=
 		</data>
 		<key>UILibResources.bundle/background_cell_selected.png</key>
 		<data>
@@ -1747,6 +2059,14 @@
 		<key>UILibResources.bundle/default_user_thumbnail_selected@2x.png</key>
 		<data>
 		biEhbBtk4mrUYzJY0mJcX5NAg3k=
+		</data>
+		<key>UILibResources.bundle/external_link_icon.png</key>
+		<data>
+		PVCLqikic6BYUB0hoHKW6M2x0W4=
+		</data>
+		<key>UILibResources.bundle/external_link_icon@2x.png</key>
+		<data>
+		wNd96BsNZ/s5GvOIzT9BKFARenw=
 		</data>
 		<key>UILibResources.bundle/feed_bubble.png</key>
 		<data>
@@ -1964,6 +2284,14 @@
 		<data>
 		lhtdnewrHRP6QdT1JjW7db1IvV0=
 		</data>
+		<key>UILibResources.bundle/large_promoted_event_cell_meta_background.png</key>
+		<data>
+		A6QicWjk8zUKq5OETj7bwQnYk98=
+		</data>
+		<key>UILibResources.bundle/large_promoted_event_cell_meta_background@2x.png</key>
+		<data>
+		wB0nH30EQHdBl/G6V8YLhHOyLjw=
+		</data>
 		<key>UILibResources.bundle/large_purchase_thumb_meta_background.png</key>
 		<data>
 		tI7ftDEfUTE7VhcykoxKp+fouXE=
@@ -1979,6 +2307,14 @@
 		<key>UILibResources.bundle/large_thumb_meta_background@2x.png</key>
 		<data>
 		AIEsX6rZoJnCjJbaeJ3nDgV1HX8=
+		</data>
+		<key>UILibResources.bundle/large_thumb_promoted_cell_meta_background.png</key>
+		<data>
+		z6cV+436XCNXKtWlfelUoq70INc=
+		</data>
+		<key>UILibResources.bundle/large_thumb_promoted_cell_meta_background@2x.png</key>
+		<data>
+		DNe2cbeqzek++QbA943FB15iASo=
 		</data>
 		<key>UILibResources.bundle/large_thumb_promoted_meta_background.png</key>
 		<data>
@@ -2043,6 +2379,14 @@
 		<key>UILibResources.bundle/refresh_light@2x.png</key>
 		<data>
 		SaVOs8P5Vsl41KoF6ThCNuzOkHA=
+		</data>
+		<key>UILibResources.bundle/rounded_corner_label_background.png</key>
+		<data>
+		wrGog2N7MNOUGjsJE6tHFlyATUg=
+		</data>
+		<key>UILibResources.bundle/rounded_corner_label_background@2x.png</key>
+		<data>
+		NH4jBuD8+l0s66oSjf7LLfSl2f4=
 		</data>
 		<key>UILibResources.bundle/search_add.png</key>
 		<data>
@@ -2254,7 +2598,7 @@
 		</data>
 		<key>YTNavigationController.nib</key>
 		<data>
-		U99No7OSFTQpfWtAWtDdhJWcMlU=
+		+clm2AeJ99CxHQN7Tagr1CVBMOM=
 		</data>
 		<key>YouTubeResources.bundle/Icon-Small-50.png</key>
 		<data>
@@ -2288,9 +2632,37 @@
 		<data>
 		EAZds2KGKSTyP3UGffLD+cAL19c=
 		</data>
+		<key>YouTubeResources.bundle/LaunchImage-568h@2x.png</key>
+		<data>
+		dgUMFKZvgWBYNJeZXfkC0qs5CMI=
+		</data>
+		<key>YouTubeResources.bundle/LaunchImage-Landscape.png</key>
+		<data>
+		pTdtjgqf76/uNTGOizUO9zSA9/c=
+		</data>
+		<key>YouTubeResources.bundle/LaunchImage-Landscape@2x.png</key>
+		<data>
+		mVgPauRN5etM/EeysbIBsKBmCeY=
+		</data>
+		<key>YouTubeResources.bundle/LaunchImage-Portrait.png</key>
+		<data>
+		vnnYDXPVI4zbNVknfvrC2Ge9wJw=
+		</data>
+		<key>YouTubeResources.bundle/LaunchImage-Portrait@2x.png</key>
+		<data>
+		MJ4LUSKQi53otzifPP4EqQCGp7g=
+		</data>
+		<key>YouTubeResources.bundle/LaunchImage.png</key>
+		<data>
+		NfPKPe2ZZHFbcjlp0N/MYB2BsLw=
+		</data>
+		<key>YouTubeResources.bundle/LaunchImage@2x.png</key>
+		<data>
+		jsNQGnvV2KgYnoqjRKPfe/a+rRc=
+		</data>
 		<key>YouTubeResources.bundle/YouTubeResources</key>
 		<data>
-		Nz86D5P87jeC/fs0fXE1AWDA77o=
+		ByI2VXKAUOBWyg9SIViC3xyh3iM=
 		</data>
 		<key>YouTubeResources.bundle/account_cell_background_guide.png</key>
 		<data>
@@ -3108,6 +3480,14 @@
 		<data>
 		vvwWt8VYQuKWnOGS6Zl5FBcVvPk=
 		</data>
+		<key>YouTubeResources.bundle/now_playing_bar_bg.png</key>
+		<data>
+		kLYr+SNei7Rb3+6mfBamriFAYQs=
+		</data>
+		<key>YouTubeResources.bundle/now_playing_bar_bg@2x.png</key>
+		<data>
+		HQUoc6zBqrBSMUoBZSMl9ge4aXg=
+		</data>
 		<key>YouTubeResources.bundle/now_playing_guide.png</key>
 		<data>
 		xKCKLJf7BWnhKJrdhTTHgsftB7U=
@@ -3526,19 +3906,19 @@
 		</data>
 		<key>YouTubeResources.bundle/tv_queue_guide.png</key>
 		<data>
-		VJWo8UMi7PfKKGF5hf4HrQ+82R8=
+		TOgugdPYEa46H4H0VFmTDa2+8QI=
 		</data>
 		<key>YouTubeResources.bundle/tv_queue_guide@2x.png</key>
 		<data>
-		CApjBAxuyD9BFHfpkXoE3HTVtZA=
+		FoR2F1S0qk3TsNospvsVLrdEK2g=
 		</data>
 		<key>YouTubeResources.bundle/tv_queue_guide_selected.png</key>
 		<data>
-		BhKSzXnT1ezDk0/E/1i8jkO89BI=
+		12NjwiFGE1H/4Mgbq23Q7mH6ky4=
 		</data>
 		<key>YouTubeResources.bundle/tv_queue_guide_selected@2x.png</key>
 		<data>
-		d+b5v5q0Au0GtobdQxSRdVRFnr4=
+		nEdt2mmb7kwlXSs+iBgmv1yfbyM=
 		</data>
 		<key>YouTubeResources.bundle/unread_count_guide_background.png</key>
 		<data>
@@ -3622,483 +4002,483 @@
 		</data>
 		<key>ca.lproj/DataLib.strings</key>
 		<data>
-		91OJW9ZgOoaeZnAE1/entDImt+8=
+		84v2wikIwdFSC9JI1sl+iykw92k=
 		</data>
 		<key>ca.lproj/Localizable.strings</key>
 		<data>
-		esQdOD++GgLLljqygrF+spngGtY=
+		Gapar03S3/7LL5ijuqwp6M3s1HI=
 		</data>
 		<key>ca.lproj/PlayerLib.strings</key>
 		<data>
-		wYo9me/t1QKnGyD+uikDfeqpEpw=
+		sO5KCZxA8pUXtkChC+oXa3vEL4M=
 		</data>
 		<key>ca.lproj/UILib.strings</key>
 		<data>
-		JmOeBOYy6CvwgY+JmAARXX7hK6k=
+		49/tsuxBiO62OrC6LhCxfQ1pV+Y=
 		</data>
 		<key>cs.lproj/DataLib.strings</key>
 		<data>
-		JhwMBQjh+AlR6FQpjH6Op8jNOX8=
+		FjjDudwUaz8A5G5aFcnjC5Dliz0=
 		</data>
 		<key>cs.lproj/Localizable.strings</key>
 		<data>
-		zdB4pS23YO5QYhi+i65rJhNZXWs=
+		mDAuCLbNrMjytn9wq9cBW032Wuc=
 		</data>
 		<key>cs.lproj/PlayerLib.strings</key>
 		<data>
-		GS7/S76R1rwWhK+ped7hu2K4XxA=
+		Tsyfiuw3JUcS1phqQLnBLixdPWc=
 		</data>
 		<key>cs.lproj/UILib.strings</key>
 		<data>
-		LHEIzviASl7YeLOO9ZAsYguNL5E=
+		0biqMZNnmz3ujnJKnLRftMlu/EE=
 		</data>
 		<key>da.lproj/DataLib.strings</key>
 		<data>
-		LOzvx7VLB3nD8M3H4i1dROrDsBE=
+		k6AhTF7HnUsw9F15UuzH7aamRTY=
 		</data>
 		<key>da.lproj/Localizable.strings</key>
 		<data>
-		98338I9EyLtcdBqr2WEj4Gv9B7Q=
+		7rBRkYKFXv40Dz1Hyzr7ggNwRho=
 		</data>
 		<key>da.lproj/PlayerLib.strings</key>
 		<data>
-		mfHvzB8HBaGShhlMukOYydiuI/k=
+		5R3IugPFg8sHm8+AF142mN0xAr4=
 		</data>
 		<key>da.lproj/UILib.strings</key>
 		<data>
-		UjD+k/LLIDvBCTECffay/mSprh4=
+		Eg+ZcJvElRVdmq/hSomaKeghreA=
 		</data>
 		<key>de.lproj/DataLib.strings</key>
 		<data>
-		w3fbKfP6POFLHzPMV3Xl7zdmNzg=
+		5fiH+Wkbhw2MX5jkwiHFOxZQhxc=
 		</data>
 		<key>de.lproj/Localizable.strings</key>
 		<data>
-		dy2mWQ4EbJtqH9i89DGaINetfik=
+		xjNJXikLdO2T8BYLziBQV8+8MZg=
 		</data>
 		<key>de.lproj/PlayerLib.strings</key>
 		<data>
-		/fc6xjqkb5W7XkTDuNDxPmGTIB0=
+		uo6MSBwIH9lWR+oFzR2ZYtBC3j0=
 		</data>
 		<key>de.lproj/UILib.strings</key>
 		<data>
-		/7DS2xkLxuBDrXSc5BiCcIlejVs=
+		qcv6xxQ6CzneayLnYZYGgY7r6jo=
 		</data>
 		<key>el.lproj/DataLib.strings</key>
 		<data>
-		iojXNTCyv4qO0HyJoOqfL1roWgo=
+		Owi22js0wgVb49UvBLvqDn70XwY=
 		</data>
 		<key>el.lproj/Localizable.strings</key>
 		<data>
-		fEVZMl4lttXhxGIeBf3ZJRLhUNE=
+		p+BPKcUgIaM8YtR+MKNNZCzzK8E=
 		</data>
 		<key>el.lproj/PlayerLib.strings</key>
 		<data>
-		XgJKNyBuPbvyExUv1z2wqI/kHOA=
+		pYsrnqrfjj7lR8fLJIX4qh1egcw=
 		</data>
 		<key>el.lproj/UILib.strings</key>
 		<data>
-		yNcePYWYUPc8WIosr69GuLf7RiU=
+		FuNBJmaVaIVFzOZeMlQo/pw0vD4=
 		</data>
 		<key>en.lproj/DataLib.strings</key>
 		<data>
-		ZQEBGkW6bhia8q5XQvwKw0DFKW0=
+		7sl26usUPLli8RPYdzmgGDCbUzE=
 		</data>
 		<key>en.lproj/Localizable.strings</key>
 		<data>
-		Sftlyx+g4ojlYC9wulAZ7IhUd0E=
+		SnpmV1URolrN4n4gTF0aBY/fDcY=
 		</data>
 		<key>en.lproj/PlayerLib.strings</key>
 		<data>
-		wiyE5Q5x638TTdk1CNwuDjYw1IM=
+		XqB3TzJcumze/uXvJ8wy78bxWwA=
 		</data>
 		<key>en.lproj/UILib.strings</key>
 		<data>
-		X4dShMuY4zYIXJHr+9Dqo59olEc=
+		cZyf1aZA38xPMWC14j1+N0Epdz8=
 		</data>
 		<key>en_GB.lproj/DataLib.strings</key>
 		<data>
-		6s9VlTs2DQIJ+ytMRMtZ8tzTQZo=
+		yx4o7sxPWWX27EkEzHkaINhcCNE=
 		</data>
 		<key>en_GB.lproj/Localizable.strings</key>
 		<data>
-		VZ7OYPY4M+ECgVL2ciSOeqGgJK4=
+		UfoWeimJoXKwSeT21V0nwG6rKIA=
 		</data>
 		<key>en_GB.lproj/PlayerLib.strings</key>
 		<data>
-		lMMDbsFdLx6jb6L8cYTLtoXG3QM=
+		yIBTjjCrbhZgbwjYQm+UP9IB8Yg=
 		</data>
 		<key>en_GB.lproj/UILib.strings</key>
 		<data>
-		Z3G9Lz1Hww6pcS7AbX5ZNGWsTHo=
+		8WGDQjJW0PLIWLk2HDhA1grWFZg=
 		</data>
 		<key>es.lproj/DataLib.strings</key>
 		<data>
-		A1pElSll2NwxpD/dZbE0vz3Q/fM=
+		2ElQeB7oYRgeIn8nZ6rdl9ZvGK4=
 		</data>
 		<key>es.lproj/Localizable.strings</key>
 		<data>
-		2GPO/MhYsEFkd6fFweEzDwErYdQ=
+		LUixZwBMkeK4AuV3e2mHAdKqgZQ=
 		</data>
 		<key>es.lproj/PlayerLib.strings</key>
 		<data>
-		Nf6Ayhla40Aa6Ep+gEvJbcqUQMs=
+		EtacMmGnHZYSD40yVJbT+V/m5do=
 		</data>
 		<key>es.lproj/UILib.strings</key>
 		<data>
-		NhTaw0Q85b7yetLkXapeleTlfyI=
+		DzpztdXqu7lnR8Dxzr6ePPosJ9A=
 		</data>
 		<key>fi.lproj/DataLib.strings</key>
 		<data>
-		BYdFzc3GwDFGL1OZ7DfdaMO4tAc=
+		1n4bgURZsxDFtsIF7mo59x2oSEc=
 		</data>
 		<key>fi.lproj/Localizable.strings</key>
 		<data>
-		+okuYgfreA0hLnMRTeDFRCRIuMM=
+		yAA75rKITlZb/W4Fpq8qbuvS4S4=
 		</data>
 		<key>fi.lproj/PlayerLib.strings</key>
 		<data>
-		Oov/97+WU56T+B/Y4yxuYg9YlvU=
+		l6SBp9XHe5ozRKYjK/meCESB294=
 		</data>
 		<key>fi.lproj/UILib.strings</key>
 		<data>
-		RMjPvOqpJcYnnziN1AQ7xpdlacw=
+		oT+CA5zA9pczZDINayowcbKRCvM=
 		</data>
 		<key>fr.lproj/DataLib.strings</key>
 		<data>
-		xQ/CV7hGlU8L8CwG5ihuRzP4I08=
+		M5qAeF59W4nSe5f7O/ZjmPGD9Bg=
 		</data>
 		<key>fr.lproj/Localizable.strings</key>
 		<data>
-		GD+DOQf2mAxSgErjj7o9IS9sjtY=
+		4lhl/8Cvtdn3tT4Zt76HhLoPeBc=
 		</data>
 		<key>fr.lproj/PlayerLib.strings</key>
 		<data>
-		0Bqc5j3sAsjBANCJOsKIsx50VoY=
+		BD2nd+VDTWpZ+5GSwb3aKgAlwyc=
 		</data>
 		<key>fr.lproj/UILib.strings</key>
 		<data>
-		wwB/+3ocPr7RY7yDBAy4+rpm+gI=
+		9OF1YG7NqRG17TBpMC9HYuo2kRM=
 		</data>
 		<key>hr.lproj/DataLib.strings</key>
 		<data>
-		gfMd118VowgMi1kePd8fdkHOJZQ=
+		kyeoC34palSOyCEOAW6izVWyaC8=
 		</data>
 		<key>hr.lproj/Localizable.strings</key>
 		<data>
-		vUfT+LZx42XstfdbyL7WFdwL0SM=
+		U089dJ5ulYxNkEN8xg1p3fUo5o8=
 		</data>
 		<key>hr.lproj/PlayerLib.strings</key>
 		<data>
-		eNA7hXaT3vy9Mrwj5W22YTyLB88=
+		+fsftkjlnkpHaZ9bFsG5u2ndx6k=
 		</data>
 		<key>hr.lproj/UILib.strings</key>
 		<data>
-		zZpCExF+oWMPA2iIb7QLhg+BR8s=
+		Lm6IQIk+e+CtDDeven65Oq4NMp4=
 		</data>
 		<key>hu.lproj/DataLib.strings</key>
 		<data>
-		33oaJP6a9/1swzrjHIjqK/k/VSA=
+		/FIQhLzyWJMT0C3feMUWEAFneYs=
 		</data>
 		<key>hu.lproj/Localizable.strings</key>
 		<data>
-		HHsrpcj9fdtq5X/aLrIMcsvBIEI=
+		ePFObgeRUCDZfxP5W5PPttdTrrc=
 		</data>
 		<key>hu.lproj/PlayerLib.strings</key>
 		<data>
-		il0Y+gVUlDRARzSbvfKa6En+KaI=
+		so3vpTgn+n0R5dux+Fqru/XCMCM=
 		</data>
 		<key>hu.lproj/UILib.strings</key>
 		<data>
-		TvMVrBpL4/E9ccG+G7EwK02wrZI=
+		MfNs69I6jzHxyZ/Gwvl2rQJa2xM=
 		</data>
 		<key>it.lproj/DataLib.strings</key>
 		<data>
-		CyFjvDpICb1vYgRI1+3zUZLwSMk=
+		Rfc3weBbwBdl7wboBN2gBThdFLc=
 		</data>
 		<key>it.lproj/Localizable.strings</key>
 		<data>
-		xYRanOgomBj9uTEc3VEmhTtqASA=
+		/0AwHhxVV2vuelg9uECNRmY7V50=
 		</data>
 		<key>it.lproj/PlayerLib.strings</key>
 		<data>
-		UcF9L6syFocdYEWMRMQYiD59Uvw=
+		ky2gJOJI79nYyvUUEx/1QnttCgg=
 		</data>
 		<key>it.lproj/UILib.strings</key>
 		<data>
-		mA+spsNCpbbcIoFvOK2OAtJ5CE4=
+		fVCYEscccehA+enZVO6hh5Mx8IM=
 		</data>
 		<key>ja.lproj/DataLib.strings</key>
 		<data>
-		QorWxauWKbfWZZN88H5nk/FD5kw=
+		kqXPTOOUs38Z1fuTjV5R7tdZO+o=
 		</data>
 		<key>ja.lproj/Localizable.strings</key>
 		<data>
-		KCX9/taV5zOyC75uukwlD4MyByU=
+		2NczxORRF6Be2FDTgQ9PI8UcBsc=
 		</data>
 		<key>ja.lproj/PlayerLib.strings</key>
 		<data>
-		oVwnLdp3dpp03hnQqm0MdbhJPME=
+		JH4c8zYtexaohZrAZnGhEJjeeRw=
 		</data>
 		<key>ja.lproj/UILib.strings</key>
 		<data>
-		IwY8GwdpKgIHg0ysZjxxdE6VuCk=
+		gf+aemG716MNhSj7tB0MYea4Lf8=
 		</data>
 		<key>ko.lproj/DataLib.strings</key>
 		<data>
-		G27/bgsBJfxRf7nxu0IxK6i9HDk=
+		omTeIEFOaQxHZcUHUYVpSg4nwQU=
 		</data>
 		<key>ko.lproj/Localizable.strings</key>
 		<data>
-		9zd0uQdZlZWYEPv2WdkOlfqPjIg=
+		wAiEVxAIMnyEo8AxRiLFw67rcV4=
 		</data>
 		<key>ko.lproj/PlayerLib.strings</key>
 		<data>
-		QiVpau5gnen1qpnJz5gxx2ZZOdY=
+		vqrq2ClaVxPhwH2+FAD/zoBhHlY=
 		</data>
 		<key>ko.lproj/UILib.strings</key>
 		<data>
-		Qi3T2eqUzHuH4kM/S2qLc830Ivc=
+		9P6OMKu4fsdochQzNvNt/lxLh90=
 		</data>
 		<key>nb.lproj/DataLib.strings</key>
 		<data>
-		Az1edGkunF5nxD3CIjIE+qJNkos=
+		TDInPGwuSse076DRu+CmrCwn/U4=
 		</data>
 		<key>nb.lproj/Localizable.strings</key>
 		<data>
-		eu/Nl3fZWDqmuA1T45jq2qoJhIw=
+		QXXyCW0a/hjtbW89wEzUKHokFoY=
 		</data>
 		<key>nb.lproj/PlayerLib.strings</key>
 		<data>
-		8f1FjRArI68M1jcIZc00DC3dIRs=
+		Oui7wzAcS9bBNw5yuDGZKZZq5kM=
 		</data>
 		<key>nb.lproj/UILib.strings</key>
 		<data>
-		FtZFZ2RKVbW6Biui3NqqzTbdDOU=
+		j13AiT0LiDvchWc18GTuucVnfjo=
 		</data>
 		<key>nl.lproj/DataLib.strings</key>
 		<data>
-		QYbTbwArfWXLIqxxzXvJrvUllOQ=
+		HWvEuuY21U/i3X5wYSLsaBoMG2c=
 		</data>
 		<key>nl.lproj/Localizable.strings</key>
 		<data>
-		LA7uxJkUDptAi29mjIo3qCh1WZU=
+		g0lGqrx9jjLwkGWAYVlTMei5o2o=
 		</data>
 		<key>nl.lproj/PlayerLib.strings</key>
 		<data>
-		T1mc1eaX2pHR7PxBM6ZD6wUPqYw=
+		kKnr5PHwbAgTUOewlUjLedR9/S4=
 		</data>
 		<key>nl.lproj/UILib.strings</key>
 		<data>
-		sk6i0xHIv2WsSbqqddq9Cnl0rEE=
+		U1jFYdaX5i5vQZwifY4TjLds07o=
 		</data>
 		<key>pl.lproj/DataLib.strings</key>
 		<data>
-		Hsjy1wgNLidA2s2ruMkY8FA0E60=
+		JLxZZL9GdBunmcbBsZz0ZAQk0ac=
 		</data>
 		<key>pl.lproj/Localizable.strings</key>
 		<data>
-		jebIrtulXCOKY6uSvn8IzWo6YJI=
+		0du5aeoSWFKMecRQmpsKHNX1m80=
 		</data>
 		<key>pl.lproj/PlayerLib.strings</key>
 		<data>
-		PaO2bAkhG+VJCw+t7xNQgtO+bMo=
+		EwWcjzRO0xoQdsAJkLR8hpB4kX0=
 		</data>
 		<key>pl.lproj/UILib.strings</key>
 		<data>
-		n3xHa/hJTKBb6abMNGWH5/xdSzI=
+		EjH2SSlqfhGULyUJzerpr73LpNk=
 		</data>
 		<key>pt.lproj/DataLib.strings</key>
 		<data>
-		lV455k+bGX4K+9ewjBZAKCaoWns=
+		/UWFscEPXYkJWwgB1oewt55L9CQ=
 		</data>
 		<key>pt.lproj/Localizable.strings</key>
 		<data>
-		tKHLk3g12//qFTVS1lLaUe3e3hY=
+		GphsnAj6AyEY6tHPxgpE+vdEnHw=
 		</data>
 		<key>pt.lproj/PlayerLib.strings</key>
 		<data>
-		4Ce2bCZVozPfyzguC0lnywOr0/A=
+		8kHtfv96+pPdmJaiLk2oQcih3I8=
 		</data>
 		<key>pt.lproj/UILib.strings</key>
 		<data>
-		dyx0KEl9nIP3QOybuAsjuM6qFrk=
+		S5UK5lpAVaiU8W4boUIxDn2VRQA=
 		</data>
 		<key>pt_BR.lproj/DataLib.strings</key>
 		<data>
-		lV455k+bGX4K+9ewjBZAKCaoWns=
+		/UWFscEPXYkJWwgB1oewt55L9CQ=
 		</data>
 		<key>pt_BR.lproj/Localizable.strings</key>
 		<data>
-		tKHLk3g12//qFTVS1lLaUe3e3hY=
+		GphsnAj6AyEY6tHPxgpE+vdEnHw=
 		</data>
 		<key>pt_BR.lproj/PlayerLib.strings</key>
 		<data>
-		4Ce2bCZVozPfyzguC0lnywOr0/A=
+		8kHtfv96+pPdmJaiLk2oQcih3I8=
 		</data>
 		<key>pt_BR.lproj/UILib.strings</key>
 		<data>
-		dyx0KEl9nIP3QOybuAsjuM6qFrk=
+		S5UK5lpAVaiU8W4boUIxDn2VRQA=
 		</data>
 		<key>pt_PT.lproj/DataLib.strings</key>
 		<data>
-		MojKqQTIog09VJeczWzX7nJTpLs=
+		fNkIeWlLcIu/cKb5OpNfjfaqQiw=
 		</data>
 		<key>pt_PT.lproj/Localizable.strings</key>
 		<data>
-		uN9BCet7xeNddm9AYnZyHtS/2ko=
+		RorBedFDXU3mWAXfvGnSOMeK2KE=
 		</data>
 		<key>pt_PT.lproj/PlayerLib.strings</key>
 		<data>
-		sWJbBHjnhrAE1kwV0/xTSVVjv9M=
+		q3KZmX+DVEleueskwTTLXddDo68=
 		</data>
 		<key>pt_PT.lproj/UILib.strings</key>
 		<data>
-		fdLFATLHFFjDTAKUugT06XFv8uY=
+		xJflKSxhec1MT/8HEwyF9d9H0dE=
 		</data>
 		<key>ro.lproj/DataLib.strings</key>
 		<data>
-		PQIVPIbsPXP4dbq4hy4Uzc7DH+o=
+		gaJsXJCkUtaSA8vSLygBn825rGc=
 		</data>
 		<key>ro.lproj/Localizable.strings</key>
 		<data>
-		S+BhB+J8bdBKwqz1EY6ecJgDnJk=
+		N9pueVXBq4ZVII8bNVHujDYiFXA=
 		</data>
 		<key>ro.lproj/PlayerLib.strings</key>
 		<data>
-		218Ww/xZ2SzEDkRBjKWQ3/nETGU=
+		4FH2xtSg9s8az47XrtjbjzVqoX0=
 		</data>
 		<key>ro.lproj/UILib.strings</key>
 		<data>
-		RihSFSLNwhXjSJE7jn5U+M9KCk0=
+		lrHfX0/YOsdfse2eQgKD3tGWwig=
 		</data>
 		<key>ru.lproj/DataLib.strings</key>
 		<data>
-		ANSbv7jF7GPkPZguhI7H1zAcqh4=
+		YN4xNCrPu2VJR7Rya3LtHMwAkB4=
 		</data>
 		<key>ru.lproj/Localizable.strings</key>
 		<data>
-		wDVCnssNPHBWyohFjY24XiO0PUo=
+		nB7i/vhn9fPuujehEP+IDMeV1MI=
 		</data>
 		<key>ru.lproj/PlayerLib.strings</key>
 		<data>
-		4NAzkd6rf3rCKUordjfT5cbPfVE=
+		pcAZ/6l0kVOb7DoF9rD/F+Dz2F0=
 		</data>
 		<key>ru.lproj/UILib.strings</key>
 		<data>
-		ejpHjcLWNA1KKNvag5fcUGInPn4=
+		k9TQh4TW6ZWUWvQUiPaidnd9fZg=
 		</data>
 		<key>sk.lproj/DataLib.strings</key>
 		<data>
-		AyEaAlEMo4qc5lfmIXv2QHeSuR4=
+		MJh3IExr1/1w5VMI+2oabfBmmCw=
 		</data>
 		<key>sk.lproj/Localizable.strings</key>
 		<data>
-		bIwJi8b9GpDLIQgYn7RRMQg4HV4=
+		NkoWGDnzGgp7kVTrZkT4MZvABSs=
 		</data>
 		<key>sk.lproj/PlayerLib.strings</key>
 		<data>
-		tyOrqu1Ihrroczh5KeG0zmgCLaU=
+		noh4oVyWLgpo5TYGsZa9i4nQxCw=
 		</data>
 		<key>sk.lproj/UILib.strings</key>
 		<data>
-		OrcJPK9Ks0cRUU+s7aibmitzUTo=
+		arKy0oJP16Lb3REpHcBJwQknBSM=
 		</data>
 		<key>sv.lproj/DataLib.strings</key>
 		<data>
-		2Z9B9Fq3peZWQ7EAZTsei43EaSw=
+		LwByQ8FXPnpFwEAZ5rkHHliJU1U=
 		</data>
 		<key>sv.lproj/Localizable.strings</key>
 		<data>
-		WhcPirPpKQLBBL5lZPWpCmxQ4sk=
+		W9oZxfqCUqWkbhcLyBiG1s1w5gc=
 		</data>
 		<key>sv.lproj/PlayerLib.strings</key>
 		<data>
-		7Y5/z7FJIxim+pGoo5nMsaPgtlg=
+		8B5amkVNwj/M6zvJkgNPZ7/p3ls=
 		</data>
 		<key>sv.lproj/UILib.strings</key>
 		<data>
-		ST9Tu0lNmnDv+zDSJfrkuLAOl64=
+		khh5I7/0k4JewWCVhjw51RVLsWE=
 		</data>
 		<key>th.lproj/DataLib.strings</key>
 		<data>
-		JQslLzBX0c/YyLlnrm1rQe0t4pE=
+		yJPKYmbkgQJK6IF0daEG3zLEsHs=
 		</data>
 		<key>th.lproj/Localizable.strings</key>
 		<data>
-		gUsG9iAOP2zYg0H/8pEye9HYWxc=
+		72J4xZn7r0kcjHIyKhQa4nXM08o=
 		</data>
 		<key>th.lproj/PlayerLib.strings</key>
 		<data>
-		buII19kUSeB5qa7qdCNTQg6Xh4M=
+		4ty0a6Llx8pa9b2YSr6my3nDano=
 		</data>
 		<key>th.lproj/UILib.strings</key>
 		<data>
-		ZX+q24IqQICiDFRF0mhg6idVoEU=
+		2J3A2e5Lw8FI54XzDOlCEndc10c=
 		</data>
 		<key>tr.lproj/DataLib.strings</key>
 		<data>
-		29LGB+S78iOmwIoRS/PmHSTF06o=
+		OjtxJWk0AyKT5nIoVu0fLZGB8Zk=
 		</data>
 		<key>tr.lproj/Localizable.strings</key>
 		<data>
-		HyUMU54OK3EFauQHOEJHY6TlaUU=
+		9UauDovYS1AWJxrHZP/YUQWLG5o=
 		</data>
 		<key>tr.lproj/PlayerLib.strings</key>
 		<data>
-		D/Itjzm0XpwgzRsYE9Ta8SyHleU=
+		+fUgNFdAlExt2WH3MVY4ZLJRASI=
 		</data>
 		<key>tr.lproj/UILib.strings</key>
 		<data>
-		8pDhPmLnFl+yn3gNG80OiVl5Swg=
+		WVNjc9naGxGFalgFVJo8Ln+SRw4=
 		</data>
 		<key>zh.lproj/DataLib.strings</key>
 		<data>
-		OMa6GEgZJfQzvr1wZbLuUJBMgis=
+		OvebhQSR2uIxLjobzFRk4FbDWmc=
 		</data>
 		<key>zh.lproj/Localizable.strings</key>
 		<data>
-		mb6QXGeepSxhdaUKWzF+IKUUQx0=
+		R3IDn7PVG62E9l+W7JASZQvk3Yo=
 		</data>
 		<key>zh.lproj/PlayerLib.strings</key>
 		<data>
-		Y31TFW6D/+kXRVv/sIGHK5uiErc=
+		GjJLPrqVok5zrfSKqazz1BsN9U8=
 		</data>
 		<key>zh.lproj/UILib.strings</key>
 		<data>
-		cMx2FvuCyurpVQWdOFtkyReHziM=
+		jfWOsqfl7FLpji+2Au6odsz5mfU=
 		</data>
 		<key>zh_CN.lproj/DataLib.strings</key>
 		<data>
-		OMa6GEgZJfQzvr1wZbLuUJBMgis=
+		OvebhQSR2uIxLjobzFRk4FbDWmc=
 		</data>
 		<key>zh_CN.lproj/Localizable.strings</key>
 		<data>
-		mb6QXGeepSxhdaUKWzF+IKUUQx0=
+		R3IDn7PVG62E9l+W7JASZQvk3Yo=
 		</data>
 		<key>zh_CN.lproj/PlayerLib.strings</key>
 		<data>
-		Y31TFW6D/+kXRVv/sIGHK5uiErc=
+		GjJLPrqVok5zrfSKqazz1BsN9U8=
 		</data>
 		<key>zh_CN.lproj/UILib.strings</key>
 		<data>
-		cMx2FvuCyurpVQWdOFtkyReHziM=
+		jfWOsqfl7FLpji+2Au6odsz5mfU=
 		</data>
 		<key>zh_TW.lproj/DataLib.strings</key>
 		<data>
-		dcaGXdyF4lQzIUnvWdqa1x97I8k=
+		4zmV/RVDBuxf4fX1jpMIvxDOmt8=
 		</data>
 		<key>zh_TW.lproj/Localizable.strings</key>
 		<data>
-		VBax91HkVzmt65f1XkTTXyWYT5Q=
+		AdhZv+jQVPqdew2FfykjWSgyf8k=
 		</data>
 		<key>zh_TW.lproj/PlayerLib.strings</key>
 		<data>
-		nDPuXXPlGPBCK6pX1ICxMGsEuPo=
+		c+p3Pd8sf6Uq3lrZwKlOTpZjy1s=
 		</data>
 		<key>zh_TW.lproj/UILib.strings</key>
 		<data>
-		fAZ1YpHA9Dz5EOX3v00iNpVUMyE=
+		HmD7P5ItnRIDdEJ35Tl4ppH3kvI=
 		</data>
 	</dict>
 	<key>rules</key>
