@@ -58,6 +58,9 @@
 /* Button title for managing accounts. */
 "SSOAuthButtonManageAccount" = "Керувати обліковим записом";
 
+/* Button title for managing accounts. */
+"SSOAuthButtonManageAccounts" = "Керувати обліковими записами";
+
 /* Button title for managing Google accounts. */
 "SSOAuthButtonManageGoogleAccount" = "Керувати обліковим записом Google";
 
@@ -107,7 +110,7 @@
 "SSOAuthGuestModeButtonLabel" = "Відкрити цю програму без обл. запису";
 
 /* Dialog message to emphasize the effects of removing an account. $1 is an application name. */
-"SSOAuthRemoveAccountConfirmationMessageV3" = "Цей обліковий запис і всі незбережені дані буде видалено з усіх програм Google на цьому пристрої, включаючи %@.";
+"SSOAuthRemoveAccountConfirmationMessageV3" = "Цей обліковий запис і всі незбережені дані буде видалено з усіх додатків Google на цьому пристрої, включно з %@.";
 
 /* Placeholder text when there are no accounts. */
 "SSOAuthNoAccountsMessageShort" = "Немає облікових записів Google.";
@@ -121,9 +124,9 @@
 /* Button title for "OK" when showing a message in dialog box. */
 "SSOAuthButtonOK" = "ОК";
 
-/* Title for dialog box when showing error related to "Device Policy". This error comes when the
+/* Title for dialog box when showing alert related to "Device Policy". This error comes when the
  device is not complient with the policy set by the IT administrator of the organization. */
-"SSOAuthMDMError" = "Невідповідність політиці пристрою";
+"SSOAuthMDMError" = "Сповіщення про додаток Device Policy";
 
 /* Error message displayed to user when there is no error message avaiable from the server. */
 "SSOAuthUnknownError" = "Невідома помилка";
@@ -136,4 +139,19 @@
 
 /* When we can't get the user's full name, text in the express sign-in view that, when clicked, signs the user into their default account. */
 "SSOAuthButtonContinueSignInDefault" = "Продовжити";
+
+/* Title of the alert view when the remove account button is clicked. */
+"SSOAuthRemoveAccountAlertTitle" = "Видалити обліковий запис \"%@\"";
+
+/* Accessibility label for button that removes an account from the device. The phrase is the action that the button will take and the argument will be the profile information including account name and email address. */
+"SSOAuthRemoveAccountLabelFormat" = "Вилучити обліковий запис: %@";
+
+/* Title of account selector view when mulitple selection is enabled. */
+"SSOAuthAccountSelectorMutlipleSelectionTitle" = "Облікові записи";
+
+/* Button title to enter edit mode on account selector view. */
+"SSOAuthButtonEdit" = "Змінити";
+
+/* Table header explaining account selection.  $1 is app name */
+"SSOAuthAccountMultipleSelectionHeader" = "Використовувати ці облікові записи в додатку %@";
 

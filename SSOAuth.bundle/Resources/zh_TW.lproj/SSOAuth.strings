@@ -58,6 +58,9 @@
 /* Button title for managing accounts. */
 "SSOAuthButtonManageAccount" = "管理帳戶";
 
+/* Button title for managing accounts. */
+"SSOAuthButtonManageAccounts" = "管理帳戶";
+
 /* Button title for managing Google accounts. */
 "SSOAuthButtonManageGoogleAccount" = "管理 Google 帳戶";
 
@@ -121,9 +124,9 @@
 /* Button title for "OK" when showing a message in dialog box. */
 "SSOAuthButtonOK" = "確定";
 
-/* Title for dialog box when showing error related to "Device Policy". This error comes when the
+/* Title for dialog box when showing alert related to "Device Policy". This error comes when the
  device is not complient with the policy set by the IT administrator of the organization. */
-"SSOAuthMDMError" = "違反裝置政策規定";
+"SSOAuthMDMError" = "裝置政策警告";
 
 /* Error message displayed to user when there is no error message avaiable from the server. */
 "SSOAuthUnknownError" = "不明的錯誤";
@@ -136,4 +139,19 @@
 
 /* When we can't get the user's full name, text in the express sign-in view that, when clicked, signs the user into their default account. */
 "SSOAuthButtonContinueSignInDefault" = "繼續";
+
+/* Title of the alert view when the remove account button is clicked. */
+"SSOAuthRemoveAccountAlertTitle" = "移除帳戶「%@」";
+
+/* Accessibility label for button that removes an account from the device. The phrase is the action that the button will take and the argument will be the profile information including account name and email address. */
+"SSOAuthRemoveAccountLabelFormat" = "移除帳戶，%@";
+
+/* Title of account selector view when mulitple selection is enabled. */
+"SSOAuthAccountSelectorMutlipleSelectionTitle" = "帳戶";
+
+/* Button title to enter edit mode on account selector view. */
+"SSOAuthButtonEdit" = "編輯";
+
+/* Table header explaining account selection.  $1 is app name */
+"SSOAuthAccountMultipleSelectionHeader" = "在「%@」中使用下列帳戶";
 

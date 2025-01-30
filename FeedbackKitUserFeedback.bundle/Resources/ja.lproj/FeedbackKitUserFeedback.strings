@@ -1,5 +1,5 @@
 /* Placeholder/hint text for the feedback compose form's text field. (50 chars.) */
-"Compose_DescriptionPlaceholder" = "ご意見・ご感想を入力";
+"Compose_DescriptionPlaceholder" = "フィードバックを入力";
 
 /* Title for screen to send feedback. (40 chars.) */
 "Compose_HeaderTitle" = "フィードバックの送信";

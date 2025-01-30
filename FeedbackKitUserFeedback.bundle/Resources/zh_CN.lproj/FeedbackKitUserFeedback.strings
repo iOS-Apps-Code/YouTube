@@ -1,5 +1,5 @@
 /* Placeholder/hint text for the feedback compose form's text field. (50 chars.) */
-"Compose_DescriptionPlaceholder" = "撰写您的反馈";
+"Compose_DescriptionPlaceholder" = "您的反馈意见";
 
 /* Title for screen to send feedback. (40 chars.) */
 "Compose_HeaderTitle" = "发送反馈";

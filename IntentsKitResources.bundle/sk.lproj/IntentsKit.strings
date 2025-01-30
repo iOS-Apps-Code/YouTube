@@ -23,5 +23,5 @@
 "INTENTS_KIT_SETTINGS_VIEW_TITLE" = "Použiť Google Apps";
 
 /* The string format for error message when unable to open a url (Unlimited). */
-"INTENTS_KIT_UNABLE_TO_OPEN_URL_STRING_FORMAT" = "Nemožno otvoriť adresu URL: %@";
+"INTENTS_KIT_UNABLE_TO_OPEN_URL_STRING_FORMAT" = "Nemožno otvoriť webovú adresu: %@";
 

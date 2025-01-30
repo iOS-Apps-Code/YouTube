@@ -5,7 +5,7 @@
 "Compose_HeaderTitle" = "Надіслати відгук";
 
 /* Description explaining what it means to include your Google account in the feedback. (80 chars.) */
-"Compose_IncludeGoogleAccountExplanation" = "Включити відомості про ваш обліковий запис Google";
+"Compose_IncludeGoogleAccountExplanation" = "Додайте відомості про ваш обліковий запис Google";
 
 /* Label for the option to include the user's Google account in the feedback. (50 chars.) */
 "Compose_IncludeGoogleAccountLabel" = "Обліковий запис Google";
@@ -20,7 +20,7 @@
 "Compose_ScreenshotOptionLabel" = "Додати знімок екрана";
 
 /* Description explaining the option to include system data in the feedback. (80 chars.) */
-"Compose_SystemDataOptionExplanation" = "Поділіться системними даними з Google для кращої діагностики проблеми.";
+"Compose_SystemDataOptionExplanation" = "Надішліть Google системні дані, щоб ми могли краще діагностувати проблему.";
 
 /* Label for the option to include the system data in the feedback. (50 chars.) */
 "Compose_SystemDataOptionLabel" = "Включати системні дані";

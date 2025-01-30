@@ -44,7 +44,7 @@
 "SSOAuthUnnamedAccount" = "บัญชีที่ไม่มีชื่อ";
 
 /* Button label for removing an account. */
-"SSOAuthRemoveAccount" = "นำออก";
+"SSOAuthRemoveAccount" = "ลบ";
 
 /* Title of the account removal prompt. */
 "SSOAuthRemoveAccountConfirmationTitle" = "นำบัญชีนี้ออกหรือไม่";
@@ -57,6 +57,9 @@
 
 /* Button title for managing accounts. */
 "SSOAuthButtonManageAccount" = "จัดการบัญชี";
+
+/* Button title for managing accounts. */
+"SSOAuthButtonManageAccounts" = "จัดการบัญชี";
 
 /* Button title for managing Google accounts. */
 "SSOAuthButtonManageGoogleAccount" = "จัดการบัญชี Google";
@@ -89,16 +92,16 @@
 "SSOAuthButtonManage" = "จัดการ";
 
 /* Button label for removing an account. (20 chars) */
-"SSOAuthButtonRemove" = "ลบบัญชี";
+"SSOAuthButtonRemove" = "นำออกบัญชี";
 
 /* Dialog message to emphasize the effects of removing an account. $1 is an application name. */
-"SSOAuthRemoveAccountConfirmationMessageAlt" = "บัญชีนี้จะถูกลบออกจาก %@ และแอป Google อื่นๆ บนอุปกรณ์นี้";
+"SSOAuthRemoveAccountConfirmationMessageAlt" = "บัญชีนี้จะถูกนำออกออกจาก %@ และแอป Google อื่นๆ บนอุปกรณ์นี้";
 
 /* Dialog message link for learning more. (20 chars) */
 "SSOAuthLinkLabelLearnMore" = "เรียนรู้เพิ่มเติม";
 
 /* Loading message displayed when removing account for the list of accounts. (20 chars) */
-"SSOAuthMessageRemovingAccount" = "การลบบัญชี";
+"SSOAuthMessageRemovingAccount" = "การนำออกบัญชี";
 
 /* Explanation of Guest Mode. $1 is an application name. (30 chars) */
 "SSOAuthGuestModeSubtitleFormat" = "ใช้ %@ โดยไม่มีบัญชี Google";
@@ -116,14 +119,14 @@
 "SSOAuthAddAnotherAccount" = "เพิ่มบัญชีอื่น";
 
 /* Guest account switch message. */
-"SSOAuthGuestAccountSwitchMessage" = "หากต้องการลงชื่อเข้าใช้อีกครั้ง เพียงเลือกบัญชี Google บัญชีหนึ่งที่บันทึกไว้ในอุปกรณ์นี้ \n \n หากต้องการนำบัญชีที่บันทึกไว้ออก แตะ \"ลงชื่อเข้าใช้\" > \"จัดการ\" > \"นำออก\"";
+"SSOAuthGuestAccountSwitchMessage" = "หากต้องการลงชื่อเข้าใช้อีกครั้ง เพียงเลือกบัญชี Google บัญชีหนึ่งที่บันทึกไว้ในอุปกรณ์นี้ \n \n หากต้องการนำบัญชีที่บันทึกไว้ออก แตะ \"ลงชื่อเข้าใช้\" > \"จัดการ\" > \"ลบ\"";
 
 /* Button title for "OK" when showing a message in dialog box. */
 "SSOAuthButtonOK" = "ตกลง";
 
-/* Title for dialog box when showing error related to "Device Policy". This error comes when the
+/* Title for dialog box when showing alert related to "Device Policy". This error comes when the
  device is not complient with the policy set by the IT administrator of the organization. */
-"SSOAuthMDMError" = "ข้อผิดพลาดเกี่ยวกับนโยบายด้านอุปกรณ์";
+"SSOAuthMDMError" = "การแจ้งเตือนนโยบายอุปกรณ์";
 
 /* Error message displayed to user when there is no error message avaiable from the server. */
 "SSOAuthUnknownError" = "ข้อผิดพลาดที่ไม่รู้จัก";
@@ -136,4 +139,19 @@
 
 /* When we can't get the user's full name, text in the express sign-in view that, when clicked, signs the user into their default account. */
 "SSOAuthButtonContinueSignInDefault" = "ต่อไป";
+
+/* Title of the alert view when the remove account button is clicked. */
+"SSOAuthRemoveAccountAlertTitle" = "นำออกบัญชี \"%@\"";
+
+/* Accessibility label for button that removes an account from the device. The phrase is the action that the button will take and the argument will be the profile information including account name and email address. */
+"SSOAuthRemoveAccountLabelFormat" = "ลบบัญชี %@";
+
+/* Title of account selector view when mulitple selection is enabled. */
+"SSOAuthAccountSelectorMutlipleSelectionTitle" = "บัญชี";
+
+/* Button title to enter edit mode on account selector view. */
+"SSOAuthButtonEdit" = "แก้ไข";
+
+/* Table header explaining account selection.  $1 is app name */
+"SSOAuthAccountMultipleSelectionHeader" = "ใช้บัญชีเหล่านี้ใน %@";
 

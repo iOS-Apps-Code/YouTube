@@ -5,7 +5,7 @@
 "Compose_HeaderTitle" = "Send feedback";
 
 /* Description explaining what it means to include your Google account in the feedback. (80 chars.) */
-"Compose_IncludeGoogleAccountExplanation" = "Medtag oplysninger om din Google-konto";
+"Compose_IncludeGoogleAccountExplanation" = "Inkluder oplysninger om din Google-konto";
 
 /* Label for the option to include the user's Google account in the feedback. (50 chars.) */
 "Compose_IncludeGoogleAccountLabel" = "Google-konto";
@@ -17,13 +17,13 @@
 "Compose_ScreenshotOptionExplanation" = "Send skærmbillede af den sidste side, som du var på.";
 
 /* Label to include a screenshot in the feedback. (50 chars.) */
-"Compose_ScreenshotOptionLabel" = "Medtag skærmbillede";
+"Compose_ScreenshotOptionLabel" = "Inkluder skærmbillede";
 
 /* Description explaining the option to include system data in the feedback. (80 chars.) */
 "Compose_SystemDataOptionExplanation" = "Del systemdata med Google for bedre at kunne diagnosticere problemet.";
 
 /* Label for the option to include the system data in the feedback. (50 chars.) */
-"Compose_SystemDataOptionLabel" = "Medtag systemdata";
+"Compose_SystemDataOptionLabel" = "Inkluder systemdata";
 
 /* Label for the preview of the general application data sent with feedback reports. (30 chars.) */
 "Preview_ApplicationDataLabel" = "Applikationsdata";

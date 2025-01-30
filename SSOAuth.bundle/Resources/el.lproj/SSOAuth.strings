@@ -58,6 +58,9 @@
 /* Button title for managing accounts. */
 "SSOAuthButtonManageAccount" = "Διαχείριση λογαριασμού";
 
+/* Button title for managing accounts. */
+"SSOAuthButtonManageAccounts" = "Διαχείριση λογαριασμών";
+
 /* Button title for managing Google accounts. */
 "SSOAuthButtonManageGoogleAccount" = "Διαχείριση λογαριασμού Google";
 
@@ -121,9 +124,9 @@
 /* Button title for "OK" when showing a message in dialog box. */
 "SSOAuthButtonOK" = "OK";
 
-/* Title for dialog box when showing error related to "Device Policy". This error comes when the
+/* Title for dialog box when showing alert related to "Device Policy". This error comes when the
  device is not complient with the policy set by the IT administrator of the organization. */
-"SSOAuthMDMError" = "Σφάλμα πολιτικής χρήσης συσκευής";
+"SSOAuthMDMError" = "Ειδοποίηση πολιτικής συσκευής";
 
 /* Error message displayed to user when there is no error message avaiable from the server. */
 "SSOAuthUnknownError" = "Άγνωστο σφάλμα";
@@ -136,4 +139,19 @@
 
 /* When we can't get the user's full name, text in the express sign-in view that, when clicked, signs the user into their default account. */
 "SSOAuthButtonContinueSignInDefault" = "Συνέχεια";
+
+/* Title of the alert view when the remove account button is clicked. */
+"SSOAuthRemoveAccountAlertTitle" = "Κατάργηση λογαριασμού \"%@\"";
+
+/* Accessibility label for button that removes an account from the device. The phrase is the action that the button will take and the argument will be the profile information including account name and email address. */
+"SSOAuthRemoveAccountLabelFormat" = "Κατάργηση λογαριασμού, %@";
+
+/* Title of account selector view when mulitple selection is enabled. */
+"SSOAuthAccountSelectorMutlipleSelectionTitle" = "Λογαριασμοί";
+
+/* Button title to enter edit mode on account selector view. */
+"SSOAuthButtonEdit" = "Επεξεργασία";
+
+/* Table header explaining account selection.  $1 is app name */
+"SSOAuthAccountMultipleSelectionHeader" = "Χρήση αυτών των λογαριασμών στην εφαρμογή %@";
 

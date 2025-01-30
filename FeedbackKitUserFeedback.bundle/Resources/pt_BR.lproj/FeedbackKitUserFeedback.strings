@@ -1,5 +1,5 @@
 /* Placeholder/hint text for the feedback compose form's text field. (50 chars.) */
-"Compose_DescriptionPlaceholder" = "Escrever seu feedback";
+"Compose_DescriptionPlaceholder" = "Escreva o seu feedback";
 
 /* Title for screen to send feedback. (40 chars.) */
 "Compose_HeaderTitle" = "Enviar comentários";

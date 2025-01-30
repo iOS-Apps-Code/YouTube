@@ -20,7 +20,7 @@
 "Compose_ScreenshotOptionLabel" = "캡쳐화면 포함";
 
 /* Description explaining the option to include system data in the feedback. (80 chars.) */
-"Compose_SystemDataOptionExplanation" = "Google과 시스템 테이터를 공유해 주시면 문제를 보다 효과적으로 진단할 수 있습니다.";
+"Compose_SystemDataOptionExplanation" = "시스템 테이터를 Google과 공유하면 문제를 보다 효과적으로 진단할 수 있습니다.";
 
 /* Label for the option to include the system data in the feedback. (50 chars.) */
 "Compose_SystemDataOptionLabel" = "시스템 데이터 포함";

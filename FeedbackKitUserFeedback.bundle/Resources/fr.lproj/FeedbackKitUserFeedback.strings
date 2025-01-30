@@ -1,8 +1,8 @@
 /* Placeholder/hint text for the feedback compose form's text field. (50 chars.) */
-"Compose_DescriptionPlaceholder" = "Rédigez votre commentaire";
+"Compose_DescriptionPlaceholder" = "Donnez votre avis";
 
 /* Title for screen to send feedback. (40 chars.) */
-"Compose_HeaderTitle" = "Envoyer commentaire";
+"Compose_HeaderTitle" = "Laisser un avis";
 
 /* Description explaining what it means to include your Google account in the feedback. (80 chars.) */
 "Compose_IncludeGoogleAccountExplanation" = "Ajouter vos informations de compte Google";

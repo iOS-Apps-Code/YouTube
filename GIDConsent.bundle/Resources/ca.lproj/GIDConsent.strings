@@ -1,0 +1,41 @@
+/* Title for a done button, to return to the previous page. */
+"GIDConsentButtonDone" = "Fet";
+
+/* Description for a checkbox specifying that all circles should be included in the pACL. */
+"GIDConsentDescriptionAllCircles" = "Inclou cercles creats en el futur";
+
+/* Description for a checkbox specifying that all contacts should be included in the pACL. */
+"GIDConsentDescriptionAllContacts" = "Inclou els contactes que es creïn més endavant";
+
+/* Description at the bottom of a consent view about respecting ToS and private policies. */
+"GIDConsentDescriptionLegal" = "En continuar, permeteu que aquesta aplicació i Google facin servir la vostra informació d'acord amb les condicions del servei i les polítiques de privadesa respectives.";
+
+/* Annotation for a user's circle that has people not public on the their profile. */
+"GIDConsentDescriptionNonPublicCircle" = "Les persones d'aquest cercle no són públiques al vostre perfil";
+
+/* Title for a button specifying that all circles should be included in the pACL. */
+"GIDConsentTitleAllCircles" = "Tots els cercles";
+
+/* Title for a button specifying that all contacts should be included in the pACL. */
+"GIDConsentTitleAllContacts" = "Tots els contactes";
+
+/* Title for sharing fACL publicly. */
+"GIDConsentTitleAnyone" = "Qualsevol usuari del web";
+
+/* Title for sharing fACL with extended circles. */
+"GIDConsentTitleExtended" = "Els vostres cercles ampliats";
+
+/* Title of a button that hides all circles for fACL. */
+"GIDConsentTitleHide" = "Amaga tots els cercles";
+
+/* Title of a button for only sharing a post with yourself. */
+"GIDConsentTitleOnlyYou" = "Només amb mi";
+
+/* Title of a consent view, saying which scopes the app is requesting. App name $1. */
+"GIDConsentTitleScopes" = "%@ vol:";
+
+/* Title for sharing fACL with a set of circles. */
+"GIDConsentTitleSelected" = "Els cercles seleccionats";
+
+/* Title of a button that show all circles for fACL. */
+"GIDConsentTitleShow" = "Mostra tots els cercles";

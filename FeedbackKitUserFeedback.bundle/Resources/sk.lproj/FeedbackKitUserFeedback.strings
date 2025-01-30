@@ -20,7 +20,7 @@
 "Compose_ScreenshotOptionLabel" = "Zahrnúť snímku obrazovky";
 
 /* Description explaining the option to include system data in the feedback. (80 chars.) */
-"Compose_SystemDataOptionExplanation" = "Pre zlepšenie diagnostiky problémov zdieľať so spoločnosťou Google systémové údaje.";
+"Compose_SystemDataOptionExplanation" = "Zdieľať s Googlom systémové údaje, aby bolo možné problém lepšie diagnostikovať";
 
 /* Label for the option to include the system data in the feedback. (50 chars.) */
 "Compose_SystemDataOptionLabel" = "Zahrnúť systémové údaje";
@@ -41,7 +41,7 @@
 "Preview_GoogleAccountLabel" = "Účet Google";
 
 /* Title for the screen showing a preview of the user feedback to be sent. (20 chars.) */
-"Preview_HeaderTitle" = "Náhľad sp. väzby";
+"Preview_HeaderTitle" = "Náhľad názoru";
 
 /* Label for the preview of the OS (Operating System) version number. (30 chars.) */
 "Preview_OSVersionLabel" = "Verzia operačného systému";

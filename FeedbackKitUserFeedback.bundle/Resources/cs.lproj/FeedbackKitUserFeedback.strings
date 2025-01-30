@@ -2,7 +2,7 @@
 "Compose_DescriptionPlaceholder" = "Napište svůj názor";
 
 /* Title for screen to send feedback. (40 chars.) */
-"Compose_HeaderTitle" = "Odeslat názor";
+"Compose_HeaderTitle" = "Odeslat zpětnou vazbu";
 
 /* Description explaining what it means to include your Google account in the feedback. (80 chars.) */
 "Compose_IncludeGoogleAccountExplanation" = "Zahrnout informace o vašem účtu Google";
